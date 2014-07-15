@@ -9,3 +9,26 @@ java -classpath classes:lib/test.jar test.Test
 显示默认参数
 java -XX:+PrintCommandLineFlags -version
 ```
+
+
+###### jvm cpu 诊断
+```shell
+占用 cpu 最高的线程
+top -p pid -H
+
+线程栈导出
+jstack -F pid > stack.log
+```
+
+
+###### jvm memory 诊断
+```shell
+dump 内存
+jmap -F -dump:format=b,file=heap.dump pid
+
+显示内存使用情况
+jmap -histo:live pid | head
+
+分析 dump 文件
+jhat -J-mx4096m -port 7000 heap.dump
+```
