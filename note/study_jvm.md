@@ -26,7 +26,7 @@ jstack -F pid > stack.log
 dump 内存
 jmap -F -dump:format=b,file=heap.dump pid
 
-显示内存使用情况
+显示内存使用情况，该命令会触发 gc 生产系统慎用
 jmap -histo:live pid | head
 
 分析 dump 文件
