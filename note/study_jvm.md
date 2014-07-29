@@ -1,4 +1,4 @@
-###### jvm 命令
+###### jvm command
 ```shell
 编译
 javac -d classes -sourcepath src -classpath classes:lib/test.jar src/test/Test1.java src/test/Test2.java
@@ -11,7 +11,7 @@ java -XX:+PrintCommandLineFlags -version
 ```
 
 
-###### jvm cpu 诊断
+###### jvm cpu 
 ```shell
 占用 cpu 最高的线程
 top -p pid -H
@@ -21,7 +21,7 @@ jstack -F pid > stack.log
 ```
 
 
-###### jvm memory 诊断
+###### jvm memory 
 ```shell
 dump 内存
 jmap -F -dump:format=b,file=heap.dump pid
@@ -31,4 +31,10 @@ jmap -histo:live pid | head
 
 分析 dump 文件
 jhat -J-mx4096m -port 7000 heap.dump
+```
+
+
+###### jvm options
+```shell
+
 ```
