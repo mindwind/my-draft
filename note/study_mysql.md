@@ -13,5 +13,5 @@ SELECT concat('_',hello,'_') FROM table WHERE field='test'
 
 ## 查表定义
 ```sql
-DESCRIBE chatlogs_pop
+DESCRIBE table1
 ``` 
