@@ -1,4 +1,4 @@
-###### jvm command
+## jvm command
 ```shell
 编译
 javac -d classes -sourcepath src -classpath classes:lib/test.jar src/test/Test1.java src/test/Test2.java
@@ -11,7 +11,7 @@ java -XX:+PrintCommandLineFlags -version
 ```
 
 
-###### jvm cpu 
+## jvm cpu 
 ```shell
 占用 cpu 最高的线程
 top -p pid -H
@@ -21,7 +21,7 @@ jstack -F pid > stack.log
 ```
 
 
-###### jvm memory 
+## jvm memory 
 ```shell
 dump 内存
 jmap -F -dump:format=b,file=heap.dump pid
@@ -34,14 +34,26 @@ jhat -J-mx4096m -port 7000 heap.dump
 ```
 
 
-###### jvm options
+## jvm options
+选项说明
+```
+-X  非标准选项 
+-XX 非稳定选项
+
+-XX:+<option>         启用选项
+-XX:-<option>         不启用选项
+-XX:<option>=<number> 给选项设置一个数字类型值，可跟单位，例如 32k, 1024m, 2g
+-XX:<option>=<string> 给选项设置一个字符串值，例如-XX:HeapDumpPath=./dump.core
+```
+
+### behavioral
 ```shell
-行为选项
 -XX:-AllowUserSignalHandlers  
     Do not complain if the application installs signal handlers. (Relevant to Solaris and Linux only.)
 
 -XX:-DisableExplicitGC
-    By default calls to System.gc() are enabled (-XX:-DisableExplicitGC). Use -XX:+DisableExplicitGC to disable calls to System.gc().
+    By default calls to System.gc() are enabled (-XX:-DisableExplicitGC). 
+    Use -XX:+DisableExplicitGC to disable calls to System.gc().
     Note that the JVM still performs garbage collection when necessary.
 
 -XX:+FailOverToOldVerifier
