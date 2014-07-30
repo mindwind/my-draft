@@ -36,5 +36,14 @@ jhat -J-mx4096m -port 7000 heap.dump
 
 ###### jvm options
 ```shell
+行为选项
+-XX:-AllowUserSignalHandlers  
+    Do not complain if the application installs signal handlers. (Relevant to Solaris and Linux only.)
 
+-XX:-DisableExplicitGC
+    By default calls to System.gc() are enabled (-XX:-DisableExplicitGC). Use -XX:+DisableExplicitGC to disable calls to System.gc().
+    Note that the JVM still performs garbage collection when necessary.
+
+-XX:+FailOverToOldVerifier
+    Fail over to old verifier when the new type checker fails. (Introduced in 6.)
 ```
