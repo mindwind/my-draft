@@ -58,4 +58,11 @@ jhat -J-mx4096m -port 7000 heap.dump
 
 -XX:+FailOverToOldVerifier
     Fail over to old verifier when the new type checker fails. (Introduced in 6.)
+
+-XX:+HandlePromotionFailure
+    The youngest generation collection does not require a guarantee of full promotion of all live objects. 
+    (Introduced in 1.4.2 update 11) [5.0 and earlier: false.]
+
+-XX:+MaxFDLimit
+    Bump the number of file descriptors to max. (Relevant  to Solaris only.)
 ```
