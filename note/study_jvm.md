@@ -64,5 +64,5 @@ jhat -J-mx4096m -port 7000 heap.dump
     (Introduced in 1.4.2 update 11) [5.0 and earlier: false.]
 
 -XX:+MaxFDLimit
-    Bump the number of file descriptors to max. (Relevant  to Solaris only.)
+    Bump the number of file descriptors to max. (Relevant to Solaris only.)
 ```
