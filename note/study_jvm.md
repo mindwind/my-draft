@@ -201,4 +201,114 @@ jhat -J-mx4096m -port 7000 heap.dump
     Optimize String concatenation operations where possible. (Introduced in Java 6 Update 20)  
 ```
 
+### debugging
+```
+-XX:-CITime
+    Prints time spent in JIT Compiler. (Introduced in 1.4.0.)
 
+-XX:ErrorFile=./hs_err_pid<pid>.log
+    If an error occurs, save the error data to this file. (Introduced in 6.)
+
+-XX:-ExtendedDTraceProbes
+    Enable performance-impacting dtrace probes. (Introduced in 6. Relevant to Solaris only.)
+
+-XX:HeapDumpPath=./java_pid<pid>.hprof
+    Path to directory or filename for heap dump. Manageable. (Introduced in 1.4.2 update 12, 5.0 update 7.)
+
+-XX:-HeapDumpOnOutOfMemoryError
+    Dump heap to file when java.lang.OutOfMemoryError is thrown. Manageable. (Introduced in 1.4.2 update 12, 5.0 update 7.)
+
+-XX:OnError="<cmd args>;<cmd args>"
+    Run user-defined commands on fatal error. (Introduced in 1.4.2 update 9.)
+
+-XX:OnOutOfMemoryError="<cmd args>;<cmd args>"
+    Run user-defined commands when an OutOfMemoryError is first thrown. (Introduced in 1.4.2 update 12, 6)
+
+-XX:-PrintClassHistogram
+    Print a histogram of class instances on Ctrl-Break. Manageable. (Introduced in 1.4.2.) The jmap -histo command provides equivalent functionality.
+
+-XX:-PrintConcurrentLocks
+    Print java.util.concurrent locks in Ctrl-Break thread dump. Manageable. (Introduced in 6.) The jstack -l command provides equivalent functionality.
+
+-XX:-PrintCommandLineFlags
+    Print flags that appeared on the command line. (Introduced in 5.0.)
+
+-XX:-PrintCompilation
+    Print message when a method is compiled.
+
+-XX:-PrintGC
+    Print messages at garbage collection. Manageable.
+
+-XX:-PrintGCDetails
+    Print more details at garbage collection. Manageable. (Introduced in 1.4.0.)
+
+-XX:-PrintGCTimeStamps
+    Print timestamps at garbage collection. Manageable (Introduced in 1.4.0.)
+
+-XX:-PrintTenuringDistribution
+    Print tenuring age information.
+
+-XX:-PrintAdaptiveSizePolicy
+    Enables printing of information about adaptive generation sizing.
+
+-XX:-TraceClassLoading
+    Trace loading of classes.
+
+-XX:-TraceClassLoadingPreorder
+    Trace all classes loaded in order referenced (not loaded). (Introduced in 1.4.2.)
+
+-XX:-TraceClassResolution
+    Trace constant pool resolutions. (Introduced in 1.4.2.)
+
+-XX:-TraceClassUnloading
+    Trace unloading of classes.
+
+-XX:-TraceLoaderConstraints
+    Tximum bytecode size of a method to be inlined.race recording of loader constraints. (Introduced in 6.)
+
+-XX:+PerfSaveDataToFile
+    Saves jvmstat binary data on exit.
+
+-XX:ParallelGCThreads=n
+    Sets the number of garbage collection threads in the young and old parallel garbage collectors. 
+    The default value varies with the platform on which the JVM is running.
+
+-XX:+UseCompressedOops
+    Enables the use of compressed pointers (object references represented as 32 bit offsets instead of 64-bit pointers) for optimized 64-bit performance with Java heap sizes less than 32gb.
+
+-XX:+AlwaysPreTouch
+    Pre-touch the Java heap during JVM initialization. Every page of the heap is thus demand-zeroed during initialization rather than incrementally during application execution.
+
+-XX:AllocatePrefetchDistance=n
+    Sets the prefetch distance for object allocation. Memory about to be written with the value of new objects is prefetched into cache at this distance (in bytes) beyond the address of the last allocated object. Each Java thread has its own allocation point. The default value varies with the platform on which the JVM is running.
+
+-XX:InlineSmallCode=n
+    Inline a previously compiled method only if its generated native code size is less than this. The default value varies with the platform on which the JVM is running.
+
+-XX:MaxInlineSize=35
+    Maximum bytecode size of a method to be inlined.
+
+-XX:FreqInlineSize=n
+    Maximum bytecode size of a frequently executed method to be inlined. The default value varies with the platform on which the JVM is running.
+
+-XX:LoopUnrollLimit=n
+    Unroll loop bodies with server compiler intermediate representation node count less than this value. The limit used by the server compiler is a function of this value, not the actual value. The default value varies with the platform on which the JVM is running.
+
+-XX:InitialTenuringThreshold=7
+    Sets the initial tenuring threshold for use in adaptive GC sizing in the parallel young collector. The tenuring threshold is the number of times an object survives a young collection before being promoted to the old, or tenured, generation.
+
+-XX:MaxTenuringThreshold=n
+    Sets the maximum tenuring threshold for use in adaptive GC sizing. The current largest value is 15. The default value is 15 for the parallel collector and is 4 for CMS.
+
+-Xloggc:<filename>
+    Log GC verbose output to specified file. The verbose output is controlled by the normal verbose GC flags.
+
+-XX:-UseGCLogFileRotation
+    Enabled GC log rotation, requires -Xloggc.
+
+-XX:NumberOfGClogFiles=1
+    Set the number of files to use when rotating logs, must be >= 1. The rotated log files will use the following naming scheme, <filename>.0, <filename>.1, ..., <filename>.n-1.
+
+-XX:GCLogFileSize=8K
+    The size of the log file at which point the log will be rotated, must be >= 8K.
+```
