@@ -280,7 +280,9 @@ jhat -J-mx4096m -port 7000 heap.dump
     Pre-touch the Java heap during JVM initialization. Every page of the heap is thus demand-zeroed during initialization rather than incrementally during application execution.
 
 -XX:AllocatePrefetchDistance=n
-    Sets the prefetch distance for object allocation. Memory about to be written with the value of new objects is prefetched into cache at this distance (in bytes) beyond the address of the last allocated object. Each Java thread has its own allocation point. The default value varies with the platform on which the JVM is running.
+    Sets the prefetch distance for object allocation. 
+    Memory about to be written with the value of new objects is prefetched into cache at this distance (in bytes) beyond the address of the last allocated object. 
+    Each Java thread has its own allocation point. The default value varies with the platform on which the JVM is running.
 
 -XX:InlineSmallCode=n
     Inline a previously compiled method only if its generated native code size is less than this. The default value varies with the platform on which the JVM is running.
@@ -292,13 +294,16 @@ jhat -J-mx4096m -port 7000 heap.dump
     Maximum bytecode size of a frequently executed method to be inlined. The default value varies with the platform on which the JVM is running.
 
 -XX:LoopUnrollLimit=n
-    Unroll loop bodies with server compiler intermediate representation node count less than this value. The limit used by the server compiler is a function of this value, not the actual value. The default value varies with the platform on which the JVM is running.
+    Unroll loop bodies with server compiler intermediate representation node count less than this value. 
+    The limit used by the server compiler is a function of this value, not the actual value. The default value varies with the platform on which the JVM is running.
 
 -XX:InitialTenuringThreshold=7
-    Sets the initial tenuring threshold for use in adaptive GC sizing in the parallel young collector. The tenuring threshold is the number of times an object survives a young collection before being promoted to the old, or tenured, generation.
+    Sets the initial tenuring threshold for use in adaptive GC sizing in the parallel young collector. 
+    The tenuring threshold is the number of times an object survives a young collection before being promoted to the old, or tenured, generation.
 
 -XX:MaxTenuringThreshold=n
-    Sets the maximum tenuring threshold for use in adaptive GC sizing. The current largest value is 15. The default value is 15 for the parallel collector and is 4 for CMS.
+    Sets the maximum tenuring threshold for use in adaptive GC sizing. 
+    The current largest value is 15. The default value is 15 for the parallel collector and is 4 for CMS.
 
 -Xloggc:<filename>
     Log GC verbose output to specified file. The verbose output is controlled by the normal verbose GC flags.
@@ -307,8 +312,46 @@ jhat -J-mx4096m -port 7000 heap.dump
     Enabled GC log rotation, requires -Xloggc.
 
 -XX:NumberOfGClogFiles=1
-    Set the number of files to use when rotating logs, must be >= 1. The rotated log files will use the following naming scheme, <filename>.0, <filename>.1, ..., <filename>.n-1.
+    Set the number of files to use when rotating logs, must be >= 1. 
+    The rotated log files will use the following naming scheme, <filename>.0, <filename>.1, ..., <filename>.n-1.
 
 -XX:GCLogFileSize=8K
     The size of the log file at which point the log will be rotated, must be >= 8K.
+```
+
+Garbage First (G1)
+```
+-XX:+UseG1GC
+    Use the Garbage First (G1) Collector
+
+-XX:MaxGCPauseMillis=n
+    Sets a target for the maximum GC pause time. This is a soft goal, and the JVM will make its best effort to achieve it.
+
+-XX:InitiatingHeapOccupancyPercent=n
+    Percentage of the (entire) heap occupancy to start a concurrent GC cycle. 
+    It is used by GCs that trigger a concurrent GC cycle based on the occupancy of the entire heap, not just one of the generations (e.g., G1). 
+    A value of 0 denotes 'do constant GC cycles'. The default value is 45.
+
+-XX:NewRatio=n
+    Ratio of old/new generation sizes. The default value is 2.
+
+-XX:SurvivorRatio=n
+    Ratio of eden/survivor space size. The default value is 8.
+
+-XX:MaxTenuringThreshold=n
+    Maximum value for tenuring threshold. The default value is 15.
+
+-XX:ParallelGCThreads=n
+    Sets the number of threads used during parallel phases of the garbage collectors. The default value varies with the platform on which the JVM is running.
+
+-XX:ConcGCThreads=n
+    Number of threads concurrent garbage collectors will use. The default value varies with the platform on which the JVM is running.
+
+-XX:G1ReservePercent=n
+    Sets the amount of heap that is reserved as a false ceiling to reduce the possibility of promotion failure. The default value is 10.
+
+-XX:G1HeapRegionSize=n
+    With G1 the Java heap is subdivided into uniformly sized regions. 
+    This sets the size of the individual sub-divisions. The default value of this parameter is determined ergonomically based upon heap size. 
+    The minimum value is 1Mb and the maximum value is 32Mb.
 ```
