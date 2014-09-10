@@ -319,7 +319,7 @@ jhat -J-mx4096m -port 7000 heap.dump
     The size of the log file at which point the log will be rotated, must be >= 8K.
 ```
 
-Garbage First (G1)
+### Garbage First (G1)
 ```
 -XX:+UseG1GC
     Use the Garbage First (G1) Collector
