@@ -31,7 +31,7 @@
   查看用户 tomcat 打开的文件数
 ```
 
-### 定时
+### 时间
 ```
 - at -f test.sh now + 5minutes      
   5分钟后执行 test.sh
