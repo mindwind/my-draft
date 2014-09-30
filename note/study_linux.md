@@ -70,4 +70,14 @@
   设置时间 
 ```
 
+### 权限
+```
+- chown -R user:group dir/file       
+  递归改变目录或文件拥有者和群组
 
+- chgrp -R groupname dir/file        
+  递归改变目录或文件的群组
+
+- chmod -R 755 dir/file               
+  r=4, w=2, x=1 改变权限
+```
