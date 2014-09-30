@@ -45,7 +45,6 @@
 - atrm 5                            
   将第 5 个 job 移除
 
-
 - crontab 0 12 * * *  command    
   在每天的 12:00 发信给自己
   0 12 * * * mail dmtsai -s "at 12:00" < /home/dmtsai/.bashrc
@@ -64,10 +63,11 @@
 - crontab -r                         
   删除全部内容
 
-
 - date -s 08/14/12                  
   设置日期
 
 - date -s 18:22:20                   
   设置时间 
 ```
+
+
