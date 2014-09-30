@@ -81,3 +81,23 @@
 - chmod -R 755 dir/file               
   r=4, w=2, x=1 改变权限
 ```
+
+### 文件
+```
+- chattr +AS file/dir 
+  配置文件隐藏属性，+A 不写 atime 提高 io 性能，+S 立即同步到磁盘
+- cp srcfile destfile
+  拷贝文件
+- cp -au srcfile/dir destfile/dir
+  备份文件（完整copy文件属性且只在源文件比目标文件新时覆盖）
+- cp -s srcfile destfile
+  创建symbolic link
+- cat /proc/cpuinfo
+  查看cpu信息
+- cat filename                       
+  完整查看文件 
+- cat /proc/version                  
+  查看内核版本
+- cat -n x.log | grep '21:58:' | more
+  查看日志文件
+```
