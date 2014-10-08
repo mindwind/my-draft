@@ -115,4 +115,15 @@
   将背景任务恢复到前景 fg %jobnumber
 ```
 
+### 字符串
+```
+- cut -d ':' -f 2
+  按冒号分割, 取分割后第二个域
+  echo $PATH | cut -d ':' -f 2
+- cut -c 12-
+  按字符数按列切割，
+  export | cut -c 12-
+  export | cut -c 12-30
 
+
+```
