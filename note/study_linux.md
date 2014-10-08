@@ -107,6 +107,24 @@
 
 - cat -n x.log | grep '21:58:' | more
   查看日志文件
+
+- find /home mtime +3(-3,3)
+  查找3天前（3天内，第3天）变动过的文件
+
+- find /home -user test
+  查找 test 用户的文件
+
+- find /home -name filename
+  按文件名查找
+
+- find /home -size +1G
+  查找大于1G的文件
+
+- find /home -exec command {} \;
+  find 之后额外指令（-exec和\;之间，{}代表find的结果）
+
+- file filename
+  观察文件类型（纯文本、二进制）
 ```
 
 ### 执行 
