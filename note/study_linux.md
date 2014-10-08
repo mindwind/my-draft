@@ -124,6 +124,28 @@
   按字符数按列切割，
   export | cut -c 12-
   export | cut -c 12-30
+```
 
+### 配置
+```
+- chsh -l
+  查看系统支持的 shell
+  echo $SHELL  查看正在使用的 shell
 
+- chsh -s /bin/csh
+  修改使用的 shell 程序
+
+- chkconfig --list | more
+  列出目前系统上面所有被 chkconfig 管理的服务
+
+- chkconfig --level 345 atd on
+  让 atd 这个服务在 run level 为 3, 4, 5 时启动 
+  linux os 将操作环境分为以下7个等级:
+  0: 开机(请不要切换到此等级)
+  1: 单人使用者模式的文字界面
+  2: 多人使用者模式的文字界面,不具有网络档案系统(NFS)功能
+  3: 多人使用者模式的文字界面,具有网络档案系统(NFS)功能
+  4: 某些发行版的 linux 使用此等级进入x windows system
+  5: 某些发行版的 linux 使用此等级进入x windows system
+  6: 重新启动
 ```
