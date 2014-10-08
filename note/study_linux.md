@@ -156,4 +156,7 @@
   4: 某些发行版的 linux 使用此等级进入x windows system
   5: 某些发行版的 linux 使用此等级进入x windows system
   6: 重新启动
+
+- ethtool eth0
+  查看网卡信息
 ```
