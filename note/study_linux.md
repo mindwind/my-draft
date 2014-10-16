@@ -155,6 +155,12 @@
   按字符数按列切割，
   export | cut -c 12-
   export | cut -c 12-30
+
+- grep 'word' filename 
+  在文件中查找 word
+
+- grep -v 'word' filename
+  查找不包含word的文档
 ```
 
 
@@ -183,4 +189,17 @@
 
 - ethtool eth0
   查看网卡信息
+```
+
+
+### 诊断 
+```
+- free -m
+  观察内存情况(单位 M)
+
+- free -g
+  观察内存情况(单位 G)
+
+- fuser -uv /var/gdm/.gdmfifo
+  找出使用该档案、目录的程序
 ```
