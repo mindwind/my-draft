@@ -160,6 +160,16 @@
 
 - fg %1
   将背景任务恢复到前景 fg %jobnumber
+
+- jobs -l
+  查看背景任务
+
+- kill -l
+  查看kill 信号列表
+
+- killall -9 java
+  强制杀掉所有java进程
+  e.g.: ps aux|grep 'test'|grep -v 'grep'|awk '{print $2}' | xargs kill -9
 ```
 
 
