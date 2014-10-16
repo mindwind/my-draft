@@ -29,6 +29,15 @@
 
 - lsof -u tomcat | wc -l
   查看用户 tomcat 打开的文件数
+
+- lsof -u root -a -U
+  仅列出root 的所有程序开启的 socket 文件
+
+- lsof +d /dev
+  列出目前系统上面所有被使用周边设备文件
+
+- lsof -u root | grep tomcat
+  列出属于 root tomcat 这支程序所开启的文件
 ```
 
 
