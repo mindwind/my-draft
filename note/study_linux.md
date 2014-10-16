@@ -82,6 +82,24 @@
 
 - chmod -R 755 dir/file               
   r=4, w=2, x=1 改变权限
+
+- groupadd group1
+  新增 group1 组
+
+- groupmod -n mygroup group1
+  改变组名，将 group1 重命名为 mygroup
+
+- groupdel group1
+  删除 group1 组
+
+- gpasswd -A vbird1 group1
+  root用户将 vbird1 设置为 group1 的群组管理员
+
+- gpasswd -a vbird3 testgroup
+  群组管理员将 vbird3 加入群组
+
+- id user
+  查询某人或自己的相关 UID/GID 等信息
 ```
 
 
