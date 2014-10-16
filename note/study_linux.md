@@ -155,6 +155,18 @@
 
 - file filename
   观察文件类型（纯文本、二进制）
+
+- ls -alht
+  查看文件详细信息（按合适的大小单位分行排列和时间排序）
+
+- lsattr file/dir
+  查看文件隐藏属性
+
+- ln -s target linkName
+  建立符号链接（不加-s 建立hard link）
+
+- locate somefile.txt
+  定位文件
 ```
 
 
