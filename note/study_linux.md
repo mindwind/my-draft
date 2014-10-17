@@ -167,6 +167,9 @@
 
 - locate somefile.txt
   定位文件
+
+- less -N file
+  查看文件内容（显示行号 space=向下翻页， b=向上翻页， /word 搜索）
 ```
 
 
