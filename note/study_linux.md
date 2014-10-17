@@ -241,6 +241,27 @@
 
 - ethtool eth0
   查看网卡信息
+
+- more /etc/services
+  查看 linux 服务
+
+- more /etc/resolv.conf
+  查看 dns 配置
+
+- more /etc/sysconfig/network-scripts/ifcfg-eth0
+  查看网卡配置
+
+- modinfo cifs
+  Program to show information about a Linux Kernel module
+
+- modprobe cifs
+  加载 cifs 模块
+
+- modprobe -r cifs
+  移除 cifs 模块
+
+- mesh y/n
+  Control write access to your terminal, Allow write access to your terminal, or disallow.
 ```
 
 
@@ -261,5 +282,13 @@
 - lsof -i TCP:1-1024
   查找指定端口范围的进程
 
+- ldd $(which sshd httpd)            
+  library dependency discovery 依赖库寻找
+
+- lsmod
+  系统会显示出目前已经存在于核心当中的模块 
+
+- lsb_release -a
+  查看 linux 发行版本
 
 ```
