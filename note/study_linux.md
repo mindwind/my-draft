@@ -109,6 +109,13 @@
 
 - id user
   查询某人或自己的相关 UID/GID 等信息
+
+- passwd test1
+  修改密码
+- passwd -l test1
+  锁定
+- passwd -u test1
+  解锁
 ```
 
 
@@ -201,7 +208,15 @@
 - killall -9 java
   强制杀掉所有java进程
   e.g.: ps aux|grep 'test'|grep -v 'grep'|awk '{print $2}' | xargs kill -9
+
+- nohup ./sleep500.sh &
+  Run a command immune to hangups, with output to a non-tty
+
+- nice -n -5 vi &
+  Run a program with modified scheduling priority 
+
 ```
+
 
 
 ### 字符串
@@ -298,4 +313,15 @@
 - lsb_release -a
   查看 linux 发行版本
 
+- netstat -nplt
+  找出目前系统上已在监听的网络联机及其PID
+
+- netstat -an | grep 'ESTABLISHED' | wc -l                                
+  查看建立的连接数
+
+- netstat -n | awk '/^tcp/ {++S[$NF]} END {for(a in S) print a, S[a]}'    
+  统计连接状态
+
+- nslookup baidu.com
+  查看域名对应的ip
 ```
