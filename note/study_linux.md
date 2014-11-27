@@ -215,6 +215,12 @@
 - nice -n -5 vi &
   Run a program with modified scheduling priority
 
+- rpm -ivh                           
+  安装 rpm 包
+
+- rpm --force -ivh 
+  强制安装，忽略冲突
+
 ```
 
 
@@ -284,6 +290,12 @@
 
 - mesh y/n
   Control write access to your terminal, Allow write access to your terminal, or disallow.
+
+- renice 10 pid                      
+  Alter priority of running processes
+
+- route add default gw 10.28.171.1   
+  增加默认网关
 ```
 
 
