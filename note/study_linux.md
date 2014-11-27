@@ -43,53 +43,53 @@
 
 ### 时间
 ```
-- at -f test.sh now + 5minutes      
+- at -f test.sh now + 5minutes
   5分钟后执行 test.sh
 
-- at -f test.sh 23:00 2013-01-14     
+- at -f test.sh 23:00 2013-01-14
   指定时间执行 test.sh
 
 - atq  
   查询目前主机上面有多少 at job
 
-- atrm 5                            
+- atrm 5
   将第 5 个 job 移除
 
-- crontab 0 12 * * *  command    
+- crontab 0 12 * * *  command
   在每天的 12:00 发信给自己
   0 12 * * * mail dmtsai -s "at 12:00" < /home/dmtsai/.bashrc
   代表意: 分钟 小时 日期 月 周 指令
   数字范围  0-59   0-23    1-31   1-12  0-7   command
-  0 3,6 * * *   command              
+  0 3,6 * * *   command
   时间参数还是有五栏,不过第二栏是 3,6 ,代表 3 和 6 都适用
-  20 8-12 * * * command              
+  20 8-12 * * * command
   8 点到 12 点间的每小时的 20 分都进行一项工作
-  */n * * * *   command              
+  */n * * * *   command
   那个 n 代表数字，亦即是 [每隔 n 单位间隔] 的意思，例如每 n 分钟进行一次
 
-- crontab -l                         
+- crontab -l
   查询使用者目前的 crontab 内容
 
-- crontab -r                         
+- crontab -r
   删除全部内容
 
-- date -s 08/14/12                  
+- date -s 08/14/12
   设置日期
 
-- date -s 18:22:20                   
-  设置时间 
+- date -s 18:22:20
+  设置时间
 ```
 
 
 ### 权限
 ```
-- chown -R user:group dir/file       
+- chown -R user:group dir/file
   递归改变目录或文件拥有者和群组
 
-- chgrp -R groupname dir/file        
+- chgrp -R groupname dir/file
   递归改变目录或文件的群组
 
-- chmod -R 755 dir/file               
+- chmod -R 755 dir/file
   r=4, w=2, x=1 改变权限
 
 - groupadd group1
@@ -121,7 +121,7 @@
 
 ### 文件
 ```
-- chattr +AS file/dir 
+- chattr +AS file/dir
   配置文件隐藏属性，+A 不写 atime 提高 io 性能，+S 立即同步到磁盘
 
 - cp srcfile destfile
@@ -136,10 +136,10 @@
 - cat /proc/cpuinfo
   查看cpu信息
 
-- cat filename                       
-  完整查看文件 
+- cat filename
+  完整查看文件
 
-- cat /proc/version                  
+- cat /proc/version
   查看内核版本
 
 - cat -n x.log | grep '21:58:' | more
@@ -178,7 +178,7 @@
 - less -N file
   查看文件内容（显示行号 space=向下翻页， b=向上翻页， /word 搜索）
 
-- mkdir -m 755 /t1 
+- mkdir -m 755 /t1
   创建目录并预设权限
 
 - mkdir -p /t1/t2/t3
@@ -187,9 +187,9 @@
 
 
 
-### 执行 
+### 执行
 ```
-- batch                              
+- batch
   要在系统平均负载量降到 0.8 以下时执行某项一次性的任务，使用 batch 命令
   键入 batch 命令后，at> 提示就会出现。键入要执行的命令，按 [Enter] 键，然后键入 Ctrl-D；类似于at命令的操作；
 
@@ -213,7 +213,7 @@
   Run a command immune to hangups, with output to a non-tty
 
 - nice -n -5 vi &
-  Run a program with modified scheduling priority 
+  Run a program with modified scheduling priority
 
 ```
 
@@ -230,7 +230,7 @@
   export | cut -c 12-
   export | cut -c 12-30
 
-- grep 'word' filename 
+- grep 'word' filename
   在文件中查找 word
 
 - grep -v 'word' filename
@@ -251,7 +251,7 @@
   列出目前系统上面所有被 chkconfig 管理的服务
 
 - chkconfig --level 345 atd on
-  让 atd 这个服务在 run level 为 3, 4, 5 时启动 
+  让 atd 这个服务在 run level 为 3, 4, 5 时启动
   linux os 将操作环境分为以下7个等级:
   0: 开机(请不要切换到此等级)
   1: 单人使用者模式的文字界面
@@ -287,7 +287,7 @@
 ```
 
 
-### 诊断 
+### 诊断
 ```
 - free -m
   观察内存情况(单位 M)
@@ -304,11 +304,11 @@
 - lsof -i TCP:1-1024
   查找指定端口范围的进程
 
-- ldd $(which sshd httpd)            
+- ldd $(which sshd httpd)
   library dependency discovery 依赖库寻找
 
 - lsmod
-  系统会显示出目前已经存在于核心当中的模块 
+  系统会显示出目前已经存在于核心当中的模块
 
 - lsb_release -a
   查看 linux 发行版本
@@ -316,12 +316,39 @@
 - netstat -nplt
   找出目前系统上已在监听的网络联机及其PID
 
-- netstat -an | grep 'ESTABLISHED' | wc -l                                
+- netstat -an | grep 'ESTABLISHED' | wc -l
   查看建立的连接数
 
-- netstat -n | awk '/^tcp/ {++S[$NF]} END {for(a in S) print a, S[a]}'    
+- netstat -n | awk '/^tcp/ {++S[$NF]} END {for(a in S) print a, S[a]}'
   统计连接状态
 
 - nslookup baidu.com
   查看域名对应的ip
+
+- ps aux | grep tomcat
+  查看 tomcat 进程
+  USER     PID     %CPU    %MEM     VSZ      COMMAND
+  USER   : 该 process 属亍那个使用者账号的?
+  PID    : 该 process 的程序标识符。
+  %CPU   : 该 process 使用掉的 CPU 资源百分比;
+  %MEM   : 该 process 所占用的物理内存百分比;
+  VSZ    : 该 process 使用掉的虚拟内存量 (Kbytes)
+  RSS    : 该 process 占用的固定的内存量 (Kbytes)
+  TTY    : 该 process 是在哪个终是本机上面的登入者程序,若为 pts/0 等等,则表示为由网络连接主机的程序。
+  STAT   : 该程序目前的状态僵尸进程，X-死掉的进程
+  START  : 该 process 启动时间;
+  TIME   : 该 process 实际使用 CPU 运作的时间。
+  COMMAND: 该程序的实际指令
+
+- ps -eo lstart,etime,pid | grep pid
+  查看进程启动和运行时间
+
+- pstree 
+  查看程序之间的相关性
+
+- pwdx pid                           
+  查看进程工作目录 e.g. ps -ef|awk '{print $2}'|grep -v PID | xargs pwdx
+
+- pidof init syslogd
+  Find the process ID of a running program.
 ```
