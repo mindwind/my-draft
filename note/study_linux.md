@@ -112,10 +112,15 @@
 
 - passwd test1
   修改密码
+
 - passwd -l test1
   锁定
+
 - passwd -u test1
   解锁
+
+- su - username 
+  切换身份, run a shell with substitute user and group IDs  
 ```
 
 
@@ -183,6 +188,24 @@
 
 - mkdir -p /t1/t2/t3
   递归建立多层目录
+
+- split -b 300k /etc/termcap prefix 
+  按字节拆分文件
+
+- split -l 500 /etc/termcap prefix 
+  按行数拆分文件
+
+- scp -r /src/dir root@ip:/dst/dir         
+  远程拷贝，复制目录  从本地到远程
+
+- scp /src/file root@ip:/dst/dir           
+  远程拷贝，复制文件  从本地到远程
+
+- scp -r root@ip:/src/dir /dst/dir         
+  远程拷贝，复制目录  从远程到本地
+
+- scp root@ip:/src/file /dst/file          
+  远程拷贝，复制文件  从远程到本地
 ```
 
 
@@ -221,6 +244,20 @@
 - rpm --force -ivh 
   强制安装，忽略冲突
 
+- shutdown -h now   
+  立刻关机
+
+- shutdown -h 23:30 
+  今晚23点半关机
+
+- shutdown -h +10   
+  十分钟后关机
+
+- shutdown -r now   
+  立刻重启
+
+- sudo -u sshd touch /tmp/mysshd
+  Execute a command as another user, 默认sudo以root用户执行
 ```
 
 
@@ -246,6 +283,32 @@
 
 ### 配置
 ```
+- sysctl                                        
+  Configure kernel parameters at runtime，配置文件 /etc/sysctl.conf
+
+- sysctl -w net.ipv4.tcp_tw_recycle=1                  
+  开启TCP连接中TIME-WAIT sockets的快速回收
+
+- sysctl -a                                            
+   Display all values currently available.
+
+- sysctl -w net.ipv4.ip_local_port_range=1025 65535    
+  设置本地端口使用范围
+
+- sesearch -a -t httpd_sys_content_t 
+  SELinux policy query tool
+
+- seinfo -b | grep httpd 
+  查看SELinux policy和规则设定
+
+- setenforce                          
+  Modify the mode SELinux is running in
+  setenforce 1/Enforcing   强制模式
+  setenforce 0/Permissive  宽容模式
+
+- sestatus 
+  查看 SELinux Policy 对应配置 vi /etc/selinux/config
+
 - chsh -l
   查看系统支持的 shell
   echo $SHELL  查看正在使用的 shell
