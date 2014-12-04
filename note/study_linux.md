@@ -206,6 +206,30 @@
 
 - scp root@ip:/src/file /dst/file          
   远程拷贝，复制文件  从远程到本地
+
+- tar -czf file.tar.gz file/dir                          
+  打包压缩 
+
+- tar -zpcvf /tmp/etc.tar.gz /etc > /tmp/log.txt 2>&1 &  
+  重定向后台执行
+
+- tar -czf - file/dir                                   
+  打包压缩到当前目录，日志输出到stdout
+
+- tar -xzf file.tar.gz                                   
+  解压到当前目录
+
+- tar -xvf file.tar.gz -C ./dst                          
+  解压到到dst目录
+
+- test -e /dmtsai && echo "exist" || echo "not exist"    
+  测试文件是否存在
+
+- test -f /dmtsai && echo "file"  || echo "not file"      
+  测试是否文件 
+
+- test -d /dmtsai && echo "dir"   || echo "not dir"        
+  测试是否目录
 ```
 
 
@@ -278,6 +302,10 @@
 
 - grep -v 'word' filename
   查找不包含word的文档
+
+- cat /etc/hosts|tr -d '\r' > /tmp/hosts 
+  删除hosts文件中的'\r'字符，并重定向到/tmp/hosts文件
+  tr: translate or delete character
 ```
 
 
@@ -426,4 +454,64 @@
 
 - pidof init syslogd
   Find the process ID of a running program.
+
+- top -d 2 -p 1678 
+  动态观察进程 pid=1678 每隔 2 秒刷新一次
+
+- top -p 12453 -H 
+  观察进程 12453 中线程的 cpu 占用情况
+
+- top
+  ? : 显示在 top 当中可以输入的指令
+  1 : 多核 cpu 切换
+  P : 以 cpu 的使用资源排序显示
+  M : 以 memory 的使用资源排序显示
+  N : 以 pid 来排序
+  T : 由该 process 使用的 cpu 时间累积 (TIME+) 排序
+  k : 给予某个 pid 一个信号 (signal)
+  r : 给予某个 pid 重新制订一个 nice 值
+  q : 离开 top
+  
+  输出结果说明:
+  第一行: 总体情况
+    14:00:24                       - 当前时间
+    up 2 days, 23:13               - 开机以来运行时间
+    8 users                        - 当前用户数
+    load average: 0.01, 0.01, 0.00 - 1, 5, 15 分钟的系统平均负载
+  
+  第二行: 进程任务
+    Tasks: 165 total, 1 running, 164 sleeping, 0 stopped, 0 zombie
+  
+  第三行: Cpu(s)
+    0.2%us  -  用户空间占用 cpu 百分比
+    0.2%sy  -  内核空间占用 cpu 百分比 
+    0.0%ni  -  用户进程空间内改变过优先级的进程占用 cpu 百分比
+    99.5%id -  空闲 cpu 百分比
+    0.0%wa  -  等待 i/o 的 cpu 时间百分比  
+    0.0%hi  -  硬中断
+    0.2%si  -  软中断
+
+  第四行: Mem
+    2023568k total
+    1976384k used
+    47184k   free  
+    126288k  buffers （用作内核缓存的内存量）
+
+  第五行: Swap
+    4063224k total
+    744080k  used
+    3319144k free
+
+  PID    USER     PR     NI     VIRT     RES     SHR     S     %CPU     %MEM     TIME+    COMMAND                
+   1     root     15     0     10368     592     560     S     0.0      0.0      0:01.14   init   
+  3892   root     23     0     2047m     328m    10m     S     0.7      2.1      1163:00   java
+  
+  PID  - 进程 id
+  USER - 进程所属用户     
+  PR   - Priority 的简写，程序的优先执行顸序，越小越早被执行
+  NI   - Nice 的简写，也是越小越早被执行; nice 值范围为 -20 ~ 19 PRI(new) = PRI(old) + nice
+  VIRT - 进程使用的虚拟内存总量，默认单位kb，VIRT = SWAP + RES
+  SHR  - 共享内存大小，默认单位kb
+  S    - 进程状态
+  TIME - CPU 使用时间的累加        
 ```
