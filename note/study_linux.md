@@ -304,6 +304,10 @@
 
 - wall "I will shutdown my linux server…"  
   广播消息
+
+- xargs
+  find /sbin -perm +7000 | xargs ls -l
+  build and execute command lines from standard input
 ```
 
 
