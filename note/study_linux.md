@@ -121,6 +121,18 @@
 
 - su - username 
   切换身份, run a shell with substitute user and group IDs  
+
+- useradd test1 
+  创建账户
+
+- useradd -g testgroup test2
+  创建账号并添加到分组
+
+- usermod -e "2009-12-31" vbird2 
+  修改账号属性，用户 vbird2 密码在 2009/12/31 失效
+
+- userdel -r vbird2 
+  删除 vbird2 ,连同家目录一起删除
 ```
 
 
@@ -387,6 +399,9 @@
 
 - route add default gw 10.28.171.1   
   增加默认网关
+
+- ulimit -u  65535 
+  修改单个用户允许的最大进程数
 ```
 
 
@@ -513,5 +528,8 @@
   VIRT - 进程使用的虚拟内存总量，默认单位kb，VIRT = SWAP + RES
   SHR  - 共享内存大小，默认单位kb
   S    - 进程状态
-  TIME - CPU 使用时间的累加        
+  TIME - CPU 使用时间的累加     
+
+- uname -a 
+  查阅系统核心相关信息 等同于 cat /proc/version   
 ```
