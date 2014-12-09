@@ -242,6 +242,10 @@
 
 - test -d /dmtsai && echo "dir"   || echo "not dir"        
   测试是否目录
+
+- wc -l filename                           
+  查看文件行数   
+  e.g. ps -ef | grep java | wc -l   统计 java 进程数
 ```
 
 
@@ -294,6 +298,12 @@
 
 - sudo -u sshd touch /tmp/mysshd
   Execute a command as another user, 默认sudo以root用户执行
+
+- write vbird1 pts/2 
+  向其他用户发送消息
+
+- wall "I will shutdown my linux server…"  
+  广播消息
 ```
 
 
@@ -535,7 +545,7 @@
 
 - vmstat 5                                
   reports information about processes, memory, paging, block IO, traps, and cpu activity with 5 seconds delay.
-  
+
        procs -----------memory----------  --swap--  ----io----  --system--   -----cpu------
        r b     swpd free  buff   cache      si so      bi bo     in   cs     us sy id wa st
        0 0     136  84944 141268 13801476   0  0       8  66     1    1      1  0  99 0  0
