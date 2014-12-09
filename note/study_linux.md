@@ -532,4 +532,45 @@
 
 - uname -a 
   查阅系统核心相关信息 等同于 cat /proc/version   
+
+- vmstat 5                                
+  reports information about processes, memory, paging, block IO, traps, and cpu activity with 5 seconds delay.
+  
+       procs -----------memory----------  --swap--  ----io----  --system--   -----cpu------
+       r b     swpd free  buff   cache      si so      bi bo     in   cs     us sy id wa st
+       0 0     136  84944 141268 13801476   0  0       8  66     1    1      1  0  99 0  0
+       0 0     136  83952 141276 13802656   0 0        0 380     1108 975    1  0  99 0  0
+
+       
+       procs
+         r:    The number of processes waiting for run time.
+         b:    The number of processes in uninterruptible sleep.
+       
+       memory
+         swpd:   The amount of virtual memory used.
+         free:   The amount of idle memory.
+         buff:   The amount of memory used as buffers.
+         cache:  The amount of memory used as cache.
+         inapt:  The amount of inactive memory. (-a option)
+         active: The amount of active memory. (-a option)
+
+       swap
+         si:     Amount of memory swapped in from disk (/s).
+         so:     Amount of memory swapped to disk (/s).
+
+       io
+         bi:     Blocks received from a block device (blocks/s).
+         bo:     Blocks sent to a block device (blocks/s).
+
+       system
+         in:     The number of interrupts per second, including the clock.
+         cs:     The number of context switches per second.
+       
+       cpu
+         These are percentages of total CPU time.
+         us:     Time spent running non-kernel code. (user time, including nice time)
+         sy:     Time spent running kernel code. (system time)
+         id:     Time spent idle. Prior to Linux 2.5.41, this includes IO-wait time.
+         wa:     Time spent waiting for IO. Prior to Linux 2.5.41, included in idle.
+         st:     Time stolen from a virtual machine. Prior to Linux 2.6.11, unknown.
 ```
