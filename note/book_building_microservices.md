@@ -1,6 +1,17 @@
 
+## 1. 微服务架构
+
 
 ## 2. 微服务架构进化
+
+
+### Strategic Goals & Principled Approach & Practice
+If you’re the person defining the company’s technical vision, this may mean you’ll need to spend more time with the nontechnical parts of your organization
+
+Rules are for the obedience of fools and the guidance of wise men.  -- Generally attributed to Douglas Bader
+Making decisions in system design is all about trade-offs, and microservice architectures give us lots of trade-offs to make!
+
+
 
 ### Building a Team
 With larger, monolithic systems, there are fewer opportunities for people to step up and own something. With microservices, on the other hand, we have multiple autonomous codebases that will have their own independent lifecycles. Helping people step up by having them take ownership of individual services before accepting more responsibility can be a great way to help them achieve their own career goals, and at the same time lightens the load on whoever is in charge!
