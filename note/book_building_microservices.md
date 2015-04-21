@@ -1,8 +1,18 @@
 
-## 1. 微服务架构
+## 1. 微服务概念
+### Small, and Focused on Doing One Thing Well
+microservices. This is reinforced by Robert C. Martin’s definition of the Single Responsibility Principle, which states “Gather together those things that change for the same reason, and separate those things that change for different reasons.”
 
 
 ## 2. 微服务架构进化
+### An Evolutionary Vision for the Architect
+To borrow a term from Frank Buschmann, architects have a duty to ensure that the system is habitable for developers too.
+
+So our architects as town planners need to set direction in broad strokes, and only get involved in being highly specific about implementation detail in limited cases.
+
+
+## Zoning
+That means we need to spend time thinking about how our services talk to each other, or ensuring that we can properly monitor the overall health of our system.
 
 
 ### Strategic Goals & Principled Approach & Practice
@@ -10,7 +20,6 @@ If you’re the person defining the company’s technical vision, this may mean 
 
 Rules are for the obedience of fools and the guidance of wise men.  -- Generally attributed to Douglas Bader
 Making decisions in system design is all about trade-offs, and microservice architectures give us lots of trade-offs to make!
-
 
 
 ### Building a Team
