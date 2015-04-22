@@ -1,7 +1,53 @@
+---
+title     : Building Microservices 读书笔记
+date      : 2015-04-21
+---
 
-## 1. 微服务概念
-### Small, and Focused on Doing One Thing Well
-microservices. This is reinforced by Robert C. Martin’s definition of the Single Responsibility Principle, which states “Gather together those things that change for the same reason, and separate those things that change for different reasons.”
+
+## 1. Microservices
+### 脉络
+Microservices 定义
+Microservices are small, autonomous services
+  1. Small, and Focused on Doing One Thing Well
+  2. Autonomous
+
+
+Microservices 的优势
+  1. Technology Heterogeneity  [技术多样性，对不同的业务场景选择最合适的技术]
+  2. Resilience  [快速可恢复性]
+  3. Scaling   [扩展性，不均匀的扩展]
+  4. Ease of Deployment  [易部署性，仅仅部署受影响的服务]
+  5. Organizational Alignment [人员组织架构的适应性，康威定律]
+  6. Composability [可组合性]
+  7. Optimizing for Replaceability [替换性]
+
+
+SOA 和 Microservices 对比
+Service-oriented architecture (SOA) is a design approach where multiple services collaborate to provide some end set of capabilities.
+[SOA 是一种服务化架构方法论，而 Microservices 是一种具体实践该方法，类似 Unicode 和 UTF-8 的关系]
+
+
+其他解耦合技术
+1. Shared Libraries
+   drawbacks [共享库的缺点]
+     - lose true technology heterogeneity.
+     - scale parts of system independently from each other is curtailed.
+     - ability to deploy changes in isolation is reduced.
+   Creating code for common tasks that aren’t specific to your business domain that you want to reuse across the organization
+    [适合共享库的地方是业务领域无关的公共任务]
+
+2. Modules
+   They allow some lifecycle management of the modules, such that they can be deployed into a running process, allowing you to make changes without taking the whole process down, Like java OSGI, Erlang.
+   [目前的动态模块化技术在实践中并未大规模采用，不够成熟。]
+
+
+### 亮点
+This is reinforced by Robert C. Martin’s definition of the Single Responsibility Principle, which states “Gather together those things that change for the same reason, and separate those things that change for different reasons.”
+
+So you should instead think of microservices as a specific approach for SOA in the same way that XP or Scrum are specific approaches for Agile software development.
+
+Having a process boundary separation does enforce clean hygiene in this respect (or at least makes it harder to do the wrong thing!).
+
 
 
 ## 2. 微服务架构进化
