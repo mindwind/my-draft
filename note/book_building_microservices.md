@@ -50,27 +50,61 @@ Having a process boundary separation does enforce clean hygiene in this respect 
 
 
 
-## 2. 微服务架构进化
-### An Evolutionary Vision for the Architect
+
+--------------------------------------------------------------------------------
+
+
+## 2. The Evolutionary Architect
+### 脉络
+Inaccurate Comparisons
+[比较建筑和软件，Architect 这个词来源于建筑学，但软件产品和建筑物的性质完全不同]
+
+An Evolutionary Vision for the Architect
+[软件系统会在其生命周期中不断变化，唯一不变的就是变化，拥抱变化，用进化的观点看待架构演进]
+
+Zoning
+[软件架构师更像是城市规划师而非建筑师，对软件进行类似城市划分区域的规划，一个垃圾处理厂不应该进入生活区]
+
+A Principled Approach
+Strategic Goals & Architectual Principle & Design and Code Practice
+[架构如何服务于战略目标，架构原则和设计编码实践，原则来源于实践变化较少，而实践方式在工作中不断优化改变]
+
+The Required Standard
+[定义服务标准，接口定义规范化，监控统一，保障架构的安全性，避免雪崩效应]
+
+Governance Through Code
+[Dropwizard](www.dropwizard.io) and [Karyon](github.com/Netflix/karyon) are two open source, JVM-based microcontainers
+a circuit breaker library like [Hystrix](github.com/Netflix/Hystrix)
+[定义服务模板，作好代码规范管理]
+
+Governance and Leading from the Center
+Architects are responsible for a lot of things. They need to ensure there is a set of principles that can guide development, and that these principles match the organization’s strategy. They need to make sure as well that these principles don’t require working practices that make developers miserable. They need to keep up to date with new technology, and know when to make the right trade-offs. This is an awful lot of responsibility. All that, and they also need to carry people with them — that is, to ensure that the colleagues they are working with understand the decisions being made and are brought in to carry them out. Oh, and as we’ve already mentioned: they need to spend some time with the teams to understand the impact of their decisions, and perhaps even code too.
+
+Think about teaching children to ride a bike. You can’t ride it for them. You watch them wobble, but if you stepped in every time it looked like they might fall off, then they’d never learn, and in any case they fall off far less than you think they will! But if you see them about to veer into traffic, or into a nearby duck pond, then you have to step in.
+[微服务化架构下架构师的职责，如何从中心掌控全局？以服务划分责任，让团队和服务分组绑定，自治管理，作好监护。]
+
+Building a Team
+[微服务架构让服务帮助开发人员（服务拥有者）增强责任感，我的地盘我做主，有利于个人职业生涯发展。]
+
+
+### 亮点
 To borrow a term from Frank Buschmann, architects have a duty to ensure that the system is habitable for developers too.
 
 So our architects as town planners need to set direction in broad strokes, and only get involved in being highly specific about implementation detail in limited cases.
 
-
-## Zoning
 That means we need to spend time thinking about how our services talk to each other, or ensuring that we can properly monitor the overall health of our system.
 
 
-### Strategic Goals & Principled Approach & Practice
 If you’re the person defining the company’s technical vision, this may mean you’ll need to spend more time with the nontechnical parts of your organization
 
 Rules are for the obedience of fools and the guidance of wise men.  -- Generally attributed to Douglas Bader
 Making decisions in system design is all about trade-offs, and microservice architectures give us lots of trade-offs to make!
 
-
-### Building a Team
 With larger, monolithic systems, there are fewer opportunities for people to step up and own something. With microservices, on the other hand, we have multiple autonomous codebases that will have their own independent lifecycles. Helping people step up by having them take ownership of individual services before accepting more responsibility can be a great way to help them achieve their own career goals, and at the same time lightens the load on whoever is in charge!
-微服务架构让服务帮助开发人员（服务拥有者）增强责任感，我的地盘我做主，有利于个人职业生涯发展。
+
+
+
+--------------------------------------------------------------------------------
 
 
 ## 3. 微服务建模
