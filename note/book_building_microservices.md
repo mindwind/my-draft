@@ -130,8 +130,26 @@ I called this onion architecture, as it had lots of layers and made me cry when 
 
 ## 4. Integration
 ### 脉络
-Orchestration Versus Choreography
-With orchestration, we rely on a central brain to guide and drive the process, much like the conductor in an orchestra. With choreography, we inform each part of the system of its job, and let it work out the details, like dancers all finding their way and reacting to others around them in a ballet.
+Looking for the Ideal Integration Technology
+  - Avoid Breaking Changes
+  - Keep Your APIs Technology-Agnostic
+  - Make Your Service Simple for Consumers
+  - Hide Internal Implementation Detail
 
-[选择乐队模式（有一个中心指挥），还是舞蹈方式（事件响应模式）乐队模式存在中心的 God Service，容易形成强耦合，但更有利于监控整个业务流程舞蹈模式，服务更自治，更松耦合，但无法直观反应业务流。
-中心化和去中心化的选择？？]
+
+Orchestration Versus Choreography
+[中心化（乐队指挥）和去中心化（舞蹈者自组织）的选择？？]
+
+
+Remote Procedure Calls
+  - Technology Coupling [技术耦合，绑定到特定平台]
+  - Local Calls Are Not Like Remote Calls [隐藏了网络传输，滥用导致性能问题]
+  - Brittleness [接口变更导致 consumer 同步变更]
+
+REST
+[性能和易用性不如 RPC，更适合作为和外部异构系统的服务接口]
+
+
+### 亮点
+With orchestration, we rely on a central brain to guide and drive the process, much like the conductor in an orchestra. With choreography, we inform each part of the system of its job, and let it work out the details, like dancers all finding their way and reacting to others around them in a ballet.
+[选择乐队模式（有一个中心指挥），还是舞蹈方式（事件响应模式）乐队模式存在中心的 God Service，容易形成强耦合，但更有利于监控整个业务流程舞蹈模式，服务更自治，更松耦合，但无法直观反应业务流。]
