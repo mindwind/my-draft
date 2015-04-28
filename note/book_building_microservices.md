@@ -150,6 +150,27 @@ REST
 [性能和易用性不如 RPC，更适合作为和外部异构系统的服务接口]
 
 
+Implementing Asynchronous Event-Based Collaboration
+MQ, HTTP ATOM [关注异步带来的复杂性]
+
+
+Reactive Extensions
+As you find yourself making more service calls, especailly when making multiple calls to perform a single operation, take a look at the reactive extensions for your chosen technology stack. such as RxJava.
+
+
+DRY and the Perils of Code Reuse in a Microservice World
+My general rule of thumb: don’t violate DRY within a microservice, but be relaxed about violating DRY across all services.
+
+
+Versioning
+Postel’s Law (otherwise known as the robustness principle), which states: “Be conservative in what you do, be liberal in what you accept from others.”  
+[发送保守，接收开放]
+
+
 ### 亮点
 With orchestration, we rely on a central brain to guide and drive the process, much like the conductor in an orchestra. With choreography, we inform each part of the system of its job, and let it work out the details, like dancers all finding their way and reacting to others around them in a ballet.
 [选择乐队模式（有一个中心指挥），还是舞蹈方式（事件响应模式）乐队模式存在中心的 God Service，容易形成强耦合，但更有利于监控整个业务流程舞蹈模式，服务更自治，更松耦合，但无法直观反应业务流。]
+
+
+keep your middleware dumb, and keep the smarts in the endpoints.
+[中间件不需要那么智能，这样只会让系统的交互行为变得不可预测，智能逻辑放在服务端]
