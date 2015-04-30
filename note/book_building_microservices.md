@@ -174,3 +174,50 @@ With orchestration, we rely on a central brain to guide and drive the process, m
 
 keep your middleware dumb, and keep the smarts in the endpoints.
 [中间件不需要那么智能，这样只会让系统的交互行为变得不可预测，智能逻辑放在服务端]
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+## 6. Deployment
+### 脉络
+Build Pipelines and Continuous Delivery
+[构建流水化]
+
+Service Configuration
+[中心配置服务]
+
+Single Service Per Host
+[最适合微服务架构的部署方案，实现物理资源隔离，需要虚拟化(Hypervisor)、容器化(LXC, Docker) 等技术支持]
+
+Automation
+[没有自动化工具链的支持千万不要采用微服务架构]
+
+From Physical to Virtual
+[Docker Kubernetes CoreOS Deis]
+In many ways, Docker with an appropriate scheduling layer sits between IaaS and PaaS solutions — the term containers as a service (CaaS) is already being used to describe it.
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+## 7. Testing
+### 脉络
+Types of Tests
+![](book_building_microservices_test_types.png)
+
+Test Scope
+![](book_building_microservices_test_scope.png)
+
+Testing After Production
+  - Smoking test [精心挑选的冒烟测试集来验证发布环境问题确保发布成功]
+  - blue/green deployment
+  - Canary Releasing
+
+
+### 亮点
+The best way to counter this is to focus on a small number of core journeys to test for the whole system.
