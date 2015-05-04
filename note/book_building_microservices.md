@@ -181,6 +181,14 @@ keep your middleware dumb, and keep the smarts in the endpoints.
 
 
 
+### 5. Splitting the Monolith
+
+
+
+--------------------------------------------------------------------------------
+
+
+
 ## 6. Deployment
 ### 脉络
 Build Pipelines and Continuous Delivery
@@ -221,3 +229,13 @@ Testing After Production
 
 ### 亮点
 The best way to counter this is to focus on a small number of core journeys to test for the whole system.
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+## 8. Monitoring
+### 亮点
+The secret to knowing when to panic and when to relax is to gather metrics about how your system behaves over a long-enough period of time that clear patterns emerge.
