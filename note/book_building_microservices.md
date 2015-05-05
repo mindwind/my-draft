@@ -239,3 +239,11 @@ The best way to counter this is to focus on a small number of core journeys to t
 ## 8. Monitoring
 ### 亮点
 The secret to knowing when to panic and when to relax is to gather metrics about how your system behaves over a long-enough period of time that clear patterns emerge.
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+## 9. Security
