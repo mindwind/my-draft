@@ -247,3 +247,13 @@ The secret to knowing when to panic and when to relax is to gather metrics about
 
 
 ## 9. Security
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+## 10. Conway’s Law and System Design
+### 亮点
+Any organization that designs a system (defined more broadly here than just information systems) will inevitably produce a design whose structure is a copy of the organization’s communication structure. [康威定律，告诉我们系统架构的设计符合组织沟通结构取得的收益最大]
