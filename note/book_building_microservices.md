@@ -257,3 +257,19 @@ The secret to knowing when to panic and when to relax is to gather metrics about
 ## 10. Conway’s Law and System Design
 ### 亮点
 Any organization that designs a system (defined more broadly here than just information systems) will inevitably produce a design whose structure is a copy of the organization’s communication structure. [康威定律，告诉我们系统架构的设计符合组织沟通结构取得的收益最大]
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+## 11. Microservices at Scale
+### 脉络
+Failure Is Everywhere
+[多考虑鼓掌发生时如何快速恢复，而非阻止故障发生]
+
+The Antifragile Organization
+  － Timeouts
+  － Circuit Breakers
+  － Bulkheads
