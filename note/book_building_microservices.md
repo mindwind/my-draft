@@ -273,3 +273,20 @@ The Antifragile Organization
   － Timeouts
   － Circuit Breakers
   － Bulkheads
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+## 12. Bringing It All Together
+###
+Principles of Microservices
+  - Model Around Business Concepts
+  - Adopt a Culture of Automation
+  - Hide Internal Implementation Details
+  - Decentralize All the Things
+  - Independently Deployable
+  - Isolate Failure
+  - Highly Observable
