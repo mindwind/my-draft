@@ -267,7 +267,7 @@ Any organization that designs a system (defined more broadly here than just info
 ## 11. Microservices at Scale
 ### 脉络
 Failure Is Everywhere
-[多考虑鼓掌发生时如何快速恢复，而非阻止故障发生]
+[多考虑故障发生时如何快速恢复，而非阻止故障发生]
 
 The Antifragile Organization
   － Timeouts
@@ -281,7 +281,7 @@ The Antifragile Organization
 
 
 ## 12. Bringing It All Together
-###
+### 脉络
 Principles of Microservices
   - Model Around Business Concepts
   - Adopt a Culture of Automation
