@@ -10,6 +10,9 @@ Microservices 定义
 Microservices are small, autonomous services
   1. Small, and Focused on Doing One Thing Well
   2. Autonomous
+     - Services deployed as an isolated service, has its own operating system process.
+     - Services need to be able to change independently of each other.
+     - Can you make a change to a service and deploy it by itself without changing anything else
 
 
 Microservices 的优势
