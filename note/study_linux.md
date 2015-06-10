@@ -119,19 +119,19 @@
 - passwd -u test1
   解锁
 
-- su - username 
+- su - username
   切换身份, run a shell with substitute user and group IDs  
 
-- useradd test1 
+- useradd test1
   创建账户
 
 - useradd -g testgroup test2
   创建账号并添加到分组
 
-- usermod -e "2009-12-31" vbird2 
+- usermod -e "2009-12-31" vbird2
   修改账号属性，用户 vbird2 密码在 2009/12/31 失效
 
-- userdel -r vbird2 
+- userdel -r vbird2
   删除 vbird2 ,连同家目录一起删除
 ```
 
@@ -201,50 +201,50 @@
 - mkdir -p /t1/t2/t3
   递归建立多层目录
 
-- split -b 300k /etc/termcap prefix 
+- split -b 300k /etc/termcap prefix
   按字节拆分文件
 
-- split -l 500 /etc/termcap prefix 
+- split -l 500 /etc/termcap prefix
   按行数拆分文件
 
-- scp -r /src/dir root@ip:/dst/dir         
+- scp -r /src/dir root@ip:/dst/dir
   远程拷贝，复制目录  从本地到远程
 
-- scp /src/file root@ip:/dst/dir           
+- scp /src/file root@ip:/dst/dir
   远程拷贝，复制文件  从本地到远程
 
-- scp -r root@ip:/src/dir /dst/dir         
+- scp -r root@ip:/src/dir /dst/dir
   远程拷贝，复制目录  从远程到本地
 
-- scp root@ip:/src/file /dst/file          
+- scp root@ip:/src/file /dst/file
   远程拷贝，复制文件  从远程到本地
 
-- tar -czf file.tar.gz file/dir                          
-  打包压缩 
+- tar -czf file.tar.gz file/dir
+  打包压缩
 
 - tar -zpcvf /tmp/etc.tar.gz /etc > /tmp/log.txt 2>&1 &  
   重定向后台执行
 
-- tar -czf - file/dir                                   
+- tar -czf - file/dir
   打包压缩到当前目录，日志输出到stdout
 
-- tar -xzf file.tar.gz                                   
+- tar -xzf file.tar.gz
   解压到当前目录
 
-- tar -xvf file.tar.gz -C ./dst                          
+- tar -xvf file.tar.gz -C ./dst
   解压到到dst目录
 
-- test -e /dmtsai && echo "exist" || echo "not exist"    
+- test -e /dmtsai && echo "exist" || echo "not exist"
   测试文件是否存在
 
-- test -f /dmtsai && echo "file"  || echo "not file"      
-  测试是否文件 
+- test -f /dmtsai && echo "file"  || echo "not file"
+  测试是否文件
 
-- test -d /dmtsai && echo "dir"   || echo "not dir"        
+- test -d /dmtsai && echo "dir"   || echo "not dir"
   测试是否目录
 
-- wc -l filename                           
-  查看文件行数   
+- wc -l filename
+  查看文件行数
   e.g. ps -ef | grep java | wc -l   统计 java 进程数
 ```
 
@@ -278,28 +278,28 @@
 - nice -n -5 vi &
   Run a program with modified scheduling priority
 
-- rpm -ivh                           
+- rpm -ivh
   安装 rpm 包
 
-- rpm --force -ivh 
+- rpm --force -ivh
   强制安装，忽略冲突
 
-- shutdown -h now   
+- shutdown -h now
   立刻关机
 
-- shutdown -h 23:30 
+- shutdown -h 23:30
   今晚23点半关机
 
-- shutdown -h +10   
+- shutdown -h +10
   十分钟后关机
 
-- shutdown -r now   
+- shutdown -r now
   立刻重启
 
 - sudo -u sshd touch /tmp/mysshd
   Execute a command as another user, 默认sudo以root用户执行
 
-- write vbird1 pts/2 
+- write vbird1 pts/2
   向其他用户发送消息
 
 - wall "I will shutdown my linux server…"  
@@ -329,7 +329,7 @@
 - grep -v 'word' filename
   查找不包含word的文档
 
-- cat /etc/hosts|tr -d '\r' > /tmp/hosts 
+- cat /etc/hosts|tr -d '\r' > /tmp/hosts
   删除hosts文件中的'\r'字符，并重定向到/tmp/hosts文件
   tr: translate or delete character
 ```
@@ -337,30 +337,30 @@
 
 ### 配置
 ```
-- sysctl                                        
+- sysctl
   Configure kernel parameters at runtime，配置文件 /etc/sysctl.conf
 
-- sysctl -w net.ipv4.tcp_tw_recycle=1                  
+- sysctl -w net.ipv4.tcp_tw_recycle=1
   开启TCP连接中TIME-WAIT sockets的快速回收
 
-- sysctl -a                                            
+- sysctl -a
    Display all values currently available.
 
-- sysctl -w net.ipv4.ip_local_port_range=1025 65535    
+- sysctl -w net.ipv4.ip_local_port_range=1025 65535
   设置本地端口使用范围
 
-- sesearch -a -t httpd_sys_content_t 
+- sesearch -a -t httpd_sys_content_t
   SELinux policy query tool
 
-- seinfo -b | grep httpd 
+- seinfo -b | grep httpd
   查看SELinux policy和规则设定
 
-- setenforce                          
+- setenforce
   Modify the mode SELinux is running in
   setenforce 1/Enforcing   强制模式
   setenforce 0/Permissive  宽容模式
 
-- sestatus 
+- sestatus
   查看 SELinux Policy 对应配置 vi /etc/selinux/config
 
 - chsh -l
@@ -408,13 +408,13 @@
 - mesh y/n
   Control write access to your terminal, Allow write access to your terminal, or disallow.
 
-- renice 10 pid                      
+- renice 10 pid
   Alter priority of running processes
 
-- route add default gw 10.28.171.1   
+- route add default gw 10.28.171.1
   增加默认网关
 
-- ulimit -u  65535 
+- ulimit -u  65535
   修改单个用户允许的最大进程数
 ```
 
@@ -454,6 +454,9 @@
 - netstat -n | awk '/^tcp/ {++S[$NF]} END {for(a in S) print a, S[a]}'
   统计连接状态
 
+- time nc -vz gateway.push.apple.com 2195
+  端口网络延时诊断
+
 - nslookup baidu.com
   查看域名对应的ip
 
@@ -475,19 +478,19 @@
 - ps -eo lstart,etime,pid | grep pid
   查看进程启动和运行时间
 
-- pstree 
+- pstree
   查看程序之间的相关性
 
-- pwdx pid                           
+- pwdx pid
   查看进程工作目录 e.g. ps -ef|awk '{print $2}'|grep -v PID | xargs pwdx
 
 - pidof init syslogd
   Find the process ID of a running program.
 
-- top -d 2 -p 1678 
+- top -d 2 -p 1678
   动态观察进程 pid=1678 每隔 2 秒刷新一次
 
-- top -p 12453 -H 
+- top -p 12453 -H
   观察进程 12453 中线程的 cpu 占用情况
 
 - top
@@ -500,20 +503,20 @@
   k : 给予某个 pid 一个信号 (signal)
   r : 给予某个 pid 重新制订一个 nice 值
   q : 离开 top
-  
+
   输出结果说明:
   第一行: 总体情况
     14:00:24                       - 当前时间
     up 2 days, 23:13               - 开机以来运行时间
     8 users                        - 当前用户数
     load average: 0.01, 0.01, 0.00 - 1, 5, 15 分钟的系统平均负载
-  
+
   第二行: 进程任务
     Tasks: 165 total, 1 running, 164 sleeping, 0 stopped, 0 zombie
-  
+
   第三行: Cpu(s)
     0.2%us  -  用户空间占用 cpu 百分比
-    0.2%sy  -  内核空间占用 cpu 百分比 
+    0.2%sy  -  内核空间占用 cpu 百分比
     0.0%ni  -  用户进程空间内改变过优先级的进程占用 cpu 百分比
     99.5%id -  空闲 cpu 百分比
     0.0%wa  -  等待 i/o 的 cpu 时间百分比  
@@ -531,23 +534,23 @@
     744080k  used
     3319144k free
 
-  PID    USER     PR     NI     VIRT     RES     SHR     S     %CPU     %MEM     TIME+    COMMAND                
-   1     root     15     0     10368     592     560     S     0.0      0.0      0:01.14   init   
+  PID    USER     PR     NI     VIRT     RES     SHR     S     %CPU     %MEM     TIME+    COMMAND
+   1     root     15     0     10368     592     560     S     0.0      0.0      0:01.14   init
   3892   root     23     0     2047m     328m    10m     S     0.7      2.1      1163:00   java
-  
+
   PID  - 进程 id
-  USER - 进程所属用户     
+  USER - 进程所属用户
   PR   - Priority 的简写，程序的优先执行顸序，越小越早被执行
   NI   - Nice 的简写，也是越小越早被执行; nice 值范围为 -20 ~ 19 PRI(new) = PRI(old) + nice
   VIRT - 进程使用的虚拟内存总量，默认单位kb，VIRT = SWAP + RES
   SHR  - 共享内存大小，默认单位kb
   S    - 进程状态
-  TIME - CPU 使用时间的累加     
+  TIME - CPU 使用时间的累加
 
-- uname -a 
-  查阅系统核心相关信息 等同于 cat /proc/version   
+- uname -a
+  查阅系统核心相关信息 等同于 cat /proc/version
 
-- vmstat 5                                
+- vmstat 5
   reports information about processes, memory, paging, block IO, traps, and cpu activity with 5 seconds delay.
 
        procs -----------memory----------  --swap--  ----io----  --system--   -----cpu------
@@ -555,11 +558,11 @@
        0 0     136  84944 141268 13801476   0  0       8  66     1    1      1  0  99 0  0
        0 0     136  83952 141276 13802656   0 0        0 380     1108 975    1  0  99 0  0
 
-       
+
        procs
          r:    The number of processes waiting for run time.
          b:    The number of processes in uninterruptible sleep.
-       
+
        memory
          swpd:   The amount of virtual memory used.
          free:   The amount of idle memory.
@@ -579,7 +582,7 @@
        system
          in:     The number of interrupts per second, including the clock.
          cs:     The number of context switches per second.
-       
+
        cpu
          These are percentages of total CPU time.
          us:     Time spent running non-kernel code. (user time, including nice time)
