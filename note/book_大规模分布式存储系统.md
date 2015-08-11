@@ -68,3 +68,23 @@ GFS Master的修改操作总是先记录操作日志，然后修改内存。当M
   1）新副本所在的ChunkServer的磁盘利用率低于平均水平；
   2）限制每个Chunk-Server“最近”创建的数量；
   3）每个chunk的所有副本不能在同一个机架
+
+
+## 5. 分布式键值系统
+### 脉络
+Amazon Dynamo
+Tair
+
+
+## 6. 分布式表格系统
+### 脉络
+Google Bigtable
+Google Megastore
+Windows Azure Storage
+
+
+## 7. 分布式数据库
+### 脉络
+数据库中间层
+Microsoft SQL Azure
+Google Spanner
