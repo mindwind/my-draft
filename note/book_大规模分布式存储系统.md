@@ -88,3 +88,13 @@ Windows Azure Storage
 数据库中间层
 Microsoft SQL Azure
 Google Spanner
+
+
+## 8. OceanBase架构初探
+### 脉络
+
+### 批注
+一块普通的SSD磁盘可以提供35000 IOPS甚至更高，并提供300MB/s或以上的读出带宽。
+然而，SSD盘的随机写性能并不理想。这是因为，尽管SSD的读和写以页（page，例如4KB，8KB等）为单位，
+但SSD写入前需要首先擦除已有内容，而擦除以块（block）为单位，一个块由若干个连续的页组成，大小通常在512KB～2MB。
+假如写入的页有内容，即使只写入一个字节，SSD也需要擦除整个512KB～2MB大小的块，然后再写入整个页的内容，这就是SSD的写入放大效应。
