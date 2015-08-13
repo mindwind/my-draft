@@ -36,3 +36,11 @@ HDFS tries to satisfy a read request from a replica that is closest to the reade
 
 On startup, the NameNode enters a special state called Safemode.
 Replication of data blocks does not occur when the NameNode is in the Safemode state.
+
+
+## The Persistence of File System Metadata
+The NameNode uses a transaction log called the EditLog to persistently record every change that occurs to file system metadata.The entire file system namespace, including the mapping of blocks to files and file system properties, is stored in a file called the FsImage.
+
+When the NameNode starts up, it reads the FsImage and EditLog from disk, applies all the transactions from the EditLog to the in-memory representation of the FsImage, and flushes out this new version into a new FsImage on disk. It can then truncate the old EditLog because its transactions have been applied to the persistent FsImage. This process is called a checkpoint.
+
+The DataNode stores HDFS data in files in its local file system. It stores each block of HDFS data in a separate file in its local file system. The DataNode does not create all files in the same directory. Instead, it uses a heuristic to determine the optimal number of files per directory and creates subdirectories appropriately.
