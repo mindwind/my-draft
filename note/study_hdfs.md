@@ -52,3 +52,21 @@ DataNode death may cause the replication factor of some blocks to fall below the
 Re-replication may arise due to many reasons: a DataNode may become unavailable, a replica may become corrupted, a hard disk on a DataNode may fail, or the replication factor of a file may be increased.
 
 The HDFS client software implements checksum checking on the contents of HDFS files. When a client creates an HDFS file, it computes a checksum of each block of the file and stores these checksums in a separate hidden file in the same HDFS namespace.
+
+
+## Data Organization
+Data blocks: A typical block size used by HDFS is 64 MB.
+HDFS client caches the file data into a temporary local file. Application writes are transparently redirected to this temporary local file. When the local file accumulates data worth over one HDFS block size, the client contacts the NameNode. The NameNode inserts the file name into the file system hierarchy and allocates a data block for it.
+
+When a file is closed, the remaining un-flushed data in the temporary local file is transferred to the DataNode.
+When a file is closed, the remaining un-flushed data in the temporary local file is transferred to the DataNode. The client then tells the NameNode that the file is closed. At this point, the NameNode commits the file creation operation into a persistent store. If the NameNode dies before the file is closed, the file is lost.
+
+Replication Pipelining
+
+
+## Space Reclamation
+File Deletes
+HDFS first renames it to a file in the /trash directory. A file remains in /trash for a configurable amount of time. After the expiry of its life in /trash, the NameNode deletes the file from the HDFS namespace.
+
+Decrease Replication Factor
+When the replication factor of a file is reduced,  The next Heartbeat transfers this information to the DataNode. 
