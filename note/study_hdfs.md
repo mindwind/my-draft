@@ -27,3 +27,12 @@ DataNodes
   - all blocks in a file except the last block are the same size.
   - responsible for serving read and write requests from the file system’s clients
   - perform block creation, deletion, and replication upon instruction from the NameNode.
+
+
+## Data Replication
+For the common case, when the replication factor is three, HDFS’s placement policy is to put one replica on one node in the local rack, another on a different node in the local rack, and the last on a different node in a different rack.
+
+HDFS tries to satisfy a read request from a replica that is closest to the reader.
+
+On startup, the NameNode enters a special state called Safemode.
+Replication of data blocks does not occur when the NameNode is in the Safemode state.
