@@ -44,3 +44,11 @@ The NameNode uses a transaction log called the EditLog to persistently record ev
 When the NameNode starts up, it reads the FsImage and EditLog from disk, applies all the transactions from the EditLog to the in-memory representation of the FsImage, and flushes out this new version into a new FsImage on disk. It can then truncate the old EditLog because its transactions have been applied to the persistent FsImage. This process is called a checkpoint.
 
 The DataNode stores HDFS data in files in its local file system. It stores each block of HDFS data in a separate file in its local file system. The DataNode does not create all files in the same directory. Instead, it uses a heuristic to determine the optimal number of files per directory and creates subdirectories appropriately.
+
+
+## Robustness
+The NameNode marks DataNodes without recent Heartbeats as dead and does not forward any new IO requests to them.
+DataNode death may cause the replication factor of some blocks to fall below their specified value.
+Re-replication may arise due to many reasons: a DataNode may become unavailable, a replica may become corrupted, a hard disk on a DataNode may fail, or the replication factor of a file may be increased.
+
+The HDFS client software implements checksum checking on the contents of HDFS files. When a client creates an HDFS file, it computes a checksum of each block of the file and stores these checksums in a separate hidden file in the same HDFS namespace.
