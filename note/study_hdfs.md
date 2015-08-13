@@ -69,4 +69,8 @@ File Deletes
 HDFS first renames it to a file in the /trash directory. A file remains in /trash for a configurable amount of time. After the expiry of its life in /trash, the NameNode deletes the file from the HDFS namespace.
 
 Decrease Replication Factor
-When the replication factor of a file is reduced,  The next Heartbeat transfers this information to the DataNode. 
+When the replication factor of a file is reduced,  The next Heartbeat transfers this information to the DataNode.
+
+
+## References
+  1. [HDFS Architecture](http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html)
