@@ -87,6 +87,9 @@ he HDFS client that opens a file for writing is granted a lease for the file; no
 文件写完关闭前，不提供对其他 client 的读可见性
 After data are written to an HDFS file, HDFS does not provide any guarantee that data are visible to a new reader until the file is closed.
 
+疑问？
+流水线写入过程中若出现网络闪断又恢复？或者有 DataNode 永久性宕机？
+
 
 ## Space Reclamation
 File Deletes
