@@ -50,6 +50,9 @@ HDFS tries to satisfy a read request from a replica that is closest to the reade
 On startup, the NameNode enters a special state called Safemode.
 Replication of data blocks does not occur when the NameNode is in the Safemode state.
 
+对热点文件可以提供更多副本以增强容错性和增加读取带宽
+For critical files or files which are accessed very often, having a higher replication factor improves tolerance against faults and increases read bandwidth.
+
 
 ## The Persistence of File System Metadata
 The NameNode uses a transaction log called the EditLog to persistently record every change that occurs to file system metadata.The entire file system namespace, including the mapping of blocks to files and file system properties, is stored in a file called the FsImage.
