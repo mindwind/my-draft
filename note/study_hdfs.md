@@ -120,3 +120,4 @@ If a client reads a complete block and checksum verification succeeds, it inform
 
 ## References
   1. [HDFS Architecture](http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html)
+  2. [The Hadoop Distributed File System](http://www.aosabook.org/en/hdfs.html)
