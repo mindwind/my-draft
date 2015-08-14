@@ -42,7 +42,7 @@ The NameNode does not directly send requests to DataNodes. It uses replies to he
 The instructions include commands to replicate blocks to other nodes, remove local block replicas, re-register and send an immediate block report, and shut down the node.
 
 DataNode decommission
-Once a DataNode is marked for decommissioning, it will not be selected as the target of replica placement, but it will continue to serve read requests.Once the NameNode detects that all blocks on the decommissioning DataNode are replicated, the node enters the decommissioned state. 
+Once a DataNode is marked for decommissioning, it will not be selected as the target of replica placement, but it will continue to serve read requests.Once the NameNode detects that all blocks on the decommissioning DataNode are replicated, the node enters the decommissioned state.
 
 
 ## Data Replication
@@ -108,6 +108,14 @@ A cluster is balanced if, for each DataNode, the utilization of the node3 differ
 
 负载均衡的限制
 the balancer guarantees that the decision does not reduce either the number of replicas or the number of racks.
+
+
+## Block Verification
+周期性检查
+DataNode runs a block scanner that periodically scans its block replicas and verifies that stored checksums match the block data.
+
+被动性检查
+If a client reads a complete block and checksum verification succeeds, it informs the DataNode. The DataNode treats it as a verification of the replica.
 
 
 ## References
