@@ -99,5 +99,13 @@ Decrease Replication Factor
 When the replication factor of a file is reduced,  The next Heartbeat transfers this information to the DataNode.
 
 
+## Balancer
+负载均衡的定义
+A cluster is balanced if, for each DataNode, the utilization of the node3 differs from the utilization of the whole cluster4 by no more than the threshold value.
+
+负载均衡的限制
+the balancer guarantees that the decision does not reduce either the number of replicas or the number of racks.
+
+
 ## References
   1. [HDFS Architecture](http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html)
