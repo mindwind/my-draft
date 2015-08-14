@@ -80,6 +80,14 @@ When a file is closed, the remaining un-flushed data in the temporary local file
 Replication Pipelining
 
 
+## File Read and write
+HDFS implements a single-writer, multiple-reader model.
+he HDFS client that opens a file for writing is granted a lease for the file; no other client can write to the file. The writing client periodically renews the lease by sending a heartbeat to the NameNode. When the file is closed, the lease is revoked. The lease duration is bound by a soft limit and a hard limit. Until the soft limit expires, the writer is certain of exclusive access to the file.
+
+文件写完关闭前，不提供对其他 client 的读可见性
+After data are written to an HDFS file, HDFS does not provide any guarantee that data are visible to a new reader until the file is closed.
+
+
 ## Space Reclamation
 File Deletes
 HDFS first renames it to a file in the /trash directory. A file remains in /trash for a configurable amount of time. After the expiry of its life in /trash, the NameNode deletes the file from the HDFS namespace.
