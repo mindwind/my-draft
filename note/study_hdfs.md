@@ -22,11 +22,24 @@ NameNode
   - the arbitrator and repository for all HDFS metadata
   - The number of copies of a file is called the replication factor, this information is stored by the NameNode.
 
+优化并发下写事务
+The NameNode is a multithreaded system and processes requests simultaneously from multiple clients. Saving a transaction to disk becomes a bottleneck since all other threads need to wait until the synchronous flush-and-sync procedure initiated by one of them is complete. In order to optimize this process, the NameNode batches multiple transactions. When one of the NameNode's threads initiates a flush-and-sync operation, all the transactions batched at that time are committed together. Remaining threads only need to check that their transactions have been saved and do not need to initiate a flush-and-sync operation.
+
 DataNodes
   - manage storage, a file is split into one or more blocks and these blocks are stored in a set of DataNodes
   - all blocks in a file except the last block are the same size.
   - responsible for serving read and write requests from the file system’s clients
   - perform block creation, deletion, and replication upon instruction from the NameNode.
+
+block 实现方式
+Each block replica on a DataNode is represented by two files in the local native filesystem. The first file contains the data itself and the second file records the block's metadata including checksums for the data and the generation stamp.
+
+namespace ID：全局标记集群，同一 cluster 共享一个；一个新初始化的 DataNode 加入集群时没有 namespace ID，和 NameNode 握手结束后分配给它
+storage ID：DataNode 的内部唯一标记，也是在和 NameNode 首次握手结束后分配，之后不再改变
+
+DataNode 的默认 heartbeat 间隔是 3 秒；为什么这么短？
+The NameNode does not directly send requests to DataNodes. It uses replies to heartbeats to send instructions to the DataNodes.
+The instructions include commands to replicate blocks to other nodes, remove local block replicas, re-register and send an immediate block report, and shut down the node.
 
 
 ## Data Replication
