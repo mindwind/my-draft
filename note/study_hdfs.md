@@ -41,6 +41,9 @@ DataNode 的默认 heartbeat 间隔是 3 秒；为什么这么短？
 The NameNode does not directly send requests to DataNodes. It uses replies to heartbeats to send instructions to the DataNodes.
 The instructions include commands to replicate blocks to other nodes, remove local block replicas, re-register and send an immediate block report, and shut down the node.
 
+DataNode decommission
+Once a DataNode is marked for decommissioning, it will not be selected as the target of replica placement, but it will continue to serve read requests.Once the NameNode detects that all blocks on the decommissioning DataNode are replicated, the node enters the decommissioned state. 
+
 
 ## Data Replication
 For the common case, when the replication factor is three, HDFS’s placement policy is to put one replica on one node in the local rack, another on a different node in the local rack, and the last on a different node in a different rack.
