@@ -64,6 +64,8 @@ When the NameNode starts up, it reads the FsImage and EditLog from disk, applies
 
 The DataNode stores HDFS data in files in its local file system. It stores each block of HDFS data in a separate file in its local file system. The DataNode does not create all files in the same directory. Instead, it uses a heuristic to determine the optimal number of files per directory and creates subdirectories appropriately.
 
+When a DataNode starts up, it scans through its local file system, generates a list of all HDFS data blocks that correspond to each of these local files and sends this report to the NameNode: this is the Blockreport.
+
 
 ## Robustness
 The NameNode marks DataNodes without recent Heartbeats as dead and does not forward any new IO requests to them.
