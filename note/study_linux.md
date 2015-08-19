@@ -590,4 +590,8 @@
          id:     Time spent idle. Prior to Linux 2.5.41, this includes IO-wait time.
          wa:     Time spent waiting for IO. Prior to Linux 2.5.41, included in idle.
          st:     Time stolen from a virtual machine. Prior to Linux 2.6.11, unknown.
+
+- ip
+  ip addr del 192.168.0.1 dev eth0  删除网卡 ip 地址
+  ip show 查看 ip 地址
 ```
