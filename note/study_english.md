@@ -11,3 +11,6 @@ parting statement
 
 sense of ethics, security, humor, direction, worth
 伦理观，安全感，幽默感，方向感，价值观
+
+on the same page
+达成共识
