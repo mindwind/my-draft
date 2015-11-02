@@ -14,3 +14,9 @@ sense of ethics, security, humor, direction, worth
 
 on the same page
 达成共识
+
+get on with / get along with
+英式           美式 - 相处甚好
+
+put my foot in my mouth
+搬起石头砸自己的脚
