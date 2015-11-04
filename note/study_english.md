@@ -20,3 +20,9 @@ get on with / get along with
 
 put my foot in my mouth
 搬起石头砸自己的脚
+
+tie the knot
+喜结良缘
+
+hold someone back
+使某人犹豫不决
