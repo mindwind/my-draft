@@ -26,3 +26,9 @@ tie the knot
 
 hold someone back
 使某人犹豫不决
+
+be way out of line
+过分了
+
+LOL - Laugh Out Loud
+大笑，哈哈
