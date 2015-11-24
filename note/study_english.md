@@ -3,6 +3,13 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+
+at length
+最后；终于；充分的；详尽的
+
+put away
+收起来
+
 walk of life
 各行各业，各界
 
