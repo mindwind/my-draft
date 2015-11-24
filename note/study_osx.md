@@ -1,15 +1,13 @@
 ## 命令
-```
 重定向端口 80 -> 8080
 sudo ipfw add 100 fwd 127.0.0.1,8080 tcp from any to any 80 in
 
 查看监听端口
 sudo lsof -i -P| grep -i "listen"
-```
+
 
 ## 配置
-```
-jdk home 路径
+JDK HOME 路径
 /Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home
 
 开启 vim 语法颜色
@@ -23,4 +21,11 @@ jdk home 路径
 命令别名（在用户目录下建立.bash_profile 并添加别名）
   1. alias ls="ls -G"
   2. alias ll="ls -l"
-```
+
+Terminal 命令颜色
+export CLICOLOR=1
+export LSCOLORS=Exfxcxdxbxegedabagacad
+export GREP_OPTIONS='--color=auto'
+export TERM="xterm-color"
+PS1='\[\e[0;33m\]\u\[\e[0m\]@\[\e[0;32m\]\h\[\e[0m\]:\[\e[0;34m\]\w\[\e[0m\]\$ '
+添加到 ~/.bash_profile 中
