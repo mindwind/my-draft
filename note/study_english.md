@@ -4,6 +4,9 @@ date      : 2015-09-18
 ---
 
 
+in the running
+有获胜的希望
+
 at length
 最后；终于；充分的；详尽的
 
