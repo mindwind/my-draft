@@ -4,6 +4,9 @@ date      : 2015-09-18
 ---
 
 
+All in all
+总的来说
+
 in the running
 有获胜的希望
 
