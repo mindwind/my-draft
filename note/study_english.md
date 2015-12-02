@@ -3,6 +3,16 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+
+a good deal of
+许多
+
+without further ado
+闲话少说
+
+be filled to capacity
+装满容量
+
 help out
 帮帮忙
 
