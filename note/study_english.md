@@ -3,8 +3,14 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+help out
+帮帮忙
 
-All in all
+run down
+My neighborhood is so run down I've decided to move.
+破落
+
+all in all
 总的来说
 
 in the running
