@@ -4,6 +4,9 @@ date      : 2015-09-18
 ---
 
 
+cut to the chase
+不绕圈子，有话直说
+
 a good deal of
 许多
 
