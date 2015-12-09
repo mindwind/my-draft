@@ -3,6 +3,11 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+to the extent that
+达到这种程度以致于...；在这个程度上...
+
+provided that
+假若，连接短语
 
 cut to the chase
 不绕圈子，有话直说
