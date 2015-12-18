@@ -3,6 +3,9 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+dumb sth down
+降低...标准
+
 to the extent that
 达到这种程度以致于...；在这个程度上...
 
