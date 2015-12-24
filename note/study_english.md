@@ -3,6 +3,9 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+simply put
+简言之
+
 dumb sth down
 降低...标准
 
