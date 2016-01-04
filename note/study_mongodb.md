@@ -25,13 +25,19 @@ Does MongoDB support transactions?
 MongoDB does not support multi-document transactions. However, MongoDB does provide atomic operations on a single document.
 
 
+## Data model
+In MongoDB, write operations are atomic at the document level 如何实现的？
+
+
 ## Architecture Guide
 Each query can specify the appropriate write concern, ranging from unacknowledged to acknowledgement that writes have been committed to all replicas.
 
-Storage Engine
-  - WiredTiger, compression algorithms: Snappy, zlib,
-  - In-Memory
-  -
+
+## Storage Engine
+  - WiredTiger uses document-level concurrency control for write operations. As a result, multiple clients can modify different documents of a collection at the same time.
+    compression algorithms: Snappy, zlib,
+  - MMAPv1 is MongoDB’s original storage engine based on memory mapped files. It excels at workloads with high volume inserts, reads, and in-place updates.
+  - In-Memory beta
 
 
 ## 参考
