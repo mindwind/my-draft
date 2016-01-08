@@ -29,7 +29,8 @@ MongoDB does not support multi-document transactions. However, MongoDB does prov
 
 
 ## Data model
-In MongoDB, write operations are atomic at the document level 如何实现的？
+In MongoDB, write operations are atomic at the document level.
+No single write operation can change more than one document. 
 
 Power of 2 Sized Allocations
 No Padding Allocation Strategy
