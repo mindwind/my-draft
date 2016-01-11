@@ -3,6 +3,9 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+level out
+平衡，消除差别
+
 play hardball
 采取强硬手段
 
