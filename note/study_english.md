@@ -3,6 +3,10 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+
+Among other things
+除此之外
+
 level out
 平衡，消除差别
 
