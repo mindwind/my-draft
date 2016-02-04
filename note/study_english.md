@@ -3,6 +3,10 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+
+come around
+造访；开始接受  e.g. I need time to come around to this new idea.
+
 in the order of
 大约， 与…相似  e.g. I guess that she is in the order of 40
 
