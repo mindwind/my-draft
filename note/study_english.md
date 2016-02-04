@@ -3,6 +3,8 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+in the order of
+大约， 与…相似  e.g. I guess that she is in the order of 40
 
 Among other things
 除此之外
