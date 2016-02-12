@@ -3,6 +3,18 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+43. to one's face
+坦白的，当面 She is brave enough to tell the boss about his mistakes to his face.
+
+42. stand by
+支持  Despite its problems, the woman stands by her country.
+
+41. hand sth down to sb
+遗留; 把…传递下来  The idea of handing down his knowledge from generation to generation is important to McLean.
+
+40. lay bare
+暴露，揭发  This pierced me like a sword, and seemed to lay bare my private disloyalty.
+
 39. come over sb
 支配；困扰 I don't know what's come over him.
 
