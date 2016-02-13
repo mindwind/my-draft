@@ -3,6 +3,10 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+
+44. single out
+挑选，选出  The group singled out one man to make fun of.
+
 43. to one's face
 坦白的，当面 She is brave enough to tell the boss about his mistakes to his face.
 
