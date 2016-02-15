@@ -3,6 +3,11 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+46. hard and fast
+严格的，不能变通的 At the moment there is no hard and fast timetable.
+
+45. on the air
+直播中  Be quiet the TV show is on the air now.
 
 44. single out
 挑选，选出  The group singled out one man to make fun of.
