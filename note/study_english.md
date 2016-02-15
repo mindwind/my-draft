@@ -3,6 +3,21 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+51. fall back on
+依赖，求助于  You can always fall back on him when you are in difficulties.
+
+50. find fault with
+挑剔；指责  He loved best to find fault with me.
+
+49. get nowhere
+无进展  I came up with many ideas, but I got nowhere with them.
+
+48. cut across
+抄近路通过  We'll cut across the forest and take the highway instead.
+
+47. hold one's ground
+坚持立场  He started yelling at me, but I held my ground and yelled back.
+
 46. hard and fast
 严格的，不能变通的 At the moment there is no hard and fast timetable.
 
