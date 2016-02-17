@@ -3,6 +3,25 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+
+60. rise to the occasion
+应付自如  The game was hard, but the boy rose to the occasion and won the game.
+
+59. make up for
+补偿，弥补  The man tried to make up for his mistakes by giving her flowers.
+
+58. make up with sb.
+与...和解  After the fight they made up with each other.
+
+57. give sth off
+发出（烟、气、光）  Guns give off smoke after they fire.
+
+56. take stock of
+估量，观察  The businessman takes stock of the different options.
+
+55. make sth out
+辨认出，理解  With all the fog, I can just barely make out his face.
+
 54. as for
 至于，就...方面说  As for our market share, it is going down.
 
