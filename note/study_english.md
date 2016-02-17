@@ -3,6 +3,15 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+54. as for
+至于，就...方面说  As for our market share, it is going down.
+
+53. on no account
+决不  On no account should you give up your goals.
+
+52. set in
+开始，生效  We'll have to wait until the drugs set in and she falls asleep.
+
 51. fall back on
 依赖，求助于  You can always fall back on him when you are in difficulties.
 
