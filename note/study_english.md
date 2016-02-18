@@ -4,6 +4,9 @@ date      : 2015-09-18
 ---
 
 
+61. get somewhere
+有所成就  As the blue bar shows, this year we're finally getting somewhere with our company.
+
 60. rise to the occasion
 应付自如  The game was hard, but the boy rose to the occasion and won the game.
 
