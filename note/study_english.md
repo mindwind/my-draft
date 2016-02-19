@@ -4,6 +4,21 @@ date      : 2015-09-18
 ---
 
 
+66. set out
+出发  The group set out to the forest.
+
+65. bring about
+引起，导致  If one country falls, it can bring about change in many countries.
+
+64. be on good terms with sb
+关系好  The three ladies are on good terms with each other.
+
+63. come upon
+偶然遇见  The couple came upon each other while walking their dogs.
+
+62. set on sb
+攻击  She set on her attacker with a high kick.
+
 61. get somewhere
 有所成就  As the blue bar shows, this year we're finally getting somewhere with our company.
 
