@@ -4,6 +4,12 @@ date      : 2015-09-18
 ---
 
 
+68. first and foremost
+首先  First and foremost we should introduce ourselves.
+
+67. hand sth out
+分发  They're handing free newspapers out at the train station.
+
 66. set out
 出发  The group set out to the forest.
 
