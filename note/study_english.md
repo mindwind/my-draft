@@ -3,6 +3,14 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+71. pass over
+忽略  The short player was passed over in favor of the tall players.
+
+70. be bent on
+专心致志于  Nowadays most people are bent on making as much money as they can.
+
+69. permeate through
+渗透，透入  Cigarette smoke permeates through clothing, making smokers stinky.
 
 68. first and foremost
 首先  First and foremost we should introduce ourselves.
