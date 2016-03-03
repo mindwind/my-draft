@@ -3,6 +3,18 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+75. make for sb/sth
+有助于  Fresh vegetable makes for youre health.
+
+74. pass away
+逝世  He passed away in his sleep last night.
+
+73. take sth in
+领会  She really took the book in and understood it well.
+
+72. look in on
+顺便看望  The boy wants to look in on his girlfriend.
+
 71. pass over
 忽略  The short player was passed over in favor of the tall players.
 
