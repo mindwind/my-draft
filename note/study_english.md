@@ -3,6 +3,15 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+78. have one's say
+利用机会发表意见  The businessman took this opportunity to have his say and tell the boss what he thinks.
+
+77. stand off
+冷战；疏离  They've been arguing for hours, and there's no sign the stand off will end.
+
+76. know better
+很明白  I can't believe she smokes around her daughter, she should know better.
+
 75. make for sb/sth
 有助于  Fresh vegetable makes for youre health.
 
@@ -142,7 +151,7 @@ date      : 2015-09-18
 走上；加速 e.g. He urged donors to step up their efforts to send aid to Somalia.
 
 29. come around
-造访；开始接受  e.g. I need time to come around to this new idea.
+造访；开始接受；改变主意  e.g. I need time to come around to this new idea.
 
 28. in the order of
 大约， 与…相似  e.g. I guess that she is in the order of 40.
