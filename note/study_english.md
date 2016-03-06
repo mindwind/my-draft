@@ -3,6 +3,21 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+83. open sb's eyes to
+使某人看清 I was astonished when you opened my eyes to my boyfriend's nature.
+
+82. see eye to eye with
+看法完全一致 The two men really see eye to eye with each other and decide to work together.
+
+81. stick up
+竖起  When you stick up your thumb, you mean that you approve.
+
+80. stick out
+伸出  She sticks her arms out for the exercises.
+
+79. let oneself go
+尽情  I really let myself go while on vacation.
+
 78. have one's say
 利用机会发表意见  The businessman took this opportunity to have his say and tell the boss what he thinks.
 
