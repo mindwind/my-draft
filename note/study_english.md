@@ -3,6 +3,15 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+86. on end
+直立  The man's hair is on end.
+
+85. sort out
+分类 I sorted the food out according to their varieties.
+
+84. on account of
+因为 He crashed his car again on account of his drinking.
+
 83. open sb's eyes to
 使某人看清 I was astonished when you opened my eyes to my boyfriend's nature.
 
