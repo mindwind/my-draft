@@ -101,5 +101,19 @@ to disable Nagle in order to work around their design, keeping in mind that any
 other proxy in the chain may similarly be impacted.
 
 
+## load balancing
+L4
+Acts at the packet level and processes packets more or less individually.
+
+L7
+It requires that the input streams is reassembled and processed as a whole.
+The contents may be modified, and the output stream is segmented into new packets.
+This implies that there are two distinct connections on each side.
+
+
+## features
+Provide the server with a clean connection to protect them against any client-side defect or attack;
+Optimize TCP stacks (eg: SACK), congestion control, and reduce RTT impacts;
+
 ## 参考
 [1] HAProxy Documentation. [HAProxy Management Guide](http://www.haproxy.org/download/1.6/doc/management.txt)
