@@ -3,6 +3,12 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+80. make the best of a bad job
+尽力把损失减到最小  We made a mistake, but maybe we can make the best of a bad job and fix it soon.
+
+79. At a stroke
+一下子  At a stroke he knocked all ten pins down.
+
 78. have one's say
 利用机会发表意见  The businessman took this opportunity to have his say and tell the boss what he thinks.
 
