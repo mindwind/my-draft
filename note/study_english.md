@@ -3,11 +3,17 @@ title     : Study English
 date      : 2015-09-18
 ---
 
-88. make the best of a bad job
+90. make the best of a bad job
 尽力把损失减到最小  We made a mistake, but maybe we can make the best of a bad job and fix it soon.
 
-87. At a stroke
+89. At a stroke
 一下子  At a stroke he knocked all ten pins down.
+
+88. from the outset
+从一开始 Both players wanted to win from the outset of the race.
+
+87. have(get) the upper hand
+取得优势，占上风  I tried my best, but she got the upper hand and beat me.
 
 86. on end
 直立  The man's hair is on end.
