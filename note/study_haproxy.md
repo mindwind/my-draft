@@ -111,9 +111,18 @@ The contents may be modified, and the output stream is segmented into new packet
 This implies that there are two distinct connections on each side.
 
 
-## features
+## Features
 Provide the server with a clean connection to protect them against any client-side defect or attack;
 Optimize TCP stacks (eg: SACK), congestion control, and reduce RTT impacts;
 
+
+## Why
+SSL LB
+a single software-based load balancer will not be faster to process SSL than an eight-servers farm. Because of this architectural error, the load balancer will saturate before the application servers, and the only remedy will be to put another level of load balancers in front of it, and adding more load balancers to handle the SSL load. Obviously, this is wrong.The most scalable solution when applications require SSL is to dedicate a farm of reverse-proxies only for this matter.
+
+
+
 ## 参考
 [1] HAProxy Documentation. [HAProxy Management Guide](http://www.haproxy.org/download/1.6/doc/management.txt)
+[2] HAProxy Documentation. [HAProxy Starter Guide](http://cbonte.github.io/haproxy-dconv/intro-1.6.html)
+[3] Willy Tarreau. [Making applications scalable with Load Balancing](http://1wt.eu/articles/2006_lb/index.html)
