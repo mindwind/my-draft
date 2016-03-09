@@ -3,6 +3,18 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+94. make sb. out to be
+把...说成  The old ladies make her out to be a bad person.
+
+93. come across sb/sth
+偶然碰见  We came across another family in our hotel.
+
+92. reckon with sb
+认真对待  The father reckon with his son in a game of chess.
+
+91. in line for
+排队  We wait in line for our job interviews.
+
 90. make the best of a bad job
 尽力把损失减到最小  We made a mistake, but maybe we can make the best of a bad job and fix it soon.
 
