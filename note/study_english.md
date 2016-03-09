@@ -3,6 +3,18 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+98. at a loose end  不知做什么好
+He's at a loose end, he doesn't know which way to go.
+
+97. make sb up 化妆
+The woman makes herself up before going out on a date.
+
+96. pull through  渡过难关；恢复健康
+We believe that optimistic woman will pull through.
+
+95. take after  像某人
+The daughter really takes after her mother.  
+
 94. make sb. out to be
 把...说成  The old ladies make her out to be a bad person.
 
@@ -108,11 +120,11 @@ date      : 2015-09-18
 60. rise to the occasion
 应付自如  The game was hard, but the boy rose to the occasion and won the game.
 
-59. make up for
-补偿，弥补  The man tried to make up for his mistakes by giving her flowers.
+59. make up for 补偿，弥补  
+The man tried to make up for his mistakes by giving her flowers.
 
-58. make up with sb.
-与...和解  After the fight they made up with each other.
+58. make up with sb. 与...和解  
+After the fight they made up with each other.
 
 57. give sth off
 发出（烟、气、光）  Guns give off smoke after they fire.
