@@ -3,6 +3,16 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+
+101. live on 以...主食；靠...生活
+The panda mainly lives on bamboo leaves.
+
+100. set about sth 着手
+Before you set about fixing a car, make sure you know what you're doing.
+
+99. pay up 结账
+At the end of the meal it's time to pay up.
+
 98. at a loose end  不知做什么好
 He's at a loose end, he doesn't know which way to go.
 
