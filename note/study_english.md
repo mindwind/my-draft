@@ -3,6 +3,41 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+113. live throught 度过
+The farmers live through the war by hiding in the country.
+
+112. pull over 开到路边
+She pulled over to ask for help.
+
+111. go far 成功，大有前途
+With the right attitude, you can go far in life.
+
+110. hold out against 坚持，顶住
+He won eventually, but I managed to hold out against hime for ten minutes.
+
+109. come about 发生
+That car accident is so terrible, how could it have come about?
+
+108. be in two minds about sth 犹豫不决
+He is two minds about which door he should take.
+
+107. come(bring) sth to light 揭露
+The news brought many things to light about the government.
+
+106. has the making of 具有成为...所需要的素质
+At only ten years old, the boy already has the making of a pro football player.
+
+105. make sb's day 使某人快活
+He loved the present, it really made his day.
+
+104. recon on 规划；估计
+The businessman reckons on his plans for the future.
+
+103. null and void 无效的
+You cannot buy the house, our agreement is null and void.
+
+102. call it a day 手工
+After a long day of work, she calls it a day and goes home.
 
 101. live on 以...主食；靠...生活
 The panda mainly lives on bamboo leaves.
