@@ -3,6 +3,27 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+120. all out 全力以赴
+He goes all out to push the boulder up the hill.
+
+119. get round sth 规避，避开
+You can only get round the obstacle by going off the road.
+
+118. phase out 逐渐淘汰
+Beepers were phased out when people started using cell phones.
+
+117. clear away 把...除掉
+The farmer clears away weeds so his crops can grow.
+
+116. leave sb/sth behind 忘带，留下
+She left her purse behind in the car.
+
+115. pull oneself together 恢复镇定；振作起来
+She pulled herself together before the big game by saying a prayer and concentrating.
+
+114. look back on sth 回顾
+The old woman look back on their childhood memories together.
+
 113. live throught 度过
 The farmers live through the war by hiding in the country.
 
