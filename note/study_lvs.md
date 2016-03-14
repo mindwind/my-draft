@@ -43,7 +43,7 @@ all servers must have "IP Tunneling"(IP Encapsulation) protocol enabled.
 The virtual IP address is shared by real servers and the load balancer.
 
 how
-The load balancer simply changes the MAC address of the data frame to that of the chosen server and restransmits it on the LAN. This is the reason that the load balancer and each server must be directly connected to one another by a single uninterrupted segment of a LAN.
+The load balancer simply changes the MAC address of the data frame to that of the chosen server and retransmits it on the LAN. This is the reason that the load balancer and each server must be directly connected to one another by a single uninterrupted segment of a LAN.
 
 advantage
 highest performance.
@@ -52,7 +52,15 @@ disadvantage
 Compared to the virtual server via IP tunneling approach, this approach doesn't have tunneling overhead(In fact, this overhead is minimal in most situations), but requires that one of the load balancer's interfaces and the real servers' interfaces must be in the same physical segment
 
 
+### High Availability of LVS
+Now the load balancer might become a single failure point of the whole system. In order to prevent the whole system from being out of service because of the load balancer failure, we need setup a backup (or several backups) of the load balancer. Two heartbeat daemons run on the primary and the backup respectively, they heartbeat the message like "I'm alive" each other through serial lines and/or network interfaces periodically. When the heartbeat daemon of the backup cannot hear the heartbeat message from the primary in the specified time, it will take over the virtual IP address to provide the load-balancing service. When the failed load balancer comes back to work, there are two solutions, one is that it becomes the backup load balancer automatically, the other is the active load balancer releases the VIP address, and the recover one takes over the VIP address and becomes the primary load balancer again.
+
+Keepalived provides a strong and robust health checking for LVS clusters. It implements a framework of health checking on multiple layers for server failover, and VRRPv2 stack to handle director failover.
+
+
 ## 参考
 [1] LVS wiki. [Load balancing](http://kb.linuxvirtualserver.org/wiki/Load_balancing)
 [2] HAProxy Documentation. [HAProxy Starter Guide](http://cbonte.github.io/haproxy-dconv/intro-1.6.html)
 [3] Willy Tarreau. [Making applications scalable with Load Balancing](http://1wt.eu/articles/2006_lb/index.html)
+[4] Wikipedia. [Virtual Router Redundancy Protocol](https://en.wikipedia.org/wiki/Virtual_Router_Redundancy_Protocol)
+[5] shuming. [LVS 工作模式以及工作原理](http://blog.csdn.net/caoshuming_500/article/details/8291940)
