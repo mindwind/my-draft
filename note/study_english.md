@@ -3,6 +3,15 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+123. out of stock 无存货，已脱销
+Sorry, the store does not have what you want, we are out of stock.
+
+122. clear out 匆忙离开
+When the earthquake hit, people cleared out of the building swiftly.
+
+121. leave for 动身去
+She leaves for a different city today.
+
 120. all out 全力以赴
 He goes all out to push the boulder up the hill.
 
