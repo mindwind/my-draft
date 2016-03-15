@@ -3,14 +3,33 @@ title     : Study English
 date      : 2015-09-18
 ---
 
-123. out of stock 无存货，已脱销
+
+129. out of stock 无存货，已脱销
 Sorry, the store does not have what you want, we are out of stock.
 
-122. clear out 匆忙离开
+128. clear out 匆忙离开
 When the earthquake hit, people cleared out of the building swiftly.
 
-121. leave for 动身去
+127. leave for 动身去
 She leaves for a different city today.
+
+126. take to sb 喜欢
+The little boy really took to the girl, and now they play together every day.
+
+125. snap at sb 对人厉声说
+Why don't you ever take out the garbage? she snapped at him.
+
+124. on and off 断断续续的
+Expect on and off thunderstorms this week.
+
+123. catch on 理解
+At first she was confused, but then she started to catch on.
+
+122. call for 需要；要求
+She is in trouble, so she calls for help.
+
+121. keep sb on 继续雇佣某人
+I'm firing everyone else, but I'd like to keep you o as an employee.
 
 120. all out 全力以赴
 He goes all out to push the boulder up the hill.
