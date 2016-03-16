@@ -3,6 +3,23 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+- hit it off (together, with sb) 相处很好
+The couple went on a date and really hit it off together.
+
+- break off 折断；突然结束
+The broke off their relationship after a big argument.
+
+- cast off 丢弃
+They cast off their old furniture.
+
+- boil down to 归结起来是，问题是
+Most of my problems boil down to not having enough money.
+
+- clear the air 消除误会
+They cleared the air, talking about their problems, and became friends again.
+
+- go by 时间流逝；走过
+You can see how slow time goes by with the hourglass.
 
 129. out of stock 无存货，已脱销
 Sorry, the store does not have what you want, we are out of stock.
