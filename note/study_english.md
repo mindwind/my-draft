@@ -21,6 +21,9 @@ They cleared the air, talking about their problems, and became friends again.
 - go by 时间流逝；走过
 You can see how slow time goes by with the hourglass.
 
+130. take sb in 收留
+My aunt will take me in when my mother goes to Paris.
+
 129. out of stock 无存货，已脱销
 Sorry, the store does not have what you want, we are out of stock.
 
@@ -110,6 +113,9 @@ The panda mainly lives on bamboo leaves.
 
 100. set about sth 着手
 Before you set about fixing a car, make sure you know what you're doing.
+
+- go about 着手做
+  The little girls their studies with lots of concentration.
 
 99. pay up 结账
 At the end of the meal it's time to pay up.
