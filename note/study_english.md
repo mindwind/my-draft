@@ -3,23 +3,35 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+- all told 总共
+  All told, the price is 470
+
+- be obsessed with 缠住，烦扰
+  The woman is obsessed with money.
+
+- not to say 并不是说
+  She has a nice figure, that's no to say she is pretty though.
+
+- give out 分发
+  They're giving out free food.
+
 - hit it off (together, with sb) 相处很好
-The couple went on a date and really hit it off together.
+  The couple went on a date and really hit it off together.
 
 - break off 折断；突然结束
-The broke off their relationship after a big argument.
+  The broke off their relationship after a big argument.
 
 - cast off 丢弃
-They cast off their old furniture.
+  They cast off their old furniture.
 
 - boil down to 归结起来是，问题是
-Most of my problems boil down to not having enough money.
+  Most of my problems boil down to not having enough money.
 
 - clear the air 消除误会
-They cleared the air, talking about their problems, and became friends again.
+  They cleared the air, talking about their problems, and became friends again.
 
 - go by 时间流逝；走过
-You can see how slow time goes by with the hourglass.
+  You can see how slow time goes by with the hourglass.
 
 130. take sb in 收留
 My aunt will take me in when my mother goes to Paris.
@@ -234,13 +246,13 @@ The daughter really takes after her mother.
 61. get somewhere
 有所成就  As the blue bar shows, this year we're finally getting somewhere with our company.
 
-60. rise to the occasion
+- rise to the occasion
 应付自如  The game was hard, but the boy rose to the occasion and won the game.
 
-59. make up for 补偿，弥补  
+- make up for 补偿，弥补  
 The man tried to make up for his mistakes by giving her flowers.
 
-58. make up with sb. 与...和解  
+- make up with sb. 与...和解  
 After the fight they made up with each other.
 
 57. give sth off
