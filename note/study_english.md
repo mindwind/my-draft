@@ -3,6 +3,18 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+- on and on 继续不停的
+  The boy goes on and on about his favorite cars, it's so annoying.
+
+- lay sth aside 储蓄
+  I lay money aside for the future.
+
+- keep sth to oneself 不影响他人，独自享用
+  During dinner, you should keep your work to yourself.
+
+- pick out 选出，挑选
+  She picks meat out for dinner.
+
 - all told 总共
   All told, the price is 470
 
