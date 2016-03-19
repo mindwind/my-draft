@@ -3,6 +3,12 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+- learn (know) sth by heart 记住，背下
+  The boy knows the song by heart, he doesn't need sheet music.
+
+- back down from 投降，认输
+  We were surrounded, so we had to back down from the fight.
+
 - on and on 继续不停的
   The boy goes on and on about his favorite cars, it's so annoying.
 
