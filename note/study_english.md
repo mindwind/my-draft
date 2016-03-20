@@ -3,6 +3,18 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+- cash in on 以...获利，盈利
+  He found an advantage against the casino and cashed in on his discovery.
+
+- carry through 坚持下去，渡过难关
+  It was difficult, but he carried through and lifted the weight.
+
+- get sth. down 写下
+  When she has ideas she likes to get them down quickly.
+
+- out of line with <-> in line with  跟...（不）一致
+  She's out of line with how we do things here.
+
 - learn (know) sth by heart 记住，背下
   The boy knows the song by heart, he doesn't need sheet music.
 
