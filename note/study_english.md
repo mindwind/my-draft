@@ -3,6 +3,9 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+- go off 爆炸
+  The bomb goes off with a "BOOM!"
+
 - beat about/around the bush  旁敲侧击，转弯抹角
   Should my novel beat about the bush, or should it really say what we did that night?
 
