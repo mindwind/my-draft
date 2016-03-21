@@ -3,6 +3,12 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+- beat about/around the bush  旁敲侧击，转弯抹角
+  Should my novel beat about the bush, or should it really say what we did that night?
+
+- look sth. up 查字典
+  I look "parasite" up in the "P" section.
+
 - cash in on 以...获利，盈利
   He found an advantage against the casino and cashed in on his discovery.
 
