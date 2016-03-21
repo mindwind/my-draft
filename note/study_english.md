@@ -445,14 +445,10 @@ After the fight they made up with each other.
 5. put my foot in my mouth
 搬起石头砸自己的脚
 
-4. tie the knot
-喜结良缘
+- tie the knot 喜结良缘
 
-3. hold someone back
-使某人犹豫不决
+- hold someone back 使某人犹豫不决
 
-2. be way out of line
-过分了
+- be way out of line 过分了
 
-1. LOL - Laugh Out Loud
-大笑，哈哈
+- LOL - Laugh Out Loud 大笑，哈哈
