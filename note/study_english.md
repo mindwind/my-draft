@@ -6,6 +6,9 @@ date      : 2015-09-18
 - look away  不再看，移开视线
   She looked at him in such distress that he had to look away.
 
+- go off  爆炸
+  The bomb goes off with a "BOOM!"
+
 - beat about/around the bush  旁敲侧击，转弯抹角
   Should my novel beat about the bush, or should it really say what we did that night?
 
