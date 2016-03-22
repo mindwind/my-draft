@@ -3,19 +3,22 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+- look away  不再看，移开视线
+  She looked at him in such distress that he had to look away.
+
 - beat about/around the bush  旁敲侧击，转弯抹角
   Should my novel beat about the bush, or should it really say what we did that night?
 
-- look sth. up 查字典
+- look sth. up  查字典
   I look "parasite" up in the "P" section.
 
-- cash in on 以...获利，盈利
+- cash in on  以...获利，盈利
   He found an advantage against the casino and cashed in on his discovery.
 
-- carry through 坚持下去，渡过难关
+- carry through  坚持下去，渡过难关
   It was difficult, but he carried through and lifted the weight.
 
-- get sth. down 写下
+- get sth. down  写下
   When she has ideas she likes to get them down quickly.
 
 - out of line with <-> in line with  跟...（不）一致
@@ -430,31 +433,24 @@ After the fight they made up with each other.
 12. at length
 最后；终于；充分的；详尽的
 
-11. put away
-收起来
+- put away 收起来
 
-10. walk of life
-各行各业，各界
+- walk of life  各行各业，各界
 
-9. parting statement
-临别赠言
+- parting statement  临别赠言
 
-8. sense of ethics, security, humor, direction, worth
-伦理观，安全感，幽默感，方向感，价值观
+- sense of ethics, security, humor, direction, worth  伦理观，安全感，幽默感，方向感，价值观
 
-7. on the same page
-达成共识
+- on the same page  达成共识
 
-6. get on with / get along with
-英式           美式 - 相处甚好
+- get on with / get along with  相处甚好
 
-5. put my foot in my mouth
-搬起石头砸自己的脚
+- put my foot in my mouth  搬起石头砸自己的脚
 
-- tie the knot 喜结良缘
+- tie the knot  喜结良缘
 
-- hold someone back 使某人犹豫不决
+- hold someone back  使某人犹豫不决
 
-- be way out of line 过分了
+- be way out of line  过分了
 
-- LOL - Laugh Out Loud 大笑，哈哈
+- LOL - Laugh Out Loud  大笑，哈哈
