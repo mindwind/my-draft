@@ -3,6 +3,30 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+- hold onto = hold firmly  抓住，抓牢
+  Some parts of the wall are difficult to hold onto when rock climbing.
+
+- at fault  过错, 责任
+  Since he was drinking and driving, he was at fault in the accident.
+
+- settle on/upon sth.  决定
+  She settled on losing weight, so now she's given up junk food.
+
+- come to nought  失败
+  The man threw many darts at the board, but it all came to nought.
+
+- be hard to say  难以估计
+  I don't know the answer, it's hard to say.
+
+- once and for all  一次了结地， 一劳永逸地; 彻底地; 最终地
+  Once and for all, it's time to quit smoking.
+
+- put forward  提出
+  The boy put forward a practicable solution to get the weight of the elephant.
+
+- come to nought  失败
+  The man threw many darts at the board, but it all came to nought.
+
 - look away  不再看，移开视线
   She looked at him in such distress that he had to look away.
 
