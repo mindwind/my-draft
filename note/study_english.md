@@ -3,6 +3,12 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+- keep sb. down  压制
+  The mean girls really keep her down at school.
+
+- for good (and all)  永久的，一劳永逸的
+  You must quit smoking for good and all.
+
 - hold onto = hold firmly  抓住，抓牢
   Some parts of the wall are difficult to hold onto when rock climbing.
 
@@ -144,17 +150,20 @@ The farmer clears away weeds so his crops can grow.
 116. leave sb/sth behind 忘带，留下
 She left her purse behind in the car.
 
-115. pull oneself together 恢复镇定；振作起来
-She pulled herself together before the big game by saying a prayer and concentrating.
-
 114. look back on sth 回顾
 The old woman look back on their childhood memories together.
 
 113. live throught 度过
 The farmers live through the war by hiding in the country.
 
-112. pull over 开到路边
-She pulled over to ask for help.
+- pull sth. off  努力实现
+  I'm pulling my dream off to make my parents proud.
+
+- pull oneself together   恢复镇定；振作起来
+  She pulled herself together before the big game by saying a prayer and concentrating.
+
+- pull over   开到路边
+  She pulled over to ask for help.
 
 111. go far 成功，大有前途
 With the right attitude, you can go far in life.
