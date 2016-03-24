@@ -33,6 +33,9 @@ date      : 2015-09-18
 - come to nought  失败
   The man threw many darts at the board, but it all came to nought.
 
+- in a row  接连
+  He finished second in the championship four years in a row.
+
 - look away  不再看，移开视线
   She looked at him in such distress that he had to look away.
 
