@@ -3,6 +3,9 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+- take pains to do  尽力去做；
+  My mother takes pains to make sure all the food is served.
+
 - keep sb. down  压制
   The mean girls really keep her down at school.
 
