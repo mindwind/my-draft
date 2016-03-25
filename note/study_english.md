@@ -3,11 +3,36 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+
+- the present day  当代，现代
+  In the present day we have many ways to access the internet.
+
+- pull sth. down  拆除
+  I heard they're going to pull that house down next week.
+
+- make light of  轻视
+  The manager made light of the problems we were having.
+
+- goes on board  在船上，在飞机上
+  She goes on board and enjoys the sun.
+
+- apply oneself to sth.  专心致志于
+  She applies herself to her scientific research.
+
+- do with  需要
+  I'm so tired, I could really do with a nap today.
+
 - take pains to do  尽力去做；
   My mother takes pains to make sure all the food is served.
 
+- keep to the beaten track  循规蹈矩
+  He decided not to become an artist; he kept to the beaten track and worked in an office.
+
 - keep sb. down  压制
   The mean girls really keep her down at school.
+
+- keep sb on  继续雇佣某人
+  I'm firing everyone else, but I'd like to keep you on as an employee.
 
 - for good (and all)  永久的，一劳永逸的
   You must quit smoking for good and all.
@@ -21,9 +46,6 @@ date      : 2015-09-18
 - settle on/upon sth.  决定
   She settled on losing weight, so now she's given up junk food.
 
-- come to nought  失败
-  The man threw many darts at the board, but it all came to nought.
-
 - be hard to say  难以估计
   I don't know the answer, it's hard to say.
 
@@ -32,9 +54,6 @@ date      : 2015-09-18
 
 - put forward  提出
   The boy put forward a practicable solution to get the weight of the elephant.
-
-- come to nought  失败
-  The man threw many darts at the board, but it all came to nought.
 
 - in a row  接连
   He finished second in the championship four years in a row.
@@ -138,9 +157,6 @@ At first she was confused, but then she started to catch on.
 122. call for 需要；要求
 She is in trouble, so she calls for help.
 
-121. keep sb on 继续雇佣某人
-I'm firing everyone else, but I'd like to keep you o as an employee.
-
 120. all out 全力以赴
 He goes all out to push the boulder up the hill.
 
@@ -177,14 +193,23 @@ With the right attitude, you can go far in life.
 110. hold out against 坚持，顶住
 He won eventually, but I managed to hold out against hime for ten minutes.
 
-109. come about 发生
-That car accident is so terrible, how could it have come about?
+- come to nought  失败
+  The man threw many darts at the board, but it all came to nought.
+
+- come about  发生
+  That car accident is so terrible, how could it have come about?
+
+- come(bring) sth to light  揭露
+  The news brought many things to light about the government.
+
+- come apart  破碎；瓦解；崩溃
+  The roof is coming apart.
+
+- come across sb/sth  偶然碰见  
+  We came across another family in our hotel.
 
 108. be in two minds about sth 犹豫不决
 He is two minds about which door he should take.
-
-107. come(bring) sth to light 揭露
-The news brought many things to light about the government.
 
 106. has the making of 具有成为...所需要的素质
 At only ten years old, the boy already has the making of a pro football player.
@@ -227,9 +252,6 @@ The daughter really takes after her mother.
 
 94. make sb. out to be
 把...说成  The old ladies make her out to be a bad person.
-
-93. come across sb/sth
-偶然碰见  We came across another family in our hotel.
 
 92. reckon with sb
 认真对待  The father reckon with his son in a game of chess.
