@@ -3,6 +3,15 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+- above(beyond) reproach  无可指责，无可厚非
+  The ruler was above reproach, everybody loved him.  
+
+- later on  后来；稍后
+  Later on, when I get back, we can start working again.
+
+- give way to  给...让路；为...所代替
+  When driving, you should always give way to pedestrians and especially kids.
+
 - pass the time of day with  交谈；共渡
   The women like to pass the time of day with each other, just talking and sipping tea.
 
