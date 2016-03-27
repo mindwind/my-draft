@@ -3,6 +3,20 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+- pass the time of day with  交谈；共渡
+  The women like to pass the time of day with each other, just talking and sipping tea.
+
+- break away from  突然离开
+  The black swan breaks away from the white swans.
+
+- be(get) fed up with  厌烦
+  He gets fed up with people pestering him with annoying messages.
+
+- plead guilty(not guilty)  服罪（不服罪）
+  He pled guilty to the crime so they put him in jail.
+
+- all the same to 对...说来都一样；无所谓
+  It's all the same to her -- she doesn't care.
 
 - the present day  当代，现代
   In the present day we have many ways to access the internet.
