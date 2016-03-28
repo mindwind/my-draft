@@ -3,6 +3,18 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+- Every cloud has a silver lining   黑暗中总有一丝光明（谚语，鼓励人们保持乐观）
+  As they say, every cloud has a silver lining. We have drawn lessons from the decisions taken.
+
+- falling out  闹翻（亲人、朋友、爱人之间）
+  The falling out lovers is the renewing of love.
+
+- cost a arm and leg  价值不菲
+  A week at a health farm can cost an arm and a leg.
+
+- steal someone's thunder  窃取别人的成绩，居他人之功
+  The jealous manager used to steal his best staff members’ thunder and falsely claim that their ideas were his.
+
 - bring forth  提出，产生
   Do not let your mountain in labour bring forth a mouse.
 
