@@ -3,6 +3,12 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+- bring forth  提出，产生
+  Do not let your mountain in labour bring forth a mouse.
+
+- stop by  顺便走访
+  I'll stop by see Leigh before going home.
+
 - above(beyond) reproach  无可指责，无可厚非
   The ruler was above reproach, everybody loved him.  
 
