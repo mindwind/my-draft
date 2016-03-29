@@ -3,11 +3,39 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+
+- do sth. with a bad grace  勉强做某事
+  The child did his medical checkup with a bad grace, crying and screaming.
+
+- stick around  逗留
+  My boyfriend had better come soon - I'm not going to stick around much longer.
+
+- try one's hand at  尝试着做...
+  For this New Year, I will try my hand at losing weight.
+
+- get the better of  打败
+  The man on top got the better of the other man.
+
+- lay sth. bare  显示；揭露
+  The decision was easy for the judge after the truth was laid bare.
+
 - be at odds with sb.(over sth.)   与...有争执
   He is at odds with his girlfriend over who should wash the dishes.
 
 - Learn sth. the hard way  经过艰难困苦而学到
   She had to learn Latin the hard way - from boring old books, without a computer.
+
+- be on to  意识到
+  That's great idea! I really think you're on to something.
+
+- live up to  不辜负；做到
+  The son really lived up to his father's expectations, he was great at his job.
+
+- snap at sth.  咬住
+  The dog snapped at the dogcatcher's butt.
+
+- at full tilt  全速地
+  The runner runs at full tilt so he can win the race.
 
 - Every cloud has a silver lining   黑暗中总有一丝光明（谚语，鼓励人们保持乐观）
   As they say, every cloud has a silver lining. We have drawn lessons from the decisions taken.
@@ -399,10 +427,13 @@ The daughter really takes after her mother.
 - rise to the occasion
 应付自如  The game was hard, but the boy rose to the occasion and won the game.
 
-- make up for 补偿，弥补  
+- make sth. up   虚构
+  She is the swindler who makes everything up.
+
+- make up for  补偿，弥补  
 The man tried to make up for his mistakes by giving her flowers.
 
-- make up with sb. 与...和解  
+- make up with sb.  与...和解  
 After the fight they made up with each other.
 
 57. give sth off
