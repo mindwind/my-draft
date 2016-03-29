@@ -3,6 +3,12 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+- be at odds with sb.(over sth.)   与...有争执
+  He is at odds with his girlfriend over who should wash the dishes.
+
+- Learn sth. the hard way  经过艰难困苦而学到
+  She had to learn Latin the hard way - from boring old books, without a computer.
+
 - Every cloud has a silver lining   黑暗中总有一丝光明（谚语，鼓励人们保持乐观）
   As they say, every cloud has a silver lining. We have drawn lessons from the decisions taken.
 
