@@ -3,6 +3,14 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+- let sb. down  使失望
+  Her daughter really let her mother down by not doing her homework.
+
+- set off  出发
+  The pirates set off from the island.
+
+- give oneself(put on) airs  装腔作势
+  I hate how she always gives herself airs at parties.
 
 - do sth. with a bad grace  勉强做某事
   The child did his medical checkup with a bad grace, crying and screaming.
