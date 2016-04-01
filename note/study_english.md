@@ -3,6 +3,9 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+- no biggie == no big deal  没什么大不了的
+  No biggie, it is not surprise for me to fail again.
+
 - let sb. down  使失望
   Her daughter really let her mother down by not doing her homework.
 
