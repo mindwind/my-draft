@@ -3,6 +3,25 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+
+- behind the times  过时的
+  That bicycle is so-old fashioned and behind the times.
+
+- look for  寻找
+  Is this the right place to look for science fiction novels?
+
+- feel for  同情
+  "I really feel for you." the older woman said as she handed me tissues.
+
+- hit on(upon)  偶然碰到
+  The chef hit on an idea for a new dish.
+
+- day in and day out  一天又一天
+  I have to work day in and day out; I never get a break.
+
+- pass off  冒充
+  She tried pass off as a man, but it didn't work.
+
 - state of the art  体现最高水平的
   The system was state of the art.
 
