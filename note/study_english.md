@@ -3,6 +3,9 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+- state of the art  体现最高水平的
+  The system was state of the art.
+
 - no biggie == no big deal  没什么大不了的
   No biggie, it is not surprise for me to fail again.
 
