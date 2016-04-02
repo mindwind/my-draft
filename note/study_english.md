@@ -3,6 +3,29 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+- clear up  变晴
+  After the rain, the sky clears up and a rainbow appears.
+
+- for the most part  通常；在很大程度上
+  The product works for the most part.
+
+- take sth. down  拆除
+  They're taking the old building down to make a few building.
+
+- keep sth. (back) from  阻止
+  The mask keeps the bacteria from invading.
+
+- be better off  较富裕；更好
+  The man is better off than most; in fact, he's rich.
+
+- lay sth. out  展示，摆开，布置，设计
+  Let me lay out some charts for us to look at together.
+
+- think nothing of = never mind  把...看作平常
+  "Thank you so much!" "Oh, think nothing of it."
+
+- bring in  引进，增加
+  The new government policies really bring in lots of money.
 
 - behind the times  过时的
   That bicycle is so-old fashioned and behind the times.
