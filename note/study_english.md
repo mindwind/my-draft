@@ -3,6 +3,31 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+
+- cash crop  经济作物
+  As a major cash crop in America, corn has brought farmers a large income. 
+
+- the pick of  精华，最好部分
+  The golden cube is the pick of the whole cubes.
+
+- be set on sth.  决心做某事
+  For the New Year, I'm set on quitting smoking.
+
+- in the hands of  在...掌控中
+  The rescue operation was in the hands of the fire fighters.
+
+- live it up  狂欢一场
+  The had a big party and really lived it up.
+
+- look out for sb/sth.  注意
+  You should look out for bicycles on this road.
+
+- get round to doing sth  抽出时间做
+  After putting it off for weeks, the man finally got round to mowing his lawn.
+
+- hand sth. over to sb.  移交
+  I'll hand the house keys over to you tomorrow.
+
 - clear up  变晴
   After the rain, the sky clears up and a rainbow appears.
 
