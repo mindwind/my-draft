@@ -4,8 +4,23 @@ date      : 2015-09-18
 ---
 
 
+- in one's face  当着某人的面
+  If you cheat on me, get a hotel room - don't be so in my face about it.
+
+- pass by  经过，走过
+  Time can pass us by so quickly.
+
+- pass on  去世
+  I'm sorry, he is no longer alive; he has passed on.
+
+- cut sth/sb. down  砍倒；削减
+  You need to cut that tree down before it falls down.
+
+- get down to  开始认真对待
+  It's time to get down to my tasks and start working.
+
 - cash crop  经济作物
-  As a major cash crop in America, corn has brought farmers a large income. 
+  As a major cash crop in America, corn has brought farmers a large income.
 
 - the pick of  精华，最好部分
   The golden cube is the pick of the whole cubes.
