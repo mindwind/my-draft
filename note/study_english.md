@@ -3,6 +3,17 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+- as opposed to  与...形成对照
+  Susie believes we should take the car, as opposed to Lucy, who thinks we should walk.
+
+- stick to sb./sth.  忠于
+  The supporters stick to their leader, they really believe in him.
+
+- go without saying  不言而喻，理所当然
+  "2+2=4" is a truth that goes without saying.
+
+- take sth. to heart  牢记
+  I hope my son takes the warning I gave him to heart.
 
 - in one's face  当着某人的面
   If you cheat on me, get a hotel room - don't be so in my face about it.
@@ -15,6 +26,9 @@ date      : 2015-09-18
 
 - cut sth/sb. down  砍倒；削减
   You need to cut that tree down before it falls down.
+
+- get away  逃脱，离开
+  When he stole my suitcase I chased after him, but he got away.
 
 - get down to  开始认真对待
   It's time to get down to my tasks and start working.
@@ -33,6 +47,9 @@ date      : 2015-09-18
 
 - live it up  狂欢一场
   The had a big party and really lived it up.
+
+- look down on  轻视
+  I can tell he looks down on me--he is blowing smoke in my face.
 
 - look out for sb/sth.  注意
   You should look out for bicycles on this road.
@@ -363,6 +380,9 @@ With the right attitude, you can go far in life.
 
 110. hold out against 坚持，顶住
 He won eventually, but I managed to hold out against hime for ten minutes.
+
+- come along  出现
+  Sometimes we lose money, but profits are coming along.
 
 - come to nought  失败
   The man threw many darts at the board, but it all came to nought.
