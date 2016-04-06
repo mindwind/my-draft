@@ -3,6 +3,9 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+- shoot the bull  吹牛
+  Don't pay much attention to what he says, he likes to shoot the bull.
+
 - as opposed to  与...形成对照
   Susie believes we should take the car, as opposed to Lucy, who thinks we should walk.
 
