@@ -3,6 +3,13 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+
+- get off  从...下来；脱下
+  After several hours on a plane, passengers were excited to get off.
+
+- pick up  接；中途搭乘
+  Since he can't drive by himself. I have to pick him up from work every day.
+
 - shoot the bull  吹牛
   Don't pay much attention to what he says, he likes to shoot the bull.
 
@@ -11,6 +18,9 @@ date      : 2015-09-18
 
 - stick to sb./sth.  忠于
   The supporters stick to their leader, they really believe in him.
+
+- go without sth.  在缺少...的情况下勉强对付
+  I have no cigarettes, so I'll have to go without them for a while.
 
 - go without saying  不言而喻，理所当然
   "2+2=4" is a truth that goes without saying.
@@ -86,6 +96,9 @@ date      : 2015-09-18
 
 - bring in  引进，增加
   The new government policies really bring in lots of money.
+
+- bring up  养育
+  A mother should bring up her child with love and care.
 
 - behind the times  过时的
   That bicycle is so-old fashioned and behind the times.
@@ -383,6 +396,9 @@ With the right attitude, you can go far in life.
 
 110. hold out against 坚持，顶住
 He won eventually, but I managed to hold out against hime for ten minutes.
+
+- come to  被想到
+  Suddenly a good idea comes to him.
 
 - come along  出现
   Sometimes we lose money, but profits are coming along.
