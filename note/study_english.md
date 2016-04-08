@@ -3,6 +3,24 @@ title     : Study English
 date      : 2015-09-18
 ---
 
+## Idioms
+
+
+## Phrases
+- settle sb. in  迁入新居
+  He settled her in and had a glass of wine to celebrate.
+
+- pass sth. off  搪塞过去；敷衍过去
+  He tried to pass it off as real money, but anybody could tell it was fake.
+
+- find one's bearings  指明方向
+  My new GPS helps me find my bearings when I'm lost.
+
+- take sth. upon oneself  承担
+  My awesome colleague took our extra works upon himself.
+
+- at full blast  全力地
+  The dog ran at full blast and won the race.
 
 - get off  从...下来；脱下
   After several hours on a plane, passengers were excited to get off.
@@ -60,6 +78,9 @@ date      : 2015-09-18
 
 - live it up  狂欢一场
   The had a big party and really lived it up.
+
+- look over  检查
+  The doctors look over my test results to see if anything's wrong.
 
 - look down on  轻视
   I can tell he looks down on me--he is blowing smoke in my face.
