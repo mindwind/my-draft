@@ -3,10 +3,24 @@ title     : Study English
 date      : 2015-09-18
 ---
 
-## Idioms
+- back sb. up  支持某人
+  I'm only one man, but I've got a whole team backing me up.
 
+- go through  穿过
+  The blue arrow goes through the wall.
 
-## Phrases
+- get through (sth.)  通过
+  He got through the evaluation by working very hard.
+
+- stand in (for sb.)  代替
+  Since he loves her, he has to stand in for the baby's real father.
+
+- get into  从事
+  These people are willing to get into a cleaning business.
+
+- set sth. off  使爆炸
+  The fuse will set the bomb off, and then there will be a huge explosion.
+
 - settle sb. in  迁入新居
   He settled her in and had a glass of wine to celebrate.
 
@@ -105,6 +119,9 @@ date      : 2015-09-18
 
 - keep sth. (back) from  阻止
   The mask keeps the bacteria from invading.
+
+- keep sb. up  坚持，继续
+  Keep it up, you're almost finished.
 
 - be better off  较富裕；更好
   The man is better off than most; in fact, he's rich.
