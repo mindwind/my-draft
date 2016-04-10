@@ -3,6 +3,15 @@ title     : English Phrases
 date      : 2015-09-18
 ---
 
+- go out  外出；交往
+  They're going out, they've been dating for about a month.
+
+- be on edge  紧张不安
+  He was on edge during the result checking procedure.
+
+- in stock  有存货
+  The ware house has many products in stock.
+
 - back sb. up  支持某人
   I'm only one man, but I've got a whole team backing me up.
 
@@ -93,6 +102,9 @@ date      : 2015-09-18
 - live it up  狂欢一场
   The had a big party and really lived it up.
 
+- look on sb. as  当作...看待
+  She loves her dog so much she looks on him as a son.
+
 - look over  检查
   The doctors look over my test results to see if anything's wrong.
 
@@ -122,6 +134,12 @@ date      : 2015-09-18
 
 - keep sb. up  坚持，继续
   Keep it up, you're almost finished.
+
+- keep at  不断地做
+  If you keep at your exercises, you can change your body.
+
+- keep in with sb.  与（某人）友好相处
+  She keeps in with her ex-boyfriend by calling every week.
 
 - be better off  较富裕；更好
   The man is better off than most; in fact, he's rich.
@@ -434,6 +452,9 @@ With the right attitude, you can go far in life.
 
 110. hold out against 坚持，顶住
 He won eventually, but I managed to hold out against hime for ten minutes.
+
+- come up against  碰到（困难、反对）
+  He came up against a huge obstacle in his work.
 
 - come to  被想到
   Suddenly a good idea comes to him.
