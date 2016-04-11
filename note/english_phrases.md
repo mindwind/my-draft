@@ -3,6 +3,12 @@ title     : English Phrases
 date      : 2015-09-18
 ---
 
+- give way to sb.  屈服，让步
+  I can't believe I had to give way to the little boy in our arm wrestling contest.
+
+- in no time  立刻
+  We'll do it in no time.
+
 - go out  外出；交往
   They're going out, they've been dating for about a month.
 
@@ -455,6 +461,9 @@ With the right attitude, you can go far in life.
 
 110. hold out against 坚持，顶住
 He won eventually, but I managed to hold out against hime for ten minutes.
+
+- come to terms with sb.  与...达成协议
+  We came to terms with each other and decided to work together.
 
 - come up against  碰到（困难、反对）
   He came up against a huge obstacle in his work.
