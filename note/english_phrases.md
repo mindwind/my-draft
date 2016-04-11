@@ -45,6 +45,9 @@ date      : 2015-09-18
 - at full blast  全力地
   The dog ran at full blast and won the race.
 
+- bird of prey  食肉鸟，猛禽
+  He is a young eagle, a bird of prey.
+
 - get off  从...下来；脱下
   After several hours on a plane, passengers were excited to get off.
 

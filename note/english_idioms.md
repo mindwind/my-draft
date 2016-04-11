@@ -11,3 +11,6 @@ date      : 2016-04-09
 
 - miss the boat  错失良机
   Pay attention, John, or you'll miss the boat and not learn algebra.
+
+- flip burgers  做工资低的工作
+  Instead of playing baseball, the boys might be flipping burgers and earning a little cash.
