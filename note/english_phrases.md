@@ -3,6 +3,9 @@ title     : English Phrases
 date      : 2015-09-18
 ---
 
+- lose heart  丧失信心
+  Wang really lost heart as he failed to get to the front page.
+
 - give way to sb.  屈服，让步
   I can't believe I had to give way to the little boy in our arm wrestling contest.
 
