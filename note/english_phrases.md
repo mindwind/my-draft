@@ -3,6 +3,16 @@ title     : English Phrases
 date      : 2015-09-18
 ---
 
+
+- come off  发生；举行
+  The wedding came off with no problems at all.
+
+- at the mercy of  任凭...摆布
+  I'm at the mercy of my boss, he always yells at me.
+
+- take her time over  慢慢做
+  The old lady takes her time over her knitting.
+
 - lose heart  丧失信心
   Wang really lost heart as he failed to get to the front page.
 
