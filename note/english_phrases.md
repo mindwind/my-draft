@@ -3,6 +3,8 @@ title     : English Phrases
 date      : 2015-09-18
 ---
 
+- plump for  投票选出（一人）
+  I'll plump for bacon and eggs rather than breakfast cereal.
 
 - strike home  击中要害；中肯；取得显著效果
   The movie depicting the battles and bloodshed is bound to strike home.
