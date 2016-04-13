@@ -3,6 +3,19 @@ title     : English Phrases
 date      : 2015-09-18
 ---
 
+
+- bear sth./sb. out  证实
+  He had an idea about the criminal's identity and looking at the fingerprints bears his idea out.
+
+- beat off  击退
+  He beat off his opponent at the end of the boxing match.
+
+- put an end to  消灭
+  The new spray puts an end to ants and other bugs.
+
+- get at sb./sth.  得到；接近
+  I used a ladder to get at the apple.
+
 - plump for  投票选出（一人）
   I'll plump for bacon and eggs rather than breakfast cereal.
 
