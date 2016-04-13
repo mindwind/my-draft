@@ -4,6 +4,13 @@ date      : 2015-09-18
 ---
 
 
+- strike home  击中要害；中肯；取得显著效果
+  The movie depicting the battles and bloodshed is bound to strike home.
+  He who strikes a tiger must be sure to strike home.
+
+- note down  记下
+  Please note down what I'm about to say.
+
 - come off  发生；举行
   The wedding came off with no problems at all.
 
