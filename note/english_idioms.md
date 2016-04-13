@@ -3,6 +3,16 @@ title     : English Idioms
 date      : 2016-04-09
 ---
 
+
+- paint the town red  庆贺，狂欢
+  Today is Friday! Let's paint the town red tonight.
+
+- even Steven  扯平了
+  Bill hit Tom; then Tom hit Bill. Now they are even Steven.
+
+- purple passage  词藻华丽的段落
+  I had been latching on to the purple passages like a child running after toffee.
+
 - hit the nail on the head  一针见血
   The last observation of yours has hit the nail on the head.
 
