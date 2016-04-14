@@ -4,6 +4,12 @@ date      : 2015-09-18
 ---
 
 
+- get on  上车（飞机、船）
+  Let's get on the airplane.
+
+- for one thing  首先
+  For one thing, you haven't finished your homework yet; for another, stop picking your ear!
+
 - bear sth./sb. out  证实
   He had an idea about the criminal's identity and looking at the fingerprints bears his idea out.
 
