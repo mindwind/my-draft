@@ -4,6 +4,18 @@ date      : 2015-09-18
 ---
 
 
+- be all set  准备就绪
+  The runners are all set and ready to begin the race.
+
+- make off  逃走；匆忙离开
+  The thieves made off with her purse.
+
+- go over  复习；重温
+  He goes over the book before class.
+
+- become of  降临；发生
+  What has become of my car?
+
 - get on  上车（飞机、船）
   Let's get on the airplane.
 
