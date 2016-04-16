@@ -3,6 +3,17 @@ title     : English Idioms
 date      : 2016-04-09
 ---
 
+- hit the nail on the head  一针见血；击中要害
+  Every word he said hit the nail on the head.
+
+- fall prey to  深受...之害
+  American children often fall prey to sexual abuse.
+
+- when push comes to shove  假如实在不行
+  When push comes to shove, you are on your own.
+
+- fan the flame  煽风点火
+  This incident could fan the flame of rebellion.
 
 - paint the town red  庆贺，狂欢
   Today is Friday! Let's paint the town red tonight.
