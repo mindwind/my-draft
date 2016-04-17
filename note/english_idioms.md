@@ -4,6 +4,9 @@ date      : 2016-04-09
 ---
 
 
+- wouldn't be caught dead doing  死也不会做某事
+  I wouldn't be caught dead doing that.
+
 - stand in line  排队
   The people stand in line for the bathroom.
 
