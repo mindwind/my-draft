@@ -3,6 +3,20 @@ title     : English Idioms
 date      : 2016-04-09
 ---
 
+- come apart  破碎; 被拆开
+  All his nerves seemed to have come apart.
+
+- look set to  看来
+  They look set to repeat their success now in the USA.
+
+- at large  在逃；逍遥法外
+  The man who tried to have her killed is still at large.
+
+- in breach of  违背
+  Your company are in breach of the contract.
+
+- in the wake of  尾随；紧跟着
+  Adidas plans to end its sponsorship deal with athletics world governing body in the wake of a doping scandal.
 
 - wouldn't be caught dead doing  死也不会做某事
   I wouldn't be caught dead doing that.
