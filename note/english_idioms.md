@@ -3,6 +3,11 @@ title     : English Idioms
 date      : 2016-04-09
 ---
 
+
+
+- in that  因为
+  He is talented in that he can speak five different languages.
+
 - persevere with(at, in)  坚持
   If you persevere with your exercise, you can get in shape.
 
