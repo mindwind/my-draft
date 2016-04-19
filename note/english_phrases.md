@@ -4,6 +4,15 @@ date      : 2015-09-18
 ---
 
 
+- a palace of a house  一座宫殿般的房子(a xx of a 单数名词，一种固定结构）
+  This is a palace of a house.
+
+- out of the question  不可能的
+  For the homeless, private medical care is simply out of the question.
+
+- out of question  毫无疑问的
+  He is out of question the greatest authority on this subject now living.
+
 - purple passage  词藻华丽的段落
   I had been latching on to the purple passages like a child running after toffee.
 
