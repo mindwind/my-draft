@@ -4,6 +4,42 @@ date      : 2015-09-18
 ---
 
 
+- purple passage  词藻华丽的段落
+  I had been latching on to the purple passages like a child running after toffee.
+
+- look set to  看来
+  They look set to repeat their success now in the USA.
+
+- at large  在逃；逍遥法外
+  The man who tried to have her killed is still at large.
+
+- in breach of  违背
+  Your company are in breach of the contract.
+
+- in the wake of  尾随；紧跟着
+  Adidas plans to end its sponsorship deal with athletics world governing body in the wake of a doping scandal.
+
+- stand in line  排队
+  The people stand in line for the bathroom.
+
+- bring forward  提出
+  She is always bringing forward new ideas in meetings.
+
+- break down  发生故障；失败
+  The man's car broke down, so he has to stop and call for help.
+
+- one another 彼此
+  The couple really love one another.
+
+- end up  以...告终
+  If you commit fraud, you will end up in jail.
+
+- have one's hands full 忙得不可开交
+  He has his hands full with work.
+
+- come apart  破碎; 被拆开
+  All his nerves seemed to have come apart.
+
 - be all set  准备就绪
   The runners are all set and ready to begin the race.
 
