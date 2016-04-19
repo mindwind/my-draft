@@ -1,0 +1,24 @@
+---
+title     : English Grammar
+date      : 2016-04-19
+---
+
+
+## 主语
+- 动名词或不定式做主语
+  It is no use crying over spilt milk.
+  It is useless to cry over spilt milk.
+  There is no use in crying over spilt milk.
+
+- 名次性从句转换为所有格动名词
+  I am worried about the fact that he doesn't study.
+  I am worried that he doesn't study.
+  I am worried about his not studying.
+  I am happy about the fact that he may come.
+  I am happy about his being likely to come.
+
+
+## 动词
+- turn  改变（与颜色和情绪有关）
+  Her face turned pale when she heard the news.
+  She became beautiful.
