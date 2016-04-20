@@ -22,3 +22,12 @@ date      : 2016-04-19
 - turn  改变（与颜色和情绪有关）
   Her face turned pale when she heard the news.
   She became beautiful.
+
+- stop
+  He stopped writing after he got married.  停止写作
+  He stopped to talk to me when he saw me.  停下来而去做...
+
+- make
+  His teacher made him a good student.
+  The trip made me happy.
+  I made him wash the car.
