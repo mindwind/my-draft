@@ -4,6 +4,13 @@ date      : 2015-09-18
 ---
 
 
+- put off  延期
+  They suggested putting off the game.
+
+- fool around  虚度光阴；乱搞男女关系
+  If you go to college, you must work hard, not fool around.
+  Never fool around with the client's wives.
+
 - a palace of a house  一座宫殿般的房子(a xx of a 单数名词，一种固定结构）
   This is a palace of a house.
 
