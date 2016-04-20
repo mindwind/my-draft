@@ -31,3 +31,13 @@ date      : 2016-04-19
   His teacher made him a good student.
   The trip made me happy.
   I made him wash the car.
+
+
+## 连接词
+- as well as  以及...
+  We as well as John like it.
+  He as well as I _is_ interested in music.
+
+- rather than  而非...
+  He is happy rather than sad.
+  He rather than I(, not I) _is_ interested in music.
