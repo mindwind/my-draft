@@ -40,4 +40,11 @@ date      : 2016-04-19
 
 - rather than  而非...
   He is happy rather than sad.
-  He rather than I(, not I) _is_ interested in music.
+  He rather than I _is_ interested in music.
+  He, not I, _is_ interested in music.
+
+- where  在...地方
+  Where there is a will, there is way.
+
+- nor  也不
+  She can't sing, nor can she dance.
