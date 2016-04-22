@@ -4,6 +4,7 @@ date      : 2016-04-09
 ---
 
 
+- Where there is smoke, there is fire.  无风不起浪
 
 - in that  因为
   He is talented in that he can speak five different languages.
