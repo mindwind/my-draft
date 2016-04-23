@@ -48,3 +48,16 @@ date      : 2016-04-19
 
 - nor  也不
   She can't sing, nor can she dance.
+
+
+## 关系词
+- so...that & such...that
+  He is so good a boy that I like him.
+  They are such good students that I like them.
+
+- how & what
+  How great a man he is!
+  What good students they are!
+
+- but
+  There is nothing but he is fond of. == There is nothing which he is not fond of.
