@@ -4,6 +4,13 @@ date      : 2016-04-09
 ---
 
 
+- To do him justice  平心而论
+
+- so to speak  可以这么说
+  The five countries have now all passed, so to speak, their entry test. 
+
+- Seeing is believing.  眼见为实
+
 - Where there is smoke, there is fire.  无风不起浪
 
 - in that  因为
