@@ -32,6 +32,10 @@ date      : 2016-04-19
   The trip made me happy.
   I made him wash the car.
 
+- anticipate & expect
+  I expect to see you again.
+  I anticipate seeing you again.
+
 
 ## 连接词
 - as well as  以及...
