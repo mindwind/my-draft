@@ -36,6 +36,8 @@ date      : 2016-04-19
   I expect to see you again.
   I anticipate seeing you again.
 
+- We are born (being) equal.
+
 
 ## 连接词
 - as well as  以及...
@@ -52,6 +54,9 @@ date      : 2016-04-19
 
 - nor  也不
   She can't sing, nor can she dance.
+
+- but  
+  He did nothing but (did) eat all day.   原形不定式 eat，省略第二个 did
 
 
 ## 关系词
