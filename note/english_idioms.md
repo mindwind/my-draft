@@ -4,10 +4,17 @@ date      : 2016-04-09
 ---
 
 
+- can (not) help doing sth / sb can not help but do sth  某人忍不住做某事
+  I can't help thinking he knows more than he has told us.
+  She couldn't help but wonder what he was thinking.
+
+- to and fro  来回的
+  She stood up and began to pace to and fro.
+
 - To do him justice  平心而论
 
 - so to speak  可以这么说
-  The five countries have now all passed, so to speak, their entry test. 
+  The five countries have now all passed, so to speak, their entry test.
 
 - Seeing is believing.  眼见为实
 
