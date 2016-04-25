@@ -4,9 +4,6 @@ date      : 2015-09-18
 ---
 
 
-- put off  延期
-  They suggested putting off the game.
-
 - fool around  虚度光阴；乱搞男女关系
   If you go to college, you must work hard, not fool around.
   Never fool around with the client's wives.
@@ -28,12 +25,6 @@ date      : 2015-09-18
 
 - at large  在逃；逍遥法外
   The man who tried to have her killed is still at large.
-
-- in breach of  违背
-  Your company are in breach of the contract.
-
-- in the wake of  尾随；紧跟着
-  Adidas plans to end its sponsorship deal with athletics world governing body in the wake of a doping scandal.
 
 - stand in line  排队
   The people stand in line for the bathroom.
@@ -375,9 +366,6 @@ date      : 2015-09-18
 - plead guilty(not guilty)  服罪（不服罪）
   He pled guilty to the crime so they put him in jail.
 
-- all the same to 对...说来都一样；无所谓
-  It's all the same to her -- she doesn't care.
-
 - the present day  当代，现代
   In the present day we have many ways to access the internet.
 
@@ -413,9 +401,6 @@ date      : 2015-09-18
 
 - hold onto = hold firmly  抓住，抓牢
   Some parts of the wall are difficult to hold onto when rock climbing.
-
-- at fault  过错, 责任
-  Since he was drinking and driving, he was at fault in the accident.
 
 - settle on/upon sth.  决定
   She settled on losing weight, so now she's given up junk food.
@@ -877,33 +862,80 @@ After the fight they made up with each other.
 破落  e.g. My neighborhood is so run down I've decided to move.
 
 
-14. all in all
-总的来说
+## All
+- all the same to  对...说来都一样；无所谓
+  It's all the same to her -- she doesn't care.
 
-13. in the running
-有获胜的希望
+- all in all  总的来说
+  All in all, it appeared that a pretty depressing summer awaited Jones.
 
-12. at length
-最后；终于；充分的；详尽的
 
-- put away 收起来
+## In
+- in breach of  违背
+  Your company are in breach of the contract.
 
+- in the wake of  尾随；紧跟着
+  Adidas plans to end its sponsorship deal with athletics world governing body in the wake of a doping scandal.
+
+- in the running  有获胜的希望
+  I think David is in the running for getting that post.
+
+
+## At
+- at fault  过错, 责任
+  Since he was drinking and driving, he was at fault in the accident.
+
+- at length
+  At length my father went into the house.  最后，终于
+  They spoke at length, reviewing the entire incident.   充分的；详尽的
+
+
+## Put
+- put away  收起来，放好
+  Put away any valuable or breakable objects.
+
+- put off  延期
+  They suggested putting off the game.
+
+- put my foot in my mouth  失言，说错话，做错事，搬起石头砸自己的脚
+  Sorry, I put my foot in my mouth.
+
+
+## Get
+- get on with
+  I was able to get on with my work without interruption.  继续（干某事）
+  What are your neighbors like? Do you get on with them?  和...友好相处
+
+- get along with  
+  It's impossible to get along with him.  与...和睦相处
+
+
+## Hold
+- hold back
+  She kept trying to hold back her tears.   控制
+  Do not hold back the truth.  隐瞒
+  The problem can be big enough to hold back a country's development.  阻碍
+  Social censure is an effective means of helping her help herself. Don't hold back.  犹豫不决
+
+
+## Others
 - walk of life  各行各业，各界
+  You can find influentials in every walk of life.
 
 - parting statement  临别赠言
 
 - sense of ethics, security, humor, direction, worth  伦理观，安全感，幽默感，方向感，价值观
+  There is a wry sense of humour in his work.
 
-- on the same page  达成共识
+- on the same page/wavelength  达成共识
+  When it comes to the kids, John, we got to stay on the same page.
 
-- get on with / get along with  相处甚好
+- tie the knot  结婚，喜结良缘
+  I really want to tie the knot this years and start a family.
 
-- put my foot in my mouth  搬起石头砸自己的脚
-
-- tie the knot  喜结良缘
-
-- hold someone back  使某人犹豫不决
-
-- be way out of line  过分了
+- way out of line  过分了
+  I admit I was way out of line.
 
 - LOL - Laugh Out Loud  大笑，哈哈
+  The Yanks look like a group of sailors, lol.
+  LOL , famous last words Roma
