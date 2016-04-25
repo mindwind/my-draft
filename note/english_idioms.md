@@ -4,6 +4,12 @@ date      : 2016-04-09
 ---
 
 
+- have a cow  大惊小怪，生气，焦虑
+  Don't have a cow — it's no big deal.
+
+- take with a grain of salt  对...半信半疑；对...采取保留态度
+  You should take what he says with a grain of salt.
+
 - can (not) help doing sth / sb can not help but do sth  某人忍不住做某事
   I can't help thinking he knows more than he has told us.
   She couldn't help but wonder what he was thinking.
