@@ -183,9 +183,6 @@ date      : 2015-09-18
 - pass on  去世
   I'm sorry, he is no longer alive; he has passed on.
 
-- cut sth/sb. down  砍倒；削减
-  You need to cut that tree down before it falls down.
-
 - get away  逃脱，离开
   When he stole my suitcase I chased after him, but he got away.
 
@@ -398,9 +395,6 @@ date      : 2015-09-18
 
 - for good (and all)  永久的，一劳永逸的
   You must quit smoking for good and all.
-
-- hold onto = hold firmly  抓住，抓牢
-  Some parts of the wall are difficult to hold onto when rock climbing.
 
 - settle on/upon sth.  决定
   She settled on losing weight, so now she's given up junk food.
@@ -819,47 +813,23 @@ After the fight they made up with each other.
 29. come around
 造访；开始接受；改变主意  e.g. I need time to come around to this new idea.
 
-28. in the order of
-大约， 与…相似  e.g. I guess that she is in the order of 40.
 
-27. Among other things
-除此之外
 
-26. level out
-平衡，消除差别
 
-25. play hardball
-采取强硬手段
 
-24. simply put
-简言之
 
-23. dumb sth down
-降低...标准
+## A
+- a good deal of  很多的
+  Some preteens are able to handle a good deal of responsibility.
 
-22. to the extent that
-达到这种程度以致于...；在这个程度上...
 
-21. provided that
-假若，连接短语
+## At
+- at fault  过错, 责任
+  Since he was drinking and driving, he was at fault in the accident.
 
-20. cut to the chase
-不绕圈子，有话直说
-
-19. a good deal of
-许多
-
-18. without further ado
-闲话少说
-
-17. be filled to capacity
-装满容量
-
-16. help out
-帮帮忙
-
-15. run down
-破落  e.g. My neighborhood is so run down I've decided to move.
+- at length
+  At length my father went into the house.  最后，终于
+  They spoke at length, reviewing the entire incident.   充分的；详尽的
 
 
 ## All
@@ -868,6 +838,59 @@ After the fight they made up with each other.
 
 - all in all  总的来说
   All in all, it appeared that a pretty depressing summer awaited Jones.
+
+
+## Among
+- Among other things  除此之外，此外
+  Among other things, we shrunk the size of the newspapers by an inch
+  Smith went back to his hometown, among other things, to see his mother.
+
+
+## B
+
+
+## Cut
+- cut to the chase  不绕圈子，有话直说
+  All right, let's stop the idle chatter and cut to the chase.
+
+- cut sth/sb. down
+  You need to cut that tree down before it falls down.  砍倒
+  We are constantly being reminded to cut down our fat intake.  减少，削减
+
+
+## Dumb
+- dumb sth down  （为使公众更易理解而）降低...标准，减少...的专业性
+  The researchers dumbed down the report before releasing it to the public.
+
+
+## E
+
+
+## F
+
+
+## Get
+- get on with
+  I was able to get on with my work without interruption.  继续（干某事）
+  What are your neighbors like? Do you get on with them?  和...友好相处
+
+- get along with  
+  It's impossible to get along with him.  与...和睦相处
+
+
+## Help
+- help out  帮忙
+  She's always willing to help out.
+
+## Hold
+- hold onto = hold firmly  抓住，抓牢
+  Some parts of the wall are difficult to hold onto when rock climbing.
+
+- hold back
+  She kept trying to hold back her tears.   控制
+  Do not hold back the truth.  隐瞒
+  The problem can be big enough to hold back a country's development.  阻碍
+  Social censure is an effective means of helping her help herself. Don't hold back.  犹豫不决
 
 
 ## In
@@ -880,15 +903,40 @@ After the fight they made up with each other.
 - in the running  有获胜的希望
   I think David is in the running for getting that post.
 
+- in the order of  大约，与...相似
+  I guess that she is in the order of 40.
 
-## At
-- at fault  过错, 责任
-  Since he was drinking and driving, he was at fault in the accident.
 
-- at length
-  At length my father went into the house.  最后，终于
-  They spoke at length, reviewing the entire incident.   充分的；详尽的
+## J
 
+
+## K
+
+
+## Laugh
+- LOL - Laugh Out Loud  大笑，哈哈
+  The Yanks look like a group of sailors, lol.
+  LOL , famous last words Roma
+
+
+## Level
+- level out  达到平衡，消除差别
+  The rise in the unemployment figure should level out soon.
+
+
+## M
+
+
+## N
+
+
+## On
+- on the same page/wavelength  达成共识
+  When it comes to the kids, John, we got to stay on the same page.
+
+
+## Part
+- parting statement  临别赠言
 
 ## Put
 - put away  收起来，放好
@@ -901,41 +949,49 @@ After the fight they made up with each other.
   Sorry, I put my foot in my mouth.
 
 
-## Get
-- get on with
-  I was able to get on with my work without interruption.  继续（干某事）
-  What are your neighbors like? Do you get on with them?  和...友好相处
-
-- get along with  
-  It's impossible to get along with him.  与...和睦相处
+## Q
 
 
-## Hold
-- hold back
-  She kept trying to hold back her tears.   控制
-  Do not hold back the truth.  隐瞒
-  The problem can be big enough to hold back a country's development.  阻碍
-  Social censure is an effective means of helping her help herself. Don't hold back.  犹豫不决
+## Run
+- run down
+  My neighborhood is so run down I've decided to move.  破落的
+  The property business could be sold or run down.  削减
 
 
-## Others
-- walk of life  各行各业，各界
-  You can find influentials in every walk of life.
-
-- parting statement  临别赠言
-
+## Sense
 - sense of ethics, security, humor, direction, worth  伦理观，安全感，幽默感，方向感，价值观
   There is a wry sense of humour in his work.
 
-- on the same page/wavelength  达成共识
-  When it comes to the kids, John, we got to stay on the same page.
+## Simply
+- simply put  简言之
+  Simply put, bounded controls should be used wherever bounded values are needed.
 
+
+## Tie
 - tie the knot  结婚，喜结良缘
   I really want to tie the knot this years and start a family.
 
+
+## U
+
+
+## V
+
+
+## Walk
+- walk of life  各行各业，各界
+  You can find influentials in every walk of life.
+
+
+## Way
 - way out of line  过分了
   I admit I was way out of line.
 
-- LOL - Laugh Out Loud  大笑，哈哈
-  The Yanks look like a group of sailors, lol.
-  LOL , famous last words Roma
+
+## X
+
+
+## Y
+
+
+## Z
