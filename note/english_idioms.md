@@ -4,6 +4,12 @@ date      : 2016-04-09
 ---
 
 
+- play hardball  采取强硬手段
+  The president has decided to play hardball on this issue.
+
+- without further ado  闲话少说
+  And without further ado, I would like to introduce Mr. Bill Franklin!
+
 - have a cow  大惊小怪，生气，焦虑
   Don't have a cow — it's no big deal.
 
