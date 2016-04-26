@@ -846,6 +846,25 @@ After the fight they made up with each other.
   Smith went back to his hometown, among other things, to see his mother.
 
 
+## Agree
+- agree on  就（条约，合同）达成协议
+  We finally agreed on the contract.
+
+- agree to sth.  同意某事
+  I agree to his coming here.
+
+- agree with sb.  同意某人
+  I agree with him on this point.
+
+
+## Angry
+- angry with sb
+  I'm angry with him. == I'm mad at him.
+
+- angry at sth
+  I'm angry at her attitude.
+
+
 ## B
 
 
@@ -924,7 +943,9 @@ After the fight they made up with each other.
   The rise in the unemployment figure should level out soon.
 
 
-## M
+## Make
+- make up one's mind  决心
+  He has made up his mind to study hard.
 
 
 ## N
@@ -937,6 +958,18 @@ After the fight they made up with each other.
 
 ## Part
 - parting statement  临别赠言
+
+
+## Prevail
+- prevail on/upon sb to do sth  劝说
+  I prevailed on him to come with me.
+
+
+## Prefer
+- prefer to    
+  I prefer coffee to tea.
+  Some girls prefer to do their revision at home.
+
 
 ## Put
 - put away  收起来，放好
