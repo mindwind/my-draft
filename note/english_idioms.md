@@ -4,6 +4,10 @@ date      : 2016-04-09
 ---
 
 
+- may as well  不妨（相对 had better 语气较弱）
+  You may as well stay home.
+  You may as well stay home as go out with them.（与其...倒不如）
+
 - play hardball  采取强硬手段
   The president has decided to play hardball on this issue.
 
