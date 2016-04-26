@@ -38,6 +38,22 @@ date      : 2016-04-19
 
 - We are born (being) equal.
 
+- need
+  I need to go.  肯定句，一般动词
+  I need not go. 否定句，助动词
+  Need he go?    疑问句，助动词
+
+- dare
+  He dares to go. 肯定句，一般动词
+  He dared me to jump the stream.  肯定句，一般动词，激（某人做某事）
+  He dare not go. 否定句，助动词
+  How dare you say such a thing to me?  疑问句，助动词
+
+- use to  
+  He used to live here.  助动词，过去曾经
+  Used there to be a pond in this garden?  助动词
+  He is used to work along.  人作主语，be + used to 表习惯于...
+
 
 ## 连接词
 - as well as  以及...
