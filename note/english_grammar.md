@@ -54,6 +54,12 @@ date      : 2016-04-19
   Used there to be a pond in this garden?  助动词
   He is used to work along.  人作主语，be + used to 表习惯于...
 
+- refuse to do
+  He refused to admit that he had done something wrong.
+
+- reject doing
+  He rejected working with Mary because he thought she was too selfish.
+
 
 ## 连接词
 - as well as  以及...
