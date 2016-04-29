@@ -882,7 +882,10 @@ After the fight they made up with each other.
   The researchers dumbed down the report before releasing it to the public.
 
 
-## E
+## Every
+- every now and then = sometimes
+  Every now and then you hear some bombs bursting.
+
 
 
 ## F
