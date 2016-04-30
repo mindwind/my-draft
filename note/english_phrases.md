@@ -985,6 +985,12 @@ After the fight they made up with each other.
   Sorry, I put my foot in my mouth.
 
 
+## pass
+- pass out
+  The instant she saw me, she passed out.  昏厥
+  The teacher began to pass out the papers at 8:15.  分发
+
+
 ## Q
 
 
