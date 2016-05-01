@@ -951,6 +951,11 @@ After the fight they made up with each other.
   He has made up his mind to study hard.
 
 
+## Much
+- much less  更不用说，用在否定句中作连接词  == still less | let alone
+  The boy didn't have a girlfriend, much less a wife.
+  He isn't interested in singing much less dancing.
+
 ## N
 
 
