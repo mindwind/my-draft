@@ -1018,6 +1018,10 @@ After the fight they made up with each other.
 - tie the knot  结婚，喜结良缘
   I really want to tie the knot this years and start a family.
 
+## Turn
+- turn about == turn around  转过身来; 掉头;
+  When she heard someone calling her, she turned about to see who it was.
+
 
 ## U
 
