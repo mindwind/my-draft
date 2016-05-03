@@ -3,6 +3,14 @@ title     : English Idioms
 date      : 2016-04-09
 ---
 
+- beat about the bush  兜圈子；不直截了当地说，旁敲侧击; 隐约其辞;
+  Instead of answering my question he began to beat about the bush.
+
+- what with  因为，由于
+  What with his laziness and illness, he was fired.
+
+- on the go  忙碌，忙个不停
+  I've been on the go ever since eight o'clock this morning.
 
 - may as well  不妨（相对 had better 语气较弱）
   You may as well stay home.
