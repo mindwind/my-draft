@@ -92,3 +92,9 @@ date      : 2016-04-19
 
 - but
   There is nothing but he is fond of. == There is nothing which he is not fond of.
+
+
+## 介词
+- To
+  dance to the music  不可用 with
+  The teacher had the music on and everyone started to dance to the music.
