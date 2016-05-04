@@ -3,6 +3,10 @@ title     : English Idioms
 date      : 2016-04-09
 ---
 
+
+- but for  要不是
+  But for the rain we should have had a pleasant journey.
+
 - beat about the bush  兜圈子；不直截了当地说，旁敲侧击; 隐约其辞;
   Instead of answering my question he began to beat about the bush.
 
