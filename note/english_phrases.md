@@ -1004,6 +1004,9 @@ After the fight they made up with each other.
   My neighborhood is so run down I've decided to move.  破落的
   The property business could be sold or run down.  削减
 
+- run into = bump into  与某人巧遇
+  I ran into an old friend on the street yesterday.
+
 
 ## Sense
 - sense of ethics, security, humor, direction, worth  伦理观，安全感，幽默感，方向感，价值观
