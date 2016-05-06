@@ -546,33 +546,6 @@ With the right attitude, you can go far in life.
 110. hold out against 坚持，顶住
 He won eventually, but I managed to hold out against hime for ten minutes.
 
-- come to terms with sb.  与...达成协议
-  We came to terms with each other and decided to work together.
-
-- come up against  碰到（困难、反对）
-  He came up against a huge obstacle in his work.
-
-- come to  被想到
-  Suddenly a good idea comes to him.
-
-- come along  出现
-  Sometimes we lose money, but profits are coming along.
-
-- come to nought  失败
-  The man threw many darts at the board, but it all came to nought.
-
-- come about  发生
-  That car accident is so terrible, how could it have come about?
-
-- come(bring) sth to light  揭露
-  The news brought many things to light about the government.
-
-- come apart  破碎；瓦解；崩溃
-  The roof is coming apart.
-
-- come across sb/sth  偶然碰见  
-  We came across another family in our hotel.
-
 108. be in two minds about sth 犹豫不决
 He is two minds about which door he should take.
 
@@ -839,6 +812,9 @@ After the fight they made up with each other.
 - all in all  总的来说
   All in all, it appeared that a pretty depressing summer awaited Jones.
 
+- all told  总计，总共
+  These books numbered ten all told.
+
 
 ## Among
 - Among other things  除此之外，此外
@@ -875,6 +851,34 @@ After the fight they made up with each other.
 - cut sth/sb. down
   You need to cut that tree down before it falls down.  砍倒
   We are constantly being reminded to cut down our fat intake.  减少，削减
+
+## Come
+- come to terms with sb.  与...达成协议
+  We came to terms with each other and decided to work together.
+
+- come up against  碰到（困难、反对）
+  He came up against a huge obstacle in his work.
+
+- come to  被想到
+  Suddenly a good idea comes to him.
+
+- come along  出现
+  Sometimes we lose money, but profits are coming along.
+
+- come to nought  失败
+  The man threw many darts at the board, but it all came to nought.
+
+- come about  发生
+  That car accident is so terrible, how could it have come about?
+
+- come(bring) sth to light  揭露
+  The news brought many things to light about the government.
+
+- come apart  破碎；瓦解；崩溃
+  The roof is coming apart.
+
+- come across sb/sth  偶然碰见  
+  We came across another family in our hotel.
 
 
 ## Dumb
