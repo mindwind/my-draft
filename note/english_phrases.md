@@ -801,8 +801,9 @@ After the fight they made up with each other.
   At length my father went into the house.  最后，终于
   They spoke at length, reviewing the entire incident.   充分的；详尽的
 
-- at large  在逃；逍遥法外
-  The man who tried to have her killed is still at large.
+- at large  
+  The man who tried to have her killed is still at large.  在逃；逍遥法外
+  The opinion of the public at large.  全部，整个
 
 - at the very outside  至多，充其量
   There were twenty people at the very outside.
