@@ -893,10 +893,19 @@ After the fight they made up with each other.
   The researchers dumbed down the report before releasing it to the public.
 
 
+## Drop
+- drop in  顺便访问
+  Why not drop in for a chat?
+
+
 ## Every
 - every now and then = sometimes
   Every now and then you hear some bombs bursting.
 
+
+## Eat
+- eat into  腐蚀；消耗
+  Responsibilities at home and work eat into his time.
 
 
 ## F
@@ -938,6 +947,9 @@ After the fight they made up with each other.
 
 - in the order of  大约，与...相似
   I guess that she is in the order of 40.
+
+- in view of  由于，鉴于
+  We canceled the game in view of the rain.
 
 
 ## J
@@ -1035,6 +1047,10 @@ After the fight they made up with each other.
 ## Turn
 - turn about == turn around  转过身来; 掉头;
   When she heard someone calling her, she turned about to see who it was.
+
+- turn out  
+  We turn out for the meeting.  出席
+  I feel that it will all turn out well.  结果是
 
 
 ## U
