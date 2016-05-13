@@ -4,6 +4,9 @@ date      : 2016-05-10
 ---
 
 
+- To know everything is to know nothing.  
+  样样皆通，样样稀松
+
 - He can but ring up his teacher.  
   他只好给他的老师打电话
 
