@@ -1013,11 +1013,15 @@ After the fight they made up with each other.
   Sorry, I put my foot in my mouth.
 
 
-## pass
+## Pass
 - pass out
   The instant she saw me, she passed out.  昏厥
   The teacher began to pass out the papers at 8:15.  分发
 
+
+## Prevail
+- prevail on == prevail upon
+  You may prevail upon your friend to lend you $10.
 
 ## Q
 
