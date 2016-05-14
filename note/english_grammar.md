@@ -94,6 +94,11 @@ date      : 2016-04-19
   There is nothing but he is fond of. == There is nothing which he is not fond of.
 
 
+## 代词
+- it
+  it is a wise man that never makes mistakes.  无论怎样聪明的人，也难免犯错误。（反语）
+
+
 ## 介词
 - To
   dance to the music  不可用 with
