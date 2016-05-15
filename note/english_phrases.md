@@ -961,7 +961,7 @@ After the fight they made up with each other.
 ## Laugh
 - LOL - Laugh Out Loud  大笑，哈哈
   The Yanks look like a group of sailors, lol.
-  LOL , famous last words Roma
+  LOL, famous last words Roma
 
 
 ## Level
@@ -969,9 +969,23 @@ After the fight they made up with each other.
   The rise in the unemployment figure should level out soon.
 
 
+## May
+- may as well  不妨，最好
+  We may as well set out on our travels.
+  You may as well call a cat a little tiger as call a tiger a big cat.
+
+- may well  有充分理由
+  He may well be proud of his success.
+
+
 ## Make
 - make up one's mind  决心
   He has made up his mind to study hard.
+
+
+## Many
+- many a  许多
+  Many a child knows only that much.
 
 
 ## Much
@@ -979,12 +993,34 @@ After the fight they made up with each other.
   The boy didn't have a girlfriend, much less a wife.
   He isn't interested in singing much less dancing.
 
-## N
+- much as  尽管
+  We cannot come, much as we would like to.
+
+
+## No
+- no less  还是，仍旧
+  He has fault, but we help him no less.
+
+
+## Not
+- not a few  不少，相当多（可数名词）
+  There are _not a few_ papers dealing with this subject.
+
+- not a little  不少，相当多（不可数名词）
+  She is _not a little_ tired.
+
+- not a bit  一点也不，丝毫不
+  She is _not a bit_ tired.    
 
 
 ## On
 - on the same page/wavelength  达成共识
   When it comes to the kids, John, we got to stay on the same page.
+
+
+## Out
+- out and away  远远地
+  He is out and away the cleverest boy in our class.
 
 
 ## Part
