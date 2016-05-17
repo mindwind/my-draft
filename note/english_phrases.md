@@ -848,7 +848,9 @@ After the fight they made up with each other.
   I'm angry at her attitude.
 
 
-## B
+## Be
+- be none the wiser  仍然不知道，仍不明白
+  He seems to be none the wiser.
 
 
 ## Cut
@@ -923,6 +925,12 @@ After the fight they made up with each other.
 ## Help
 - help out  帮忙
   She's always willing to help out.
+
+
+## House
+- House of Representative  众议院
+  The member of the House of Representative (call congressmen) is elected for two years.
+
 
 ## Hold
 - hold onto = hold firmly  抓住，抓牢
