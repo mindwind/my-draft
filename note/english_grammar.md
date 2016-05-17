@@ -48,6 +48,7 @@ date      : 2016-04-19
   He dared me to jump the stream.  肯定句，一般动词，激（某人做某事）
   He dare not go. 否定句，助动词
   How dare you say such a thing to me?  疑问句，助动词
+  I dare you to break the windows.  我量你不敢打破窗户
 
 - use to  
   He used to live here.  助动词，过去曾经
