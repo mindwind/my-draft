@@ -1021,6 +1021,11 @@ After the fight they made up with each other.
   She is _not a bit_ tired.    
 
 
+## Of
+- of late  近来，近年
+  His life has changed of late.
+
+
 ## On
 - on the same page/wavelength  达成共识
   When it comes to the kids, John, we got to stay on the same page.
