@@ -822,6 +822,9 @@ After the fight they made up with each other.
 - all told  总计，总共
   These books numbered ten all told.
 
+- all at once  突然；同时
+  All at once he lost his temper.
+
 
 ## Among
 - Among other things  除此之外，此外
@@ -1025,11 +1028,16 @@ After the fight they made up with each other.
 - of late  近来，近年
   His life has changed of late.
 
-
 ## On
 - on the same page/wavelength  达成共识
   When it comes to the kids, John, we got to stay on the same page.
 
+## Other
+- The other day  前几天
+  The other day I saw them talk with each other.
+
+- none (no) other than
+  The new arrival was none other than the President.
 
 ## Out
 - out and away  远远地
