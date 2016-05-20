@@ -1,3 +1,10 @@
+---
+title     : Study New Tech
+date      : 2016-05-19
+---
+
+
+## 后端分布式
 - Kibana
   日志查询
 
@@ -10,12 +17,6 @@
 - Pagerduty
   报警
 
-- Aerosolve
-  机器学习 Airbnb
-
-- TensorFlow
-  机器学习 Google
-
 - OpenFalcon
   监控系统 小米
 
@@ -27,3 +28,18 @@
 
 - SystemTap
   动态追踪工具，监控和跟踪运行中的 Linux 内核的操作的动态方法
+
+- Drools，Esper
+  CEP规则引擎
+
+
+## 前端
+- Gulp    
+  自动化构建工具
+
+## 机器学习
+- Aerosolve
+  机器学习 Airbnb
+
+- TensorFlow
+  机器学习 Google
