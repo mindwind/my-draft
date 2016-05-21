@@ -1023,6 +1023,7 @@ After the fight they made up with each other.
 - not a bit  一点也不，丝毫不
   She is _not a bit_ tired.    
 
+--------------------------------------------------------------------------------
 
 ## Of
 - of late  近来，近年
@@ -1031,6 +1032,10 @@ After the fight they made up with each other.
 ## On
 - on the same page/wavelength  达成共识
   When it comes to the kids, John, we got to stay on the same page.
+
+## Only
+- only that  要不是
+  She would help you, only that she is too busy.
 
 ## Other
 - The other day  前几天
@@ -1043,6 +1048,7 @@ After the fight they made up with each other.
 - out and away  远远地
   He is out and away the cleverest boy in our class.
 
+--------------------------------------------------------------------------------
 
 ## Part
 - parting statement  临别赠言
@@ -1091,6 +1097,7 @@ After the fight they made up with each other.
 - run into = bump into  与某人巧遇
   I ran into an old friend on the street yesterday.
 
+--------------------------------------------------------------------------------
 
 ## Sense
 - sense of ethics, security, humor, direction, worth  伦理观，安全感，幽默感，方向感，价值观
@@ -1099,6 +1106,21 @@ After the fight they made up with each other.
 ## Simply
 - simply put  简言之
   Simply put, bounded controls should be used wherever bounded values are needed.
+
+## So
+- so long as == as long as  只要
+  You may borrow my electronic dictionary so long as you keep it clean.
+
+- so as to  为了
+  How can faculty improve their teaching so as to encourage creativity?
+
+## Still
+- still less/more  何况，况且
+  I never talked about it, still less about her.  否定句
+  He repairs the machine, still more does he set it to pieces.  肯定句
+
+
+--------------------------------------------------------------------------------
 
 
 ## To
