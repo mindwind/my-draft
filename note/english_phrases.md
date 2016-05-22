@@ -1127,6 +1127,9 @@ After the fight they made up with each other.
 - to say the least  至少可以这样说
   I have done thus and so, to say the least of it.
 
+- to and fro  来回地，往复地
+  She stood up and began to pace to and fro.
+
 ## Tie
 - tie the knot  结婚，喜结良缘
   I really want to tie the knot this years and start a family.
