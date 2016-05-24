@@ -924,7 +924,15 @@ After the fight they made up with each other.
   Responsibilities at home and work eat into his time.
 
 
-## F
+--------------------------------------------------------------------------------
+
+
+## For
+- for the time being  暂时
+  For the time being, however, immunotherapy is still in its experimental stages.
+
+
+--------------------------------------------------------------------------------
 
 
 ## Get
