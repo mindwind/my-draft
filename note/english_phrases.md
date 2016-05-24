@@ -856,6 +856,14 @@ After the fight they made up with each other.
   He seems to be none the wiser.
 
 
+--------------------------------------------------------------------------------
+
+
+## Call
+- call for
+  The letter is to be left here until (或 till) called for.  去取，去接
+  A call for a vote of no-confidence in the president was rejected.  请求，要求
+
 ## Cut
 - cut to the chase  不绕圈子，有话直说
   All right, let's stop the idle chatter and cut to the chase.
@@ -891,6 +899,9 @@ After the fight they made up with each other.
 
 - come across sb/sth  偶然碰见  
   We came across another family in our hotel.
+
+
+--------------------------------------------------------------------------------
 
 
 ## Dumb
@@ -969,15 +980,24 @@ After the fight they made up with each other.
 ## K
 
 
+--------------------------------------------------------------------------------
+
+
 ## Laugh
 - LOL - Laugh Out Loud  大笑，哈哈
   The Yanks look like a group of sailors, lol.
   LOL, famous last words Roma
 
-
 ## Level
 - level out  达到平衡，消除差别
   The rise in the unemployment figure should level out soon.
+
+## Let
+- let's get the show on the road  开始做事
+  Okay, then let's get the show on the road and I'll stop bugging you.
+
+
+--------------------------------------------------------------------------------
 
 
 ## May
@@ -1048,22 +1068,26 @@ After the fight they made up with each other.
 - out and away  远远地
   He is out and away the cleverest boy in our class.
 
+
 --------------------------------------------------------------------------------
+
 
 ## Part
 - parting statement  临别赠言
 
+## Pick
+- pick up the tab  付账
+  Today any employee with back or shoulder pain can go straight to Mr Jay and the company will pick up the tab.
 
 ## Prevail
 - prevail on/upon sb to do sth  劝说
   I prevailed on him to come with me.
-
+  You may prevail upon your friend to lend you $10.
 
 ## Prefer
 - prefer to    
   I prefer coffee to tea.
   Some girls prefer to do their revision at home.
-
 
 ## Put
 - put away  收起来，放好
@@ -1075,16 +1099,16 @@ After the fight they made up with each other.
 - put my foot in my mouth  失言，说错话，做错事，搬起石头砸自己的脚
   Sorry, I put my foot in my mouth.
 
-
 ## Pass
 - pass out
   The instant she saw me, she passed out.  昏厥
   The teacher began to pass out the papers at 8:15.  分发
 
 
-## Prevail
-- prevail on == prevail upon
-  You may prevail upon your friend to lend you $10.
+
+
+--------------------------------------------------------------------------------
+
 
 ## Q
 
