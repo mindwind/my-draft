@@ -792,7 +792,6 @@ After the fight they made up with each other.
 - a good deal of  很多的
   Some preteens are able to handle a good deal of responsibility.
 
-
 ## At
 - at fault  过错, 责任
   Since he was drinking and driving, he was at fault in the accident.
@@ -810,6 +809,10 @@ After the fight they made up with each other.
 
 - at will  任意的
   You are free to leave the house at will.
+
+## As
+- as soon as not  很愿意，再乐意不过
+  I would go with you as soon as not.
 
 
 ## All
@@ -1113,12 +1116,13 @@ After the fight they made up with each other.
   The teacher began to pass out the papers at 8:15.  分发
 
 
-
-
 --------------------------------------------------------------------------------
 
 
 ## Q
+
+
+--------------------------------------------------------------------------------
 
 
 ## Run
@@ -1129,7 +1133,14 @@ After the fight they made up with each other.
 - run into = bump into  与某人巧遇
   I ran into an old friend on the street yesterday.
 
+## Right
+- right along
+  The work right along.  一直不间断的
+  His business is going right along.  顺利的
+
+
 --------------------------------------------------------------------------------
+
 
 ## Sense
 - sense of ethics, security, humor, direction, worth  伦理观，安全感，幽默感，方向感，价值观
