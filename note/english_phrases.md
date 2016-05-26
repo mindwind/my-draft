@@ -875,6 +875,9 @@ After the fight they made up with each other.
   You need to cut that tree down before it falls down.  砍倒
   We are constantly being reminded to cut down our fat intake.  减少，削减
 
+- cut a deal  达成协议
+  We should cut a deal before they sign with another company.
+
 ## Come
 - come to terms with sb.  与...达成协议
   We came to terms with each other and decided to work together.
@@ -915,6 +918,14 @@ After the fight they made up with each other.
 ## Drop
 - drop in  顺便访问
   Why not drop in for a chat?
+
+
+## Dead
+- dead ahead  在正前方
+  The town we are looking for is dead ahead.
+
+
+--------------------------------------------------------------------------------
 
 
 ## Every
