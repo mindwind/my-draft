@@ -785,7 +785,7 @@ After the fight they made up with each other.
 
 
 
-
+--------------------------------------------------------------------------------
 
 
 ## A
@@ -814,6 +814,8 @@ After the fight they made up with each other.
 - as soon as not  很愿意，再乐意不过
   I would go with you as soon as not.
 
+- as yet  到目前为止
+  No one has as yet been able to produce the absolute zero of temperature.
 
 ## All
 - all the same to  对...说来都一样；无所谓
@@ -828,12 +830,10 @@ After the fight they made up with each other.
 - all at once  突然；同时
   All at once he lost his temper.
 
-
 ## Among
 - Among other things  除此之外，此外
   Among other things, we shrunk the size of the newspapers by an inch
   Smith went back to his hometown, among other things, to see his mother.
-
 
 ## Agree
 - agree on  就（条约，合同）达成协议
@@ -845,13 +845,15 @@ After the fight they made up with each other.
 - agree with sb.  同意某人
   I agree with him on this point.
 
-
 ## Angry
 - angry with sb
   I'm angry with him. == I'm mad at him.
 
 - angry at sth
   I'm angry at her attitude.
+
+
+--------------------------------------------------------------------------------
 
 
 ## Be
