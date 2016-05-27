@@ -61,6 +61,12 @@ date      : 2016-04-19
 - reject doing
   He rejected working with Mary because he thought she was too selfish.
 
+- sell
+  The machines made in China sell very well abroad.
+
+- write
+  The pen writes quite smoothly.
+
 
 ## 连接词
 - as well as  以及...
