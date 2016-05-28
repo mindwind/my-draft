@@ -708,8 +708,6 @@ After the fight they made up with each other.
 54. as for
 至于，就...方面说  As for our market share, it is going down.
 
-53. on no account
-决不  On no account should you give up your goals.
 
 52. set in
 开始，生效  We'll have to wait until the drugs set in and she falls asleep.
@@ -981,6 +979,9 @@ After the fight they made up with each other.
   Social censure is an effective means of helping her help herself. Don't hold back.  犹豫不决
 
 
+--------------------------------------------------------------------------------
+
+
 ## In
 - in breach of  违背
   Your company are in breach of the contract.
@@ -996,6 +997,13 @@ After the fight they made up with each other.
 
 - in view of  由于，鉴于
   We canceled the game in view of the rain.
+
+- in no wise = in no way  绝不
+  She will in no wise give up study.
+  I will in no way give up this chance.
+
+
+--------------------------------------------------------------------------------
 
 
 ## J
@@ -1076,6 +1084,9 @@ After the fight they made up with each other.
 ## On
 - on the same page/wavelength  达成共识
   When it comes to the kids, John, we got to stay on the same page.
+
+- on no account  决不  
+  On no account should you give up your goals.
 
 ## Only
 - only that  要不是
