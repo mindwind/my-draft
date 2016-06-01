@@ -1060,9 +1060,15 @@ After the fight they made up with each other.
   We cannot come, much as we would like to.
 
 
+--------------------------------------------------------------------------------
+
+
 ## No
 - no less  还是，仍旧
   He has fault, but we help him no less.
+
+- no sooner ... than  一...就...
+  No sooner had he arrived in Rome than he was kidnapped.
 
 
 ## Not
@@ -1208,6 +1214,10 @@ After the fight they made up with each other.
 - turn out  
   We turn out for the meeting.  出席
   I feel that it will all turn out well.  结果是
+
+## Ten
+- ten to one  十之八九
+  Ten to one it will rain tomorrow.
 
 
 ## U
