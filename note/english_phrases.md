@@ -790,6 +790,9 @@ After the fight they made up with each other.
 - a good deal of  很多的
   Some preteens are able to handle a good deal of responsibility.
 
+- a nice bit of  相当多的（接不可数名词）
+  He has got a nice bit of money for his book.
+
 ## At
 - at fault  过错, 责任
   Since he was drinking and driving, he was at fault in the accident.
@@ -1196,6 +1199,13 @@ After the fight they made up with each other.
 --------------------------------------------------------------------------------
 
 
+## The
+- the best part of  ...的大部分
+  He had been in Israel for the best part of twenty-four hours.
+
+- the better part of  一大半（超过一半）
+  We spent the better part of an hour searching for her.
+
 ## To
 - to say the least  至少可以这样说
   I have done thus and so, to say the least of it.
@@ -1218,6 +1228,13 @@ After the fight they made up with each other.
 ## Ten
 - ten to one  十之八九
   Ten to one it will rain tomorrow.
+
+## Time
+- times without number == times out of number  无数次
+  I have seen that play times without number.
+
+
+--------------------------------------------------------------------------------
 
 
 ## U
