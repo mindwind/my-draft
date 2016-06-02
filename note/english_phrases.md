@@ -1233,6 +1233,10 @@ After the fight they made up with each other.
 - times without number == times out of number  无数次
   I have seen that play times without number.
 
+## Touch
+- touch down  降落，着陆
+  My plane would touch down just long enough to let me off.
+
 
 --------------------------------------------------------------------------------
 
