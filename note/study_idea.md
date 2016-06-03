@@ -8,3 +8,9 @@ CMD + F12
 
 CMD + 7     
 显示 Structure
+
+CMD + O
+查找类
+
+CMD + ALT + B
+查找实现类或方法
