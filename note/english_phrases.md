@@ -793,6 +793,9 @@ After the fight they made up with each other.
 - a nice bit of  相当多的（接不可数名词）
   He has got a nice bit of money for his book.
 
+- a close call  千钧一发，死里逃生，幸免于难
+  The car almost ran me over, it was a close call.
+
 ## At
 - at fault  过错, 责任
   Since he was drinking and driving, he was at fault in the accident.
@@ -1047,6 +1050,9 @@ After the fight they made up with each other.
 ## Make
 - make up one's mind  决心
   He has made up his mind to study hard.
+
+- make allowance for  顾及，体谅
+  We should make allowance for the wishes of others.
 
 
 ## Many
