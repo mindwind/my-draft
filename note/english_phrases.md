@@ -960,8 +960,11 @@ After the fight they made up with each other.
   I was able to get on with my work without interruption.  继续（干某事）
   What are your neighbors like? Do you get on with them?  和...友好相处
 
-- get along with  
-  It's impossible to get along with him.  与...和睦相处
+- get along with  与...和睦相处
+  It's impossible to get along with him.  
+
+- get cold feet  临阵退缩
+  You're not going to get cold feet now, are you?
 
 
 ## Help
