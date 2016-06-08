@@ -1057,6 +1057,9 @@ After the fight they made up with each other.
 - make allowance for  顾及，体谅
   We should make allowance for the wishes of others.
 
+- make the beds  铺床
+  My mother was upstairs with her daughter helping to make the beds.
+
 
 ## Many
 - many a  许多
