@@ -951,6 +951,10 @@ After the fight they made up with each other.
 - for the time being  暂时
   For the time being, however, immunotherapy is still in its experimental stages.
 
+## Feed
+- feed up  对...厌烦
+  I am feed up with all this argument.
+
 
 --------------------------------------------------------------------------------
 
@@ -969,6 +973,10 @@ After the fight they made up with each other.
 ## Go
 - go the distance  坚持到底，完成全部
   I doubt if he can go the distance.
+
+
+--------------------------------------------------------------------------------
+
 
 ## Help
 - help out  帮忙
@@ -1014,6 +1022,9 @@ After the fight they made up with each other.
   She will in no wise give up study.
   I will in no way give up this chance.
 
+- in the long run  从长远来看
+  In the long run, it was for the best.
+
 
 --------------------------------------------------------------------------------
 
@@ -1043,6 +1054,10 @@ After the fight they made up with each other.
 
 --------------------------------------------------------------------------------
 
+
+## Map
+- map out  规划，筹划
+  I like to map out the whole week in advance.
 
 ## May
 - may as well  不妨，最好
