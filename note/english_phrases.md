@@ -966,6 +966,9 @@ After the fight they made up with each other.
 - get cold feet  临阵退缩
   You're not going to get cold feet now, are you?
 
+## Go
+- go the distance  坚持到底，完成全部
+  I doubt if he can go the distance.
 
 ## Help
 - help out  帮忙
