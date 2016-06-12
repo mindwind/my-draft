@@ -916,6 +916,10 @@ After the fight they made up with each other.
 --------------------------------------------------------------------------------
 
 
+## Do
+- Don't push your luck  别得寸进尺
+  In a way, you are successful after so many difficulties. Take and don't push your luck.
+
 ## Dumb
 - dumb sth down  （为使公众更易理解而）降低...标准，减少...的专业性
   The researchers dumbed down the report before releasing it to the public.
@@ -1126,6 +1130,9 @@ After the fight they made up with each other.
 
 - on no account  决不  
   On no account should you give up your goals.
+
+- on the spur of the moment  一时冲动
+  They admitted they had taken a vehicle on the spur of the moment.
 
 ## Only
 - only that  要不是
