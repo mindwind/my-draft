@@ -4,6 +4,9 @@ date      : 2016-05-10
 ---
 
 
+- self-titled debut album
+  首张同名专辑
+
 - To know everything is to know nothing.  
   样样皆通，样样稀松
 
