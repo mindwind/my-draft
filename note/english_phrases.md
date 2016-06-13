@@ -864,6 +864,10 @@ After the fight they made up with each other.
 - be none the wiser  仍然不知道，仍不明白
   He seems to be none the wiser.
 
+## By
+- by the book  照章办事
+  He is an unimaginative individual who does everything by the book.
+
 
 --------------------------------------------------------------------------------
 
@@ -939,7 +943,7 @@ After the fight they made up with each other.
 
 
 ## Every
-- every now and then = sometimes
+- every now and then = every so often = sometimes
   Every now and then you hear some bombs bursting.
 
 
