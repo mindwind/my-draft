@@ -14,3 +14,6 @@ CMD + O
 
 CMD + ALT + B
 查找实现类或方法
+
+ALT + SHIFT + 鼠标
+多行编辑
