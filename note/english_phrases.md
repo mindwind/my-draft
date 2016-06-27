@@ -1059,6 +1059,13 @@ After the fight they made up with each other.
 - let's get the show on the road  开始做事
   Okay, then let's get the show on the road and I'll stop bugging you.
 
+- let fall  无意中说出
+  Did you hear what he let fall the other day when we were there?
+
+- let slip  放走；放过
+  We mustn't let slip such an opportunity.
+
+
 
 --------------------------------------------------------------------------------
 
@@ -1085,6 +1092,9 @@ After the fight they made up with each other.
 
 - make the beds  铺床
   My mother was upstairs with her daughter helping to make the beds.
+
+- make do  凑合着用
+  You'll have to make your pocket money do, I can't give you more.
 
 
 ## Many
