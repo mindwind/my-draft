@@ -868,6 +868,10 @@ After the fight they made up with each other.
 - by the book  照章办事
   He is an unimaginative individual who does everything by the book.
 
+## Beyond
+- beyond belief  难以置信的，不可思议的
+  Sweden is lovely in summer — cold beyond belief in winter.
+
 
 --------------------------------------------------------------------------------
 
@@ -962,6 +966,10 @@ After the fight they made up with each other.
 ## Feed
 - feed up  对...厌烦
   I am feed up with all this argument.
+
+## Fix
+- fix up  安排
+  I wrote back to Meudon at once to fix up a meeting.
 
 
 --------------------------------------------------------------------------------
