@@ -1041,6 +1041,9 @@ After the fight they made up with each other.
 - in the long run  从长远来看
   In the long run, it was for the best.
 
+- in hot water  有麻烦，陷入困境
+  He found himself in hot water over his comments about immigration.
+
 
 --------------------------------------------------------------------------------
 
