@@ -35,10 +35,17 @@ date      : 2016-05-19
 - DistributedLog
   Twitter 开源分布式日志服务
 
+- Locust
+  基于 Python 的分布式压测工具
+
+- Tsung
+  基于 Erlang 的分布式压测工具，比 Locust 性能强劲
+
 
 ## 前端
 - Gulp    
   自动化构建工具
+
 
 ## 机器学习
 - Aerosolve
