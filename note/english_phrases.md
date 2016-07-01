@@ -1257,6 +1257,10 @@ After the fight they made up with each other.
   I never talked about it, still less about her.  否定句
   He repairs the machine, still more does he set it to pieces.  肯定句
 
+## Strike
+- strike/touch a chord with sb  引起共鸣
+  The speaker had obviously struck a chord with his audience.
+
 
 --------------------------------------------------------------------------------
 
