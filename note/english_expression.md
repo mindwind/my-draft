@@ -33,3 +33,6 @@ date      : 2016-05-10
 
 - That name escapes me.
   我想不起来那名字了
+
+- Her going on __maternity leave__ will create a temporary vacancy.
+  产假
