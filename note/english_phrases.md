@@ -990,6 +990,10 @@ After the fight they made up with each other.
 - go the distance  坚持到底，完成全部
   I doubt if he can go the distance.
 
+## Give
+- give and take  双方迁就、妥协
+  We must all give and take a little if we want peace.
+
 
 --------------------------------------------------------------------------------
 
