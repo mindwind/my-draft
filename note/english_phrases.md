@@ -1265,6 +1265,10 @@ After the fight they made up with each other.
 - strike/touch a chord with sb  引起共鸣
   The speaker had obviously struck a chord with his audience.
 
+## Shore
+- shore up  支撑
+  We had to shore up the damaged wall.
+
 
 --------------------------------------------------------------------------------
 
