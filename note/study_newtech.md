@@ -41,6 +41,9 @@ date      : 2016-05-19
 - Tsung
   基于 Erlang 的分布式压测工具，比 Locust 性能强劲
 
+- GraphicsMagick
+  图片处理库
+
 
 ## 前端
 - Gulp    
