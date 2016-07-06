@@ -4,52 +4,6 @@ date      : 2015-09-18
 ---
 
 
-- fool around  虚度光阴；乱搞男女关系
-  If you go to college, you must work hard, not fool around.
-  Never fool around with the client's wives.
-
-- a palace of a house  一座宫殿般的房子(a xx of a 单数名词，一种固定结构）
-  This is a palace of a house.
-
-- out of the question  不可能的
-  For the homeless, private medical care is simply out of the question.
-
-- out of question  毫无疑问的
-  He is out of question the greatest authority on this subject now living.
-
-- purple passage  词藻华丽的段落
-  I had been latching on to the purple passages like a child running after toffee.
-
-- look set to  看来
-  They look set to repeat their success now in the USA.
-
-- stand in line  排队
-  The people stand in line for the bathroom.
-
-- bring forward  提出
-  She is always bringing forward new ideas in meetings.
-
-- break down  发生故障；失败
-  The man's car broke down, so he has to stop and call for help.
-
-- one another 彼此
-  The couple really love one another.
-
-- end up  以...告终
-  If you commit fraud, you will end up in jail.
-
-- have one's hands full 忙得不可开交
-  He has his hands full with work.
-
-- come apart  破碎; 被拆开
-  All his nerves seemed to have come apart.
-
-- be all set  准备就绪
-  The runners are all set and ready to begin the race.
-
-- make off  逃走；匆忙离开
-  The thieves made off with her purse.
-
 - go over  复习；重温
   He goes over the book before class.
 
@@ -796,6 +750,10 @@ After the fight they made up with each other.
 - a close call  千钧一发，死里逃生，幸免于难
   The car almost ran me over, it was a close call.
 
+- a palace of a house  一座宫殿般的房子(a xx of a 单数名词，一种固定构）
+  This is a palace of a house.
+
+
 ## At
 - at fault  过错, 责任
   Since he was drinking and driving, he was at fault in the accident.
@@ -864,6 +822,9 @@ After the fight they made up with each other.
 - be none the wiser  仍然不知道，仍不明白
   He seems to be none the wiser.
 
+- be all set  准备就绪
+  The runners are all set and ready to begin the race.
+
 ## By
 - by the book  照章办事
   He is an unimaginative individual who does everything by the book.
@@ -871,6 +832,14 @@ After the fight they made up with each other.
 ## Beyond
 - beyond belief  难以置信的，不可思议的
   Sweden is lovely in summer — cold beyond belief in winter.
+
+## Bring
+- bring forward  提出
+  She is always bringing forward new ideas in meetings.
+
+## Break
+- break down  发生故障；失败
+  The man's car broke down, so he has to stop and call for help.
 
 
 --------------------------------------------------------------------------------
@@ -916,6 +885,7 @@ After the fight they made up with each other.
 
 - come apart  破碎；瓦解；崩溃
   The roof is coming apart.
+  All his nerves seemed to have come apart.
 
 - come across sb/sth  偶然碰见  
   We came across another family in our hotel.
@@ -950,10 +920,13 @@ After the fight they made up with each other.
 - every now and then = every so often = sometimes
   Every now and then you hear some bombs bursting.
 
-
 ## Eat
 - eat into  腐蚀；消耗
   Responsibilities at home and work eat into his time.
+
+## End
+- end up  以...告终
+  If you commit fraud, you will end up in jail.
 
 
 --------------------------------------------------------------------------------
@@ -970,6 +943,10 @@ After the fight they made up with each other.
 ## Fix
 - fix up  安排
   I wrote back to Meudon at once to fix up a meeting.
+
+- fool around  虚度光阴；乱搞男女关系
+  If you go to college, you must work hard, not fool around.
+  Never fool around with the client's wives.  
 
 
 --------------------------------------------------------------------------------
@@ -998,15 +975,17 @@ After the fight they made up with each other.
 --------------------------------------------------------------------------------
 
 
+## Have
+- have one's hands full 忙得不可开交
+  He has his hands full with work.
+
 ## Help
 - help out  帮忙
   She's always willing to help out.
 
-
 ## House
 - House of Representative  众议院
   The member of the House of Representative (call congressmen) is elected for two years.
-
 
 ## Hold
 - hold onto = hold firmly  抓住，抓牢
@@ -1061,6 +1040,11 @@ After the fight they made up with each other.
 --------------------------------------------------------------------------------
 
 
+## Look
+- look set to  看来
+  They look set to repeat their success now in the USA.
+
+
 ## Laugh
 - LOL - Laugh Out Loud  大笑，哈哈
   The Yanks look like a group of sailors, lol.
@@ -1111,6 +1095,8 @@ After the fight they made up with each other.
 - make do  凑合着用
   You'll have to make your pocket money do, I can't give you more.
 
+- make off  逃走；匆忙离开
+  The thieves made off with her purse.
 
 ## Many
 - many a  许多
@@ -1163,6 +1149,10 @@ After the fight they made up with each other.
 - on the spur of the moment  一时冲动
   They admitted they had taken a vehicle on the spur of the moment.
 
+## One
+- one another 彼此
+  The couple really love one another.
+
 ## Only
 - only that  要不是
   She would help you, only that she is too busy.
@@ -1177,6 +1167,12 @@ After the fight they made up with each other.
 ## Out
 - out and away  远远地
   He is out and away the cleverest boy in our class.
+
+- out of the question  不可能的
+  For the homeless, private medical care is simply out of the question.
+
+- out of question  毫无疑问的
+  He is out of question the greatest authority on this subject now living.
 
 
 --------------------------------------------------------------------------------
@@ -1213,6 +1209,10 @@ After the fight they made up with each other.
 - pass out
   The instant she saw me, she passed out.  昏厥
   The teacher began to pass out the papers at 8:15.  分发
+
+## Purple
+- purple passage  词藻华丽的段落
+  I had been latching on to the purple passages like a child running after toffee.
 
 
 --------------------------------------------------------------------------------
@@ -1268,6 +1268,10 @@ After the fight they made up with each other.
 ## Shore
 - shore up  支撑
   We had to shore up the damaged wall.
+
+## Stand
+- stand in line  排队
+  The people stand in line for the bathroom.
 
 
 --------------------------------------------------------------------------------
