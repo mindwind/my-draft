@@ -4,42 +4,8 @@ date      : 2015-09-18
 ---
 
 
-- go over  复习；重温
-  He goes over the book before class.
-
-- become of  降临；发生
-  What has become of my car?
-
-- get on  上车（飞机、船）
-  Let's get on the airplane.
-
-- for one thing  首先
-  For one thing, you haven't finished your homework yet; for another, stop picking your ear!
-
-- bear sth./sb. out  证实
-  He had an idea about the criminal's identity and looking at the fingerprints bears his idea out.
-
-- beat off  击退
-  He beat off his opponent at the end of the boxing match.
-
-- put an end to  消灭
-  The new spray puts an end to ants and other bugs.
-
-- get at sb./sth.  得到；接近
-  I used a ladder to get at the apple.
-
-- plump for  投票选出（一人）
-  I'll plump for bacon and eggs rather than breakfast cereal.
-
-- strike home  击中要害；中肯；取得显著效果
-  The movie depicting the battles and bloodshed is bound to strike home.
-  He who strikes a tiger must be sure to strike home.
-
 - note down  记下
   Please note down what I'm about to say.
-
-- come off  发生；举行
-  The wedding came off with no problems at all.
 
 - at the mercy of  任凭...摆布
   I'm at the mercy of my boss, he always yells at me.
@@ -829,6 +795,14 @@ After the fight they made up with each other.
 - by the book  照章办事
   He is an unimaginative individual who does everything by the book.
 
+## Beat
+- beat off  击退
+  He beat off his opponent at the end of the boxing match.
+
+## Bear
+- bear sth./sb. out  证实
+  He had an idea about the criminal's identity and looking at the fingerprints bears his idea out.
+
 ## Beyond
 - beyond belief  难以置信的，不可思议的
   Sweden is lovely in summer — cold beyond belief in winter.
@@ -840,6 +814,10 @@ After the fight they made up with each other.
 ## Break
 - break down  发生故障；失败
   The man's car broke down, so he has to stop and call for help.
+
+## Become
+- become of  降临；发生
+  What has become of my car?
 
 
 --------------------------------------------------------------------------------
@@ -890,6 +868,8 @@ After the fight they made up with each other.
 - come across sb/sth  偶然碰见  
   We came across another family in our hotel.
 
+- come off  发生；举行
+  The wedding came off with no problems at all.
 
 --------------------------------------------------------------------------------
 
@@ -936,6 +916,9 @@ After the fight they made up with each other.
 - for the time being  暂时
   For the time being, however, immunotherapy is still in its experimental stages.
 
+- for one thing  首先
+  For one thing, you haven't finished your homework yet; for another, stop picking your ear!
+
 ## Feed
 - feed up  对...厌烦
   I am feed up with all this argument.
@@ -960,12 +943,21 @@ After the fight they made up with each other.
 - get along with  与...和睦相处
   It's impossible to get along with him.  
 
+- get on  上车（飞机、船）
+  Let's get on the airplane.
+
 - get cold feet  临阵退缩
   You're not going to get cold feet now, are you?
+
+- get at sb./sth.  得到；接近
+  I used a ladder to get at the apple.
 
 ## Go
 - go the distance  坚持到底，完成全部
   I doubt if he can go the distance.
+
+- go over  复习；重温
+  He goes over the book before class.
 
 ## Give
 - give and take  双方迁就、妥协
@@ -1205,6 +1197,9 @@ After the fight they made up with each other.
 - put my foot in my mouth  失言，说错话，做错事，搬起石头砸自己的脚
   Sorry, I put my foot in my mouth.
 
+- put an end to  消灭
+  The new spray puts an end to ants and other bugs.
+
 ## Pass
 - pass out
   The instant she saw me, she passed out.  昏厥
@@ -1213,6 +1208,10 @@ After the fight they made up with each other.
 ## Purple
 - purple passage  词藻华丽的段落
   I had been latching on to the purple passages like a child running after toffee.
+
+## Plump
+- plump for  投票选出（一人）
+  I'll plump for bacon and eggs rather than breakfast cereal.
 
 
 --------------------------------------------------------------------------------
@@ -1264,6 +1263,10 @@ After the fight they made up with each other.
 ## Strike
 - strike/touch a chord with sb  引起共鸣
   The speaker had obviously struck a chord with his audience.
+
+- strike home  击中要害；中肯；取得显著效果
+  The movie depicting the battles and bloodshed is bound to strike home.
+  He who strikes a tiger must be sure to strike home.
 
 ## Shore
 - shore up  支撑
