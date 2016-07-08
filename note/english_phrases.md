@@ -4,47 +4,9 @@ date      : 2015-09-18
 ---
 
 
-- note down  记下
-  Please note down what I'm about to say.
-
-- at the mercy of  任凭...摆布
-  I'm at the mercy of my boss, he always yells at me.
-
-- take her time over  慢慢做
-  The old lady takes her time over her knitting.
-
-- lose heart  丧失信心
-  Wang really lost heart as he failed to get to the front page.
-
-- give way to sb.  屈服，让步
-  I can't believe I had to give way to the little boy in our arm wrestling contest.
-
-- in no time  立刻
-  We'll do it in no time.
-
-- go out  外出；交往
-  They're going out, they've been dating for about a month.
-
-- be on edge  紧张不安
-  He was on edge during the result checking procedure.
-
-- in stock  有存货
-  The ware house has many products in stock.
-
-- back sb. up  支持某人
-  I'm only one man, but I've got a whole team backing me up.
-
-- go through  穿过
-  The blue arrow goes through the wall.
-
-- get through (sth.)  通过
-  He got through the evaluation by working very hard.
-
 - stand in (for sb.)  代替
   Since he loves her, he has to stand in for the baby's real father.
 
-- get into  从事
-  These people are willing to get into a cleaning business.
 
 - set sth. off  使爆炸
   The fuse will set the bomb off, and then there will be a huge explosion.
@@ -738,6 +700,9 @@ After the fight they made up with each other.
 - at will  任意的
   You are free to leave the house at will.
 
+- at the mercy of  任凭...摆布
+  I'm at the mercy of my boss, he always yells at me.
+
 ## As
 - as soon as not  很愿意，再乐意不过
   I would go with you as soon as not.
@@ -791,9 +756,16 @@ After the fight they made up with each other.
 - be all set  准备就绪
   The runners are all set and ready to begin the race.
 
+- be on edge  紧张不安
+  He was on edge during the result checking procedure.
+
 ## By
 - by the book  照章办事
   He is an unimaginative individual who does everything by the book.
+
+## Back
+- back sb. up  支持某人
+  I'm only one man, but I've got a whole team backing me up.
 
 ## Beat
 - beat off  击退
@@ -952,6 +924,12 @@ After the fight they made up with each other.
 - get at sb./sth.  得到；接近
   I used a ladder to get at the apple.
 
+- get through (sth.)  通过
+  He got through the evaluation by working very hard.
+
+- get into  从事
+  These people are willing to get into a cleaning business.
+
 ## Go
 - go the distance  坚持到底，完成全部
   I doubt if he can go the distance.
@@ -959,9 +937,18 @@ After the fight they made up with each other.
 - go over  复习；重温
   He goes over the book before class.
 
+- go out  外出；交往
+  They're going out, they've been dating for about a month.
+
+- go through  穿过
+  The blue arrow goes through the wall.
+
 ## Give
 - give and take  双方迁就、妥协
   We must all give and take a little if we want peace.
+
+- give way to sb.  屈服，让步
+  I can't believe I had to give way to the little boy in our arm wrestling contest.
 
 
 --------------------------------------------------------------------------------
@@ -1019,6 +1006,11 @@ After the fight they made up with each other.
 - in hot water  有麻烦，陷入困境
   He found himself in hot water over his comments about immigration.
 
+- in no time  立刻
+  We'll do it in no time.
+
+- in stock  有存货
+  The ware house has many products in stock.
 
 --------------------------------------------------------------------------------
 
@@ -1056,6 +1048,9 @@ After the fight they made up with each other.
 - let slip  放走；放过
   We mustn't let slip such an opportunity.
 
+## Lose
+- lose heart  丧失信心
+  Wang really lost heart as he failed to get to the front page.
 
 
 --------------------------------------------------------------------------------
@@ -1114,6 +1109,9 @@ After the fight they made up with each other.
 - no sooner ... than  一...就...
   No sooner had he arrived in Rome than he was kidnapped.
 
+## Note
+- note down  记下
+  Please note down what I'm about to say.
 
 ## Not
 - not a few  不少，相当多（可数名词）
@@ -1123,7 +1121,9 @@ After the fight they made up with each other.
   She is _not a little_ tired.
 
 - not a bit  一点也不，丝毫不
-  She is _not a bit_ tired.    
+  She is _not a bit_ tired.   
+
+
 
 --------------------------------------------------------------------------------
 
@@ -1317,6 +1317,10 @@ After the fight they made up with each other.
 ## Touch
 - touch down  降落，着陆
   My plane would touch down just long enough to let me off.
+
+## Take
+- take her time over  慢慢做
+  The old lady takes her time over her knitting.
 
 
 --------------------------------------------------------------------------------
