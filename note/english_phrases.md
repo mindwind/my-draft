@@ -1170,6 +1170,10 @@ After the fight they made up with each other.
 --------------------------------------------------------------------------------
 
 
+## Pay
+- pay through nose  被勒索; 花大钱
+  Don't pay through the nose when you buy the furniture.
+
 ## Part
 - parting statement  临别赠言
 
