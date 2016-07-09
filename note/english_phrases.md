@@ -930,6 +930,9 @@ After the fight they made up with each other.
 - get into  从事
   These people are willing to get into a cleaning business.
 
+- get one's feet wet  开始做，参与
+  If you've never invested money in the stock market, now is the time to get your feet wet.
+
 ## Go
 - go the distance  坚持到底，完成全部
   I doubt if he can go the distance.
@@ -953,6 +956,10 @@ After the fight they made up with each other.
 
 --------------------------------------------------------------------------------
 
+
+## Hit
+- hit it off  合得来，投缘
+  How well did you hit it off with one another?
 
 ## Have
 - have one's hands full 忙得不可开交
