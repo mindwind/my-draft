@@ -4,40 +4,6 @@ date      : 2015-09-18
 ---
 
 
-- stand in (for sb.)  代替
-  Since he loves her, he has to stand in for the baby's real father.
-
-
-- set sth. off  使爆炸
-  The fuse will set the bomb off, and then there will be a huge explosion.
-
-- settle sb. in  迁入新居
-  He settled her in and had a glass of wine to celebrate.
-
-- pass sth. off  搪塞过去；敷衍过去
-  He tried to pass it off as real money, but anybody could tell it was fake.
-
-- find one's bearings  指明方向
-  My new GPS helps me find my bearings when I'm lost.
-
-- take sth. upon oneself  承担
-  My awesome colleague took our extra works upon himself.
-
-- at full blast  全力地
-  The dog ran at full blast and won the race.
-
-- bird of prey  食肉鸟，猛禽
-  He is a young eagle, a bird of prey.
-
-- get off  从...下来；脱下
-  After several hours on a plane, passengers were excited to get off.
-
-- pick up  接；中途搭乘
-  Since he can't drive by himself. I have to pick him up from work every day.
-
-- shoot the bull  吹牛
-  Don't pay much attention to what he says, he likes to shoot the bull.
-
 - as opposed to  与...形成对照
   Susie believes we should take the car, as opposed to Lucy, who thinks we should walk.
 
@@ -703,6 +669,9 @@ After the fight they made up with each other.
 - at the mercy of  任凭...摆布
   I'm at the mercy of my boss, he always yells at me.
 
+- at full blast  全力地
+  The dog ran at full blast and won the race.
+
 ## As
 - as soon as not  很愿意，再乐意不过
   I would go with you as soon as not.
@@ -864,6 +833,10 @@ After the fight they made up with each other.
 - dead ahead  在正前方
   The town we are looking for is dead ahead.
 
+## Down
+- down to the wire  直到最后，接近最后期限
+  Jack always waits until the last minute to do his work. I could never leave it down to the wire like that.
+
 
 --------------------------------------------------------------------------------
 
@@ -903,6 +876,10 @@ After the fight they made up with each other.
   If you go to college, you must work hard, not fool around.
   Never fool around with the client's wives.  
 
+## Find
+- find one's bearings  指明方向
+  My new GPS helps me find my bearings when I'm lost.
+
 
 --------------------------------------------------------------------------------
 
@@ -932,6 +909,9 @@ After the fight they made up with each other.
 
 - get one's feet wet  开始做，参与
   If you've never invested money in the stock market, now is the time to get your feet wet.
+
+- get off  从...下来；脱下
+  After several hours on a plane, passengers were excited to get off.
 
 ## Go
 - go the distance  坚持到底，完成全部
@@ -1216,6 +1196,9 @@ After the fight they made up with each other.
   The instant she saw me, she passed out.  昏厥
   The teacher began to pass out the papers at 8:15.  分发
 
+- pass sth off  搪塞过去；敷衍过去
+  He tried to pass it off as real money, but anybody could tell it was fake.
+
 ## Purple
 - purple passage  词藻华丽的段落
   I had been latching on to the purple passages like a child running after toffee.
@@ -1223,6 +1206,10 @@ After the fight they made up with each other.
 ## Plump
 - plump for  投票选出（一人）
   I'll plump for bacon and eggs rather than breakfast cereal.
+
+## Pick
+- pick up  接；中途搭乘
+  Since he can't drive by himself. I have to pick him up from work every day.
 
 
 --------------------------------------------------------------------------------
@@ -1250,6 +1237,14 @@ After the fight they made up with each other.
 
 --------------------------------------------------------------------------------
 
+
+## Set
+- set sth off  使爆炸
+  The fuse will set the bomb off, and then there will be a huge explosion.
+
+## Settle
+- settle sb in  迁入新居
+  He settled her in and had a glass of wine to celebrate.
 
 ## Sense
 - sense of ethics, security, humor, direction, worth  伦理观，安全感，幽默感，方向感，价值观
@@ -1286,6 +1281,14 @@ After the fight they made up with each other.
 ## Stand
 - stand in line  排队
   The people stand in line for the bathroom.
+
+- stand in (for sb.)  代替
+  Since he loves her, he has to stand in for the baby's real father.
+
+## Shoot
+- shoot the bull  吹牛
+  Don't pay much attention to what he says, he likes to shoot the bull.
+
 
 
 --------------------------------------------------------------------------------
@@ -1332,6 +1335,9 @@ After the fight they made up with each other.
 ## Take
 - take her time over  慢慢做
   The old lady takes her time over her knitting.
+
+- take sth. upon oneself  承担
+  My awesome colleague took our extra works upon himself.
 
 
 --------------------------------------------------------------------------------
