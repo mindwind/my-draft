@@ -987,6 +987,10 @@ After the fight they made up with each other.
 - in one's face  当着某人的面
   If you cheat on me, get a hotel room - don't be so in my face about it.
 
+- in light of  根据
+  We must ascertain the responsibility in light of different situtations.
+
+
 --------------------------------------------------------------------------------
 
 
