@@ -4,36 +4,6 @@ date      : 2015-09-18
 ---
 
 
-- as opposed to  与...形成对照
-  Susie believes we should take the car, as opposed to Lucy, who thinks we should walk.
-
-- stick to sb./sth.  忠于
-  The supporters stick to their leader, they really believe in him.
-
-- go without sth.  在缺少...的情况下勉强对付
-  I have no cigarettes, so I'll have to go without them for a while.
-
-- go without saying  不言而喻，理所当然
-  "2+2=4" is a truth that goes without saying.
-
-- take sth. to heart  牢记
-  I hope my son takes the warning I gave him to heart.
-
-- in one's face  当着某人的面
-  If you cheat on me, get a hotel room - don't be so in my face about it.
-
-- pass by  经过，走过
-  Time can pass us by so quickly.
-
-- pass on  去世
-  I'm sorry, he is no longer alive; he has passed on.
-
-- get away  逃脱，离开
-  When he stole my suitcase I chased after him, but he got away.
-
-- get down to  开始认真对待
-  It's time to get down to my tasks and start working.
-
 - cash crop  经济作物
   As a major cash crop in America, corn has brought farmers a large income.
 
@@ -672,6 +642,9 @@ After the fight they made up with each other.
 - at full blast  全力地
   The dog ran at full blast and won the race.
 
+- as opposed to  与...形成对照
+  Susie believes we should take the car, as opposed to Lucy, who thinks we should walk.
+
 ## As
 - as soon as not  很愿意，再乐意不过
   I would go with you as soon as not.
@@ -913,6 +886,12 @@ After the fight they made up with each other.
 - get off  从...下来；脱下
   After several hours on a plane, passengers were excited to get off.
 
+- get away  逃脱，离开
+  When he stole my suitcase I chased after him, but he got away.
+
+- get down to  开始认真对待
+  It's time to get down to my tasks and start working.
+
 ## Go
 - go the distance  坚持到底，完成全部
   I doubt if he can go the distance.
@@ -925,6 +904,12 @@ After the fight they made up with each other.
 
 - go through  穿过
   The blue arrow goes through the wall.
+
+- go without sth  在缺少...的情况下勉强对付
+  I have no cigarettes, so I'll have to go without them for a while.
+
+- go without saying  不言而喻，理所当然
+  "2+2=4" is a truth that goes without saying.
 
 ## Give
 - give and take  双方迁就、妥协
@@ -998,6 +983,9 @@ After the fight they made up with each other.
 
 - in stock  有存货
   The ware house has many products in stock.
+
+- in one's face  当着某人的面
+  If you cheat on me, get a hotel room - don't be so in my face about it.
 
 --------------------------------------------------------------------------------
 
@@ -1199,6 +1187,12 @@ After the fight they made up with each other.
 - pass sth off  搪塞过去；敷衍过去
   He tried to pass it off as real money, but anybody could tell it was fake.
 
+- pass by  经过，走过
+  Time can pass us by so quickly.
+
+- pass on  去世
+  I'm sorry, he is no longer alive; he has passed on.
+
 ## Purple
 - purple passage  词藻华丽的段落
   I had been latching on to the purple passages like a child running after toffee.
@@ -1289,6 +1283,9 @@ After the fight they made up with each other.
 - shoot the bull  吹牛
   Don't pay much attention to what he says, he likes to shoot the bull.
 
+## Stick
+- stick to sb./sth.  忠于
+  The supporters stick to their leader, they really believe in him.
 
 
 --------------------------------------------------------------------------------
@@ -1336,8 +1333,11 @@ After the fight they made up with each other.
 - take her time over  慢慢做
   The old lady takes her time over her knitting.
 
-- take sth. upon oneself  承担
+- take sth upon oneself  承担
   My awesome colleague took our extra works upon himself.
+
+- take sth to heart  牢记
+  I hope my son takes the warning I gave him to heart.
 
 
 --------------------------------------------------------------------------------
