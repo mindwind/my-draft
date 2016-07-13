@@ -14,3 +14,4 @@ A group manager values the success of other people's businesses.
 
 
 ## 2. From Managing Self to Managing Others
+At least half your time should be spent on management work for you to be considered a manager.
