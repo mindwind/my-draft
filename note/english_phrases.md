@@ -4,41 +4,24 @@ date      : 2015-09-18
 ---
 
 
-- cash crop  经济作物
-  As a major cash crop in America, corn has brought farmers a large income.
 
-- the pick of  精华，最好部分
-  The golden cube is the pick of the whole cubes.
 
-- be set on sth.  决心做某事
-  For the New Year, I'm set on quitting smoking.
 
-- in the hands of  在...掌控中
-  The rescue operation was in the hands of the fire fighters.
 
-- live it up  狂欢一场
-  The had a big party and really lived it up.
 
-- look on sb. as  当作...看待
-  She loves her dog so much she looks on him as a son.
 
-- look over  检查
-  The doctors look over my test results to see if anything's wrong.
 
-- look down on  轻视
-  I can tell he looks down on me--he is blowing smoke in my face.
 
-- look out for sb/sth.  注意
-  You should look out for bicycles on this road.
 
-- get round to doing sth  抽出时间做
-  After putting it off for weeks, the man finally got round to mowing his lawn.
 
-- hand sth. over to sb.  移交
-  I'll hand the house keys over to you tomorrow.
 
-- clear up  变晴
-  After the rain, the sky clears up and a rainbow appears.
+
+
+
+
+
+
+
 
 - for the most part  通常；在很大程度上
   The product works for the most part.
@@ -701,6 +684,9 @@ After the fight they made up with each other.
 - be on edge  紧张不安
   He was on edge during the result checking procedure.
 
+- be set on sth  决心做某事
+  For the New Year, I'm set on quitting smoking.
+
 ## By
 - by the book  照章办事
   He is an unimaginative individual who does everything by the book.
@@ -784,6 +770,12 @@ After the fight they made up with each other.
 
 - come off  发生；举行
   The wedding came off with no problems at all.
+
+
+## Clear
+- clear up  变晴
+  After the rain, the sky clears up and a rainbow appears.
+
 
 --------------------------------------------------------------------------------
 
@@ -892,6 +884,10 @@ After the fight they made up with each other.
 - get down to  开始认真对待
   It's time to get down to my tasks and start working.
 
+- get round to doing sth  抽出时间做
+  After putting it off for weeks, the man finally got round to mowing his lawn.
+
+
 ## Go
 - go the distance  坚持到底，完成全部
   I doubt if he can go the distance.
@@ -948,11 +944,18 @@ After the fight they made up with each other.
   The problem can be big enough to hold back a country's development.  阻碍
   Social censure is an effective means of helping her help herself. Don't hold back.  犹豫不决
 
+## Hand
+- hand sth. over to sb  移交
+  I'll hand the house keys over to you tomorrow.
+
 
 --------------------------------------------------------------------------------
 
 
 ## In
+- in the hands of  在...掌控中
+  The rescue operation was in the hands of the fire fighters.
+
 - in breach of  违背
   Your company are in breach of the contract.
 
@@ -1007,6 +1010,18 @@ After the fight they made up with each other.
 - look set to  看来
   They look set to repeat their success now in the USA.
 
+- look on sb as  当作...看待
+  She loves her dog so much she looks on him as a son.
+
+- look over  检查
+  The doctors look over my test results to see if anything's wrong.
+
+- look down on  轻视
+  I can tell he looks down on me--he is blowing smoke in my face.
+
+- look out for sb/sth  注意
+  You should look out for bicycles on this road.
+
 
 ## Laugh
 - LOL - Laugh Out Loud  大笑，哈哈
@@ -1030,6 +1045,10 @@ After the fight they made up with each other.
 ## Lose
 - lose heart  丧失信心
   Wang really lost heart as he failed to get to the front page.
+
+## Live
+- live it up  狂欢一场
+  They had a big party and really lived it up.
 
 
 --------------------------------------------------------------------------------
@@ -1301,6 +1320,9 @@ After the fight they made up with each other.
 
 - the better part of  一大半（超过一半）
   We spent the better part of an hour searching for her.
+
+- the pick of  精华，最好部分
+  The golden cube is the pick of the whole cubes.
 
 ## To
 - to say the least  至少可以这样说
