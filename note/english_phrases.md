@@ -687,6 +687,9 @@ After the fight they made up with each other.
 - be set on sth  决心做某事
   For the New Year, I'm set on quitting smoking.
 
+- be cout out  具有所需素质及才能的，是做...材料的
+  He doesn't feel he is cut out to be a leader.
+
 ## By
 - by the book  照章办事
   He is an unimaginative individual who does everything by the book.
@@ -1250,6 +1253,10 @@ After the fight they made up with each other.
 - right along
   The work right along.  一直不间断的
   His business is going right along.  顺利的
+
+## Rest
+- rest with  在于，取决于
+  In that case I don't think the responsibility should rest with us.
 
 
 --------------------------------------------------------------------------------
