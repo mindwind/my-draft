@@ -34,8 +34,14 @@ date      : 2016-05-10
 - That name escapes me.
   我想不起来那名字了
 
-- Her going on __maternity leave__ will create a temporary vacancy.
-  产假
+- maternity leave  产假
+  Her going on maternity leave will create a temporary vacancy.
 
 - cash crop  经济作物
   As a major cash crop in America, corn has brought farmers a large income.
+
+- brown-nosing  拍马屁
+  In some companies, relationship-building has political overtones, suggesting brown-nosing behaviors.
+
+- litmus test  试金石，立见分晓的检验
+  Ending the fighting must be the absolute priority, the litmus test of the agreements' validity.
