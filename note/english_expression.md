@@ -36,3 +36,6 @@ date      : 2016-05-10
 
 - Her going on __maternity leave__ will create a temporary vacancy.
   产假
+
+- cash crop  经济作物
+  As a major cash crop in America, corn has brought farmers a large income.
