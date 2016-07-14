@@ -45,3 +45,6 @@ date      : 2016-05-10
 
 - litmus test  试金石，立见分晓的检验
   Ending the fighting must be the absolute priority, the litmus test of the agreements' validity.
+
+- first thing  一大早
+  A line formed at Vic's door first thing every morning.
