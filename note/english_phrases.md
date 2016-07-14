@@ -4,58 +4,6 @@ date      : 2015-09-18
 ---
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- for the most part  通常；在很大程度上
-  The product works for the most part.
-
-- take sth. down  拆除
-  They're taking the old building down to make a few building.
-
-- keep sth. (back) from  阻止
-  The mask keeps the bacteria from invading.
-
-- keep sb. up  坚持，继续
-  Keep it up, you're almost finished.
-
-- keep at  不断地做
-  If you keep at your exercises, you can change your body.
-
-- keep in with sb.  与（某人）友好相处
-  She keeps in with her ex-boyfriend by calling every week.
-
-- be better off  较富裕；更好
-  The man is better off than most; in fact, he's rich.
-
-- lay sth. out  展示，摆开，布置，设计
-  Let me lay out some charts for us to look at together.
-
-- think nothing of = never mind  把...看作平常
-  "Thank you so much!" "Oh, think nothing of it."
-
-- bring in  引进，增加
-  The new government policies really bring in lots of money.
-
-- bring up  养育
-  A mother should bring up her child with love and care.
-
 - behind the times  过时的
   That bicycle is so-old fashioned and behind the times.
 
@@ -687,8 +635,11 @@ After the fight they made up with each other.
 - be set on sth  决心做某事
   For the New Year, I'm set on quitting smoking.
 
-- be cout out  具有所需素质及才能的，是做...材料的
+- be cut out  具有所需素质及才能的，是做...材料的
   He doesn't feel he is cut out to be a leader.
+
+- be better off  较富裕；更好
+  The man is better off than most; in fact, he's rich.
 
 ## By
 - by the book  照章办事
@@ -713,6 +664,12 @@ After the fight they made up with each other.
 ## Bring
 - bring forward  提出
   She is always bringing forward new ideas in meetings.
+
+- bring in  引进，增加
+  The new government policies really bring in lots of money.
+
+- bring up  养育
+  A mother should bring up her child with love and care.
 
 ## Break
 - break down  发生故障；失败
@@ -831,6 +788,9 @@ After the fight they made up with each other.
 
 - for one thing  首先
   For one thing, you haven't finished your homework yet; for another, stop picking your ear!
+
+- for the most part  通常；在很大程度上
+  The product works for the most part.
 
 ## Feed
 - feed up  对...厌烦
@@ -1003,7 +963,21 @@ After the fight they made up with each other.
 ## J
 
 
-## K
+--------------------------------------------------------------------------------
+
+
+## Keep
+- keep sth (back) from  阻止
+  The mask keeps the bacteria from invading.
+
+- keep sb up  坚持，继续
+  Keep it up, you're almost finished.
+
+- keep at  不断地做
+  If you keep at your exercises, you can change your body.
+
+- keep in with sb  与（某人）友好相处
+  She keeps in with her ex-boyfriend by calling every week.
 
 
 --------------------------------------------------------------------------------
@@ -1024,7 +998,6 @@ After the fight they made up with each other.
 
 - look out for sb/sth  注意
   You should look out for bicycles on this road.
-
 
 ## Laugh
 - LOL - Laugh Out Loud  大笑，哈哈
@@ -1052,6 +1025,10 @@ After the fight they made up with each other.
 ## Live
 - live it up  狂欢一场
   They had a big party and really lived it up.
+
+## Lay
+- lay sth out  展示，摆开，布置，设计
+  Let me lay out some charts for us to look at together.
 
 
 --------------------------------------------------------------------------------
@@ -1372,6 +1349,13 @@ After the fight they made up with each other.
 - take sth to heart  牢记
   I hope my son takes the warning I gave him to heart.
 
+- take sth down  拆除
+  They're taking the old building down to make a few building.
+
+
+## Think
+- think nothing of = never mind  把...看作平常
+  "Thank you so much!" "Oh, think nothing of it."
 
 --------------------------------------------------------------------------------
 
