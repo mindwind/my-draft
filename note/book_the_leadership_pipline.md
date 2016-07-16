@@ -19,3 +19,12 @@ At least half your time should be spent on management work for you to be conside
 
 ## 3. From Managing Others to Managing Managers
 Training first-line managers is the art of creating a supportive environment that allows mistakes but not failure.
+
+
+## 4. From Managing Managers to Functional Managers
+This leader's calendar, too, is skewed to manage upwards and horizontally.
+Think strategically and manage with the whole function in mind.
+
+
+## 5. From Functional Manager to Business Manager
+Think in terms of profitability and sustainable competitive advantage in a global context.
