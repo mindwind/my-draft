@@ -1182,6 +1182,9 @@ After the fight they made up with each other.
 - put an end to  消灭
   The new spray puts an end to ants and other bugs.
 
+- put up  留宿
+  I wanted to know if she could put me up for a few days.
+
 ## Pass
 - pass out
   The instant she saw me, she passed out.  昏厥
