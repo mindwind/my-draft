@@ -28,3 +28,5 @@ Think strategically and manage with the whole function in mind.
 
 ## 5. From Functional Manager to Business Manager
 Think in terms of profitability and sustainable competitive advantage in a global context.
+
+New business managers may feel they owe the out of loyalty or based on their past performance, but what they really owe them is candid feedback on their job performance now.
