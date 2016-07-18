@@ -4,48 +4,6 @@ date      : 2015-09-18
 ---
 
 
-- behind the times  过时的
-  That bicycle is so-old fashioned and behind the times.
-
-- look for  寻找
-  Is this the right place to look for science fiction novels?
-
-- feel for  同情
-  "I really feel for you." the older woman said as she handed me tissues.
-
-- hit on(upon)  偶然碰到
-  The chef hit on an idea for a new dish.
-
-- day in and day out  一天又一天
-  I have to work day in and day out; I never get a break.
-
-- pass off  冒充
-  She tried pass off as a man, but it didn't work.
-
-- state of the art  体现最高水平的
-  The system was state of the art.
-
-- no biggie == no big deal  没什么大不了的
-  No biggie, it is not surprise for me to fail again.
-
-- let sb. down  使失望
-  Her daughter really let her mother down by not doing her homework.
-
-- set off  出发
-  The pirates set off from the island.
-
-- give oneself(put on) airs  装腔作势
-  I hate how she always gives herself airs at parties.
-
-- do sth. with a bad grace  勉强做某事
-  The child did his medical checkup with a bad grace, crying and screaming.
-
-- stick around  逗留
-  My boyfriend had better come soon - I'm not going to stick around much longer.
-
-- try one's hand at  尝试着做...
-  For this New Year, I will try my hand at losing weight.
-
 - get the better of  打败
   The man on top got the better of the other man.
 
@@ -679,6 +637,10 @@ After the fight they made up with each other.
 - become of  降临；发生
   What has become of my car?
 
+## Behind
+- behind the times  过时的
+  That bicycle is so-old fashioned and behind the times.
+
 
 --------------------------------------------------------------------------------
 
@@ -744,15 +706,16 @@ After the fight they made up with each other.
 - Don't push your luck  别得寸进尺
   In a way, you are successful after so many difficulties. Take and don't push your luck.
 
+- do sth with a bad grace  勉强做某事
+  The child did his medical checkup with a bad grace, crying and screaming.
+
 ## Dumb
 - dumb sth down  （为使公众更易理解而）降低...标准，减少...的专业性
   The researchers dumbed down the report before releasing it to the public.
 
-
 ## Drop
 - drop in  顺便访问
   Why not drop in for a chat?
-
 
 ## Dead
 - dead ahead  在正前方
@@ -761,6 +724,10 @@ After the fight they made up with each other.
 ## Down
 - down to the wire  直到最后，接近最后期限
   Jack always waits until the last minute to do his work. I could never leave it down to the wire like that.
+
+## Day
+- day in and day out  一天又一天
+  I have to work day in and day out; I never get a break.
 
 
 --------------------------------------------------------------------------------
@@ -807,6 +774,10 @@ After the fight they made up with each other.
 ## Find
 - find one's bearings  指明方向
   My new GPS helps me find my bearings when I'm lost.
+
+## Feel
+- feel for  同情
+  "I really feel for you." the older woman said as she handed me tissues.
 
 
 --------------------------------------------------------------------------------
@@ -877,6 +848,9 @@ After the fight they made up with each other.
 - give way to sb.  屈服，让步
   I can't believe I had to give way to the little boy in our arm wrestling contest.
 
+- give oneself(put on) airs  装腔作势
+  I hate how she always gives herself airs at parties.
+
 
 --------------------------------------------------------------------------------
 
@@ -884,6 +858,9 @@ After the fight they made up with each other.
 ## Hit
 - hit it off  合得来，投缘
   How well did you hit it off with one another?
+
+- hit on(upon)  偶然碰到
+  The chef hit on an idea for a new dish.
 
 ## Have
 - have one's hands full 忙得不可开交
@@ -999,6 +976,9 @@ After the fight they made up with each other.
 - look out for sb/sth  注意
   You should look out for bicycles on this road.
 
+- look for  寻找
+  Is this the right place to look for science fiction novels?
+
 ## Laugh
 - LOL - Laugh Out Loud  大笑，哈哈
   The Yanks look like a group of sailors, lol.
@@ -1017,6 +997,9 @@ After the fight they made up with each other.
 
 - let slip  放走；放过
   We mustn't let slip such an opportunity.
+
+- let sb down  使失望
+  Her daughter really let her mother down by not doing her homework.
 
 ## Lose
 - lose heart  丧失信心
@@ -1086,6 +1069,9 @@ After the fight they made up with each other.
 
 - no sooner ... than  一...就...
   No sooner had he arrived in Rome than he was kidnapped.
+
+- no biggie == no big deal  没什么大不了的
+  No biggie, it is not surprise for me to fail again.
 
 ## Note
 - note down  记下
@@ -1199,6 +1185,9 @@ After the fight they made up with each other.
 - pass on  去世
   I'm sorry, he is no longer alive; he has passed on.
 
+- pass off  冒充
+  She tried pass off as a man, but it didn't work.
+
 ## Purple
 - purple passage  词藻华丽的段落
   I had been latching on to the purple passages like a child running after toffee.
@@ -1245,6 +1234,9 @@ After the fight they made up with each other.
 ## Set
 - set sth off  使爆炸
   The fuse will set the bomb off, and then there will be a huge explosion.
+
+- set off  出发
+  The pirates set off from the island.
 
 ## Settle
 - settle sb in  迁入新居
@@ -1296,6 +1288,13 @@ After the fight they made up with each other.
 ## Stick
 - stick to sb./sth.  忠于
   The supporters stick to their leader, they really believe in him.
+
+- stick around  逗留
+  My boyfriend had better come soon - I'm not going to stick around much longer.
+
+## State
+- state of the art  体现最高水平的
+  The system was state of the art.  
 
 
 --------------------------------------------------------------------------------
@@ -1355,10 +1354,14 @@ After the fight they made up with each other.
 - take sth down  拆除
   They're taking the old building down to make a few building.
 
-
 ## Think
 - think nothing of = never mind  把...看作平常
   "Thank you so much!" "Oh, think nothing of it."
+
+## Try
+- try one's hand at  尝试着做...
+  For this New Year, I will try my hand at losing weight.
+
 
 --------------------------------------------------------------------------------
 
