@@ -39,3 +39,9 @@ New business managers may feel they owe the out of loyalty or based on their pas
 
 
 ## 7. From Group manager to Enterprise Manager
+Four challenges:
+  1. Delivering consistent, predictable top-and bottom-line results.
+  2. Setting enterprise direction.
+  3. Shaping the soft side of the enterprise.
+  4. Maintaining an edge in execution.
+  5. Managing the enterprise in a broader, global context.
