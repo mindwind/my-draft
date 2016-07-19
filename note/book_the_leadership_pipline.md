@@ -30,3 +30,12 @@ Think strategically and manage with the whole function in mind.
 Think in terms of profitability and sustainable competitive advantage in a global context.
 
 New business managers may feel they owe the out of loyalty or based on their past performance, but what they really owe them is candid feedback on their job performance now.
+
+
+## 6. From Business Manager to Group Manager
+  - exceptional results, strong strategic skills, effective people development, passion for satisfying customers and well-developed business acument.
+  - Breadth of thought and learning.
+  - Peer influence.
+
+
+## 7. From Group manager to Enterprise Manager
