@@ -4,57 +4,6 @@ date      : 2015-09-18
 ---
 
 
-- get the better of  打败
-  The man on top got the better of the other man.
-
-- lay sth. bare  显示；揭露
-  The decision was easy for the judge after the truth was laid bare.
-
-- be at odds with sb.(over sth.)   与...有争执
-  He is at odds with his girlfriend over who should wash the dishes.
-
-- Learn sth. the hard way  经过艰难困苦而学到
-  She had to learn Latin the hard way - from boring old books, without a computer.
-
-- be on to  意识到
-  That's great idea! I really think you're on to something.
-
-- live up to  不辜负；做到
-  The son really lived up to his father's expectations, he was great at his job.
-
-- snap at sth.  咬住
-  The dog snapped at the dogcatcher's butt.
-
-- at full tilt  全速地
-  The runner runs at full tilt so he can win the race.
-
-- Every cloud has a silver lining   黑暗中总有一丝光明（谚语，鼓励人们保持乐观）
-  As they say, every cloud has a silver lining. We have drawn lessons from the decisions taken.
-
-- falling out  闹翻（亲人、朋友、爱人之间）
-  The falling out lovers is the renewing of love.
-
-- cost a arm and leg  价值不菲
-  A week at a health farm can cost an arm and a leg.
-
-- steal someone's thunder  窃取别人的成绩，居他人之功
-  The jealous manager used to steal his best staff members’ thunder and falsely claim that their ideas were his.
-
-- bring forth  提出，产生
-  Do not let your mountain in labour bring forth a mouse.
-
-- stop by  顺便走访
-  I'll stop by see Leigh before going home.
-
-- above(beyond) reproach  无可指责，无可厚非
-  The ruler was above reproach, everybody loved him.  
-
-- later on  后来；稍后
-  Later on, when I get back, we can start working again.
-
-- give way to  给...让路；为...所代替
-  When driving, you should always give way to pedestrians and especially kids.
-
 - pass the time of day with  交谈；共渡
   The women like to pass the time of day with each other, just talking and sipping tea.
 
@@ -531,6 +480,9 @@ After the fight they made up with each other.
 - at full blast  全力地
   The dog ran at full blast and won the race.
 
+- at full tilt  全速地
+  The runner runs at full tilt so he can win the race.
+
 - as opposed to  与...形成对照
   Susie believes we should take the car, as opposed to Lucy, who thinks we should walk.
 
@@ -576,6 +528,10 @@ After the fight they made up with each other.
 - angry at sth
   I'm angry at her attitude.
 
+## Above  
+- above(beyond) reproach  无可指责，无可厚非
+  The ruler was above reproach, everybody loved him.  
+
 
 --------------------------------------------------------------------------------
 
@@ -598,6 +554,13 @@ After the fight they made up with each other.
 
 - be better off  较富裕；更好
   The man is better off than most; in fact, he's rich.
+
+- be at odds with sb (over sth)   与...有争执
+  He is at odds with his girlfriend over who should wash the dishes.
+
+- be on to  意识到
+  That's great idea! I really think you're on to something.
+
 
 ## By
 - by the book  照章办事
@@ -622,6 +585,9 @@ After the fight they made up with each other.
 ## Bring
 - bring forward  提出
   She is always bringing forward new ideas in meetings.
+
+- bring forth  提出，产生
+  Do not let your mountain in labour bring forth a mouse.
 
 - bring in  引进，增加
   The new government policies really bring in lots of money.
@@ -693,11 +659,13 @@ After the fight they made up with each other.
 - come off  发生；举行
   The wedding came off with no problems at all.
 
-
 ## Clear
 - clear up  变晴
   After the rain, the sky clears up and a rainbow appears.
 
+## Cost
+- cost a arm and leg  价值不菲
+  A week at a health farm can cost an arm and a leg.
 
 --------------------------------------------------------------------------------
 
@@ -736,6 +704,9 @@ After the fight they made up with each other.
 ## Every
 - every now and then = every so often = sometimes
   Every now and then you hear some bombs bursting.
+
+- Every cloud has a silver lining   黑暗中总有一丝光明（谚语，鼓励人们保持乐观）
+  As they say, every cloud has a silver lining. We have drawn lessons from the decisions taken.
 
 ## Eat
 - eat into  腐蚀；消耗
@@ -779,6 +750,9 @@ After the fight they made up with each other.
 - feel for  同情
   "I really feel for you." the older woman said as she handed me tissues.
 
+## Fall
+- falling out  闹翻（亲人、朋友、爱人之间）
+  The falling out lovers is the renewing of love.
 
 --------------------------------------------------------------------------------
 
@@ -821,6 +795,10 @@ After the fight they made up with each other.
 - get round to doing sth  抽出时间做
   After putting it off for weeks, the man finally got round to mowing his lawn.
 
+- get the better of  打败
+  The man on top got the better of the other man.
+
+
 
 ## Go
 - go the distance  坚持到底，完成全部
@@ -850,6 +828,9 @@ After the fight they made up with each other.
 
 - give oneself(put on) airs  装腔作势
   I hate how she always gives herself airs at parties.
+
+- give way to  给...让路；为...所代替
+  When driving, you should always give way to pedestrians and especially kids.
 
 
 --------------------------------------------------------------------------------
@@ -1009,9 +990,23 @@ After the fight they made up with each other.
 - live it up  狂欢一场
   They had a big party and really lived it up.
 
+- live up to  不辜负；做到
+  The son really lived up to his father's expectations, he was great at his job.
+
 ## Lay
 - lay sth out  展示，摆开，布置，设计
   Let me lay out some charts for us to look at together.
+
+- lay sth bare  显示；揭露
+  The decision was easy for the judge after the truth was laid bare.
+
+## Leran
+- Learn sth the hard way  经过艰难困苦而学到
+  She had to learn Latin the hard way - from boring old books, without a computer.
+
+## Later
+- later on  后来；稍后
+  Later on, when I get back, we can start working again.
 
 
 --------------------------------------------------------------------------------
@@ -1296,6 +1291,17 @@ After the fight they made up with each other.
 - state of the art  体现最高水平的
   The system was state of the art.  
 
+## Snap
+- snap at sth. 咬住
+  The dog snapped at the dogcatcher's butt.
+
+## Steal
+- steal someone's thunder  窃取别人的成绩，居他人之功
+  The jealous manager used to steal his best staff members’ thunder and falsely claim that their ideas were his.
+
+## Stop
+- stop by  顺便走访
+  I'll stop by see Leigh before going home.  
 
 --------------------------------------------------------------------------------
 
