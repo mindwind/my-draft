@@ -4,60 +4,6 @@ date      : 2015-09-18
 ---
 
 
-- pass the time of day with  交谈；共渡
-  The women like to pass the time of day with each other, just talking and sipping tea.
-
-- break away from  突然离开
-  The black swan breaks away from the white swans.
-
-- be(get) fed up with  厌烦
-  He gets fed up with people pestering him with annoying messages.
-
-- plead guilty(not guilty)  服罪（不服罪）
-  He pled guilty to the crime so they put him in jail.
-
-- the present day  当代，现代
-  In the present day we have many ways to access the internet.
-
-- pull sth. down  拆除
-  I heard they're going to pull that house down next week.
-
-- make light of  轻视
-  The manager made light of the problems we were having.
-
-- goes on board  在船上，在飞机上
-  She goes on board and enjoys the sun.
-
-- apply oneself to sth.  专心致志于
-  She applies herself to her scientific research.
-
-- do with  需要
-  I'm so tired, I could really do with a nap today.
-
-- take pains to do  尽力去做；
-  My mother takes pains to make sure all the food is served.
-
-- keep to the beaten track  循规蹈矩
-  He decided not to become an artist; he kept to the beaten track and worked in an office.
-
-- keep sb. down  压制
-  The mean girls really keep her down at school.
-
-- keep sb on  继续雇佣某人
-  I'm firing everyone else, but I'd like to keep you on as an employee.
-
-- for good (and all)  永久的，一劳永逸的
-  You must quit smoking for good and all.
-
-- settle on/upon sth.  决定
-  She settled on losing weight, so now she's given up junk food.
-
-- be hard to say  难以估计
-  I don't know the answer, it's hard to say.
-
-- once and for all  一次了结地， 一劳永逸地; 彻底地; 最终地
-  Once and for all, it's time to quit smoking.
-
 - put forward  提出
   The boy put forward a practicable solution to get the weight of the elephant.
 
@@ -532,6 +478,10 @@ After the fight they made up with each other.
 - above(beyond) reproach  无可指责，无可厚非
   The ruler was above reproach, everybody loved him.  
 
+## Apply
+- apply oneself to sth.  专心致志于
+  She applies herself to her scientific research.
+
 
 --------------------------------------------------------------------------------
 
@@ -561,6 +511,11 @@ After the fight they made up with each other.
 - be on to  意识到
   That's great idea! I really think you're on to something.
 
+- be hard to say  难以估计
+  I don't know the answer, it's hard to say.
+
+- be(get) fed up with  厌烦
+  He gets fed up with people pestering him with annoying messages.
 
 ## By
 - by the book  照章办事
@@ -598,6 +553,9 @@ After the fight they made up with each other.
 ## Break
 - break down  发生故障；失败
   The man's car broke down, so he has to stop and call for help.
+
+- break away from  突然离开
+  The black swan breaks away from the white swans.
 
 ## Become
 - become of  降临；发生
@@ -677,6 +635,9 @@ After the fight they made up with each other.
 - do sth with a bad grace  勉强做某事
   The child did his medical checkup with a bad grace, crying and screaming.
 
+- do with  需要
+  I'm so tired, I could really do with a nap today.
+
 ## Dumb
 - dumb sth down  （为使公众更易理解而）降低...标准，减少...的专业性
   The researchers dumbed down the report before releasing it to the public.
@@ -729,6 +690,10 @@ After the fight they made up with each other.
 
 - for the most part  通常；在很大程度上
   The product works for the most part.
+
+- for good (and all)  永久的，一劳永逸的
+  You must quit smoking for good and all.
+
 
 ## Feed
 - feed up  对...厌烦
@@ -818,6 +783,9 @@ After the fight they made up with each other.
 
 - go without saying  不言而喻，理所当然
   "2+2=4" is a truth that goes without saying.
+
+- go on board  在船上，在飞机上
+  She goes on board and enjoys the sun.
 
 ## Give
 - give and take  双方迁就、妥协
@@ -937,6 +905,15 @@ After the fight they made up with each other.
 - keep in with sb  与（某人）友好相处
   She keeps in with her ex-boyfriend by calling every week.
 
+- keep to the beaten track  循规蹈矩
+  He decided not to become an artist; he kept to the beaten track and worked in an office.
+
+- keep sb down  压制
+  The mean girls really keep her down at school.
+
+- keep sb on  继续雇佣某人
+  I'm firing everyone else, but I'd like to keep you on as an employee.
+
 
 --------------------------------------------------------------------------------
 
@@ -1041,6 +1018,10 @@ After the fight they made up with each other.
 - make off  逃走；匆忙离开
   The thieves made off with her purse.
 
+- make light of  轻视
+  The manager made light of the problems we were having.
+
+
 ## Many
 - many a  许多
   Many a child knows only that much.
@@ -1103,6 +1084,10 @@ After the fight they made up with each other.
 ## One
 - one another 彼此
   The couple really love one another.
+
+## Once
+- once and for all  一次了结地， 一劳永逸地; 彻底地; 最终地
+  Once and for all, it's time to quit smoking.
 
 ## Only
 - only that  要不是
@@ -1183,6 +1168,9 @@ After the fight they made up with each other.
 - pass off  冒充
   She tried pass off as a man, but it didn't work.
 
+- pass the time of day with  交谈；共渡
+  The women like to pass the time of day with each other, just talking and sipping tea.
+
 ## Purple
 - purple passage  词藻华丽的段落
   I had been latching on to the purple passages like a child running after toffee.
@@ -1194,6 +1182,14 @@ After the fight they made up with each other.
 ## Pick
 - pick up  接；中途搭乘
   Since he can't drive by himself. I have to pick him up from work every day.
+
+## Pull
+- pull sth down  拆除
+  I heard they're going to pull that house down next week.
+
+## Plead
+- plead guilty(not guilty)  服罪（不服罪）
+  He pled guilty to the crime so they put him in jail.
 
 
 --------------------------------------------------------------------------------
@@ -1236,6 +1232,9 @@ After the fight they made up with each other.
 ## Settle
 - settle sb in  迁入新居
   He settled her in and had a glass of wine to celebrate.
+
+- settle on/upon sth  决定
+  She settled on losing weight, so now she's given up junk food.
 
 ## Sense
 - sense of ethics, security, humor, direction, worth  伦理观，安全感，幽默感，方向感，价值观
@@ -1316,6 +1315,10 @@ After the fight they made up with each other.
 - the pick of  精华，最好部分
   The golden cube is the pick of the whole cubes.
 
+- the present day  当代，现代
+  In the present day we have many ways to access the internet.
+
+
 ## To
 - to say the least  至少可以这样说
   I have done thus and so, to say the least of it.
@@ -1359,6 +1362,9 @@ After the fight they made up with each other.
 
 - take sth down  拆除
   They're taking the old building down to make a few building.
+
+- take pains to do  尽力去做；
+  My mother takes pains to make sure all the food is served.
 
 ## Think
 - think nothing of = never mind  把...看作平常
