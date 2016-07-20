@@ -45,3 +45,7 @@ Four challenges:
   3. Shaping the soft side of the enterprise.
   4. Maintaining an edge in execution.
   5. Managing the enterprise in a broader, global context.
+
+
+## 8. Diagnostics
+No one is noticing the financial cost or the failure to develop people. Instead, if objectives are met, it seems as though a given leader is performing effectively.
