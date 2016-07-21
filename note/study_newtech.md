@@ -44,6 +44,9 @@ date      : 2016-05-19
 - GraphicsMagick
   图片处理库
 
+- Consul
+  服务注册和发现
+
 
 ## 前端
 - Gulp    
