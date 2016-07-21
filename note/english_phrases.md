@@ -4,84 +4,6 @@ date      : 2015-09-18
 ---
 
 
-- put forward  提出
-  The boy put forward a practicable solution to get the weight of the elephant.
-
-- in a row  接连
-  He finished second in the championship four years in a row.
-
-- look away  不再看，移开视线
-  She looked at him in such distress that he had to look away.
-
-- go off  爆炸
-  The bomb goes off with a "BOOM!"
-
-- beat about/around the bush  旁敲侧击，转弯抹角
-  Should my novel beat about the bush, or should it really say what we did that night?
-
-- look sth. up  查字典
-  I look "parasite" up in the "P" section.
-
-- cash in on  以...获利，盈利
-  He found an advantage against the casino and cashed in on his discovery.
-
-- carry through  坚持下去，渡过难关
-  It was difficult, but he carried through and lifted the weight.
-
-- get sth. down  写下
-  When she has ideas she likes to get them down quickly.
-
-- out of line with <-> in line with  跟...（不）一致
-  She's out of line with how we do things here.
-
-- learn (know) sth by heart 记住，背下
-  The boy knows the song by heart, he doesn't need sheet music.
-
-- back down from 投降，认输
-  We were surrounded, so we had to back down from the fight.
-
-- on and on 继续不停的
-  The boy goes on and on about his favorite cars, it's so annoying.
-
-- lay sth aside 储蓄
-  I lay money aside for the future.
-
-- keep sth to oneself 不影响他人，独自享用
-  During dinner, you should keep your work to yourself.
-
-- pick out 选出，挑选
-  She picks meat out for dinner.
-
-- all told 总共
-  All told, the price is 470
-
-- be obsessed with 缠住，烦扰
-  The woman is obsessed with money.
-
-- not to say 并不是说
-  She has a nice figure, that's no to say she is pretty though.
-
-- give out 分发
-  They're giving out free food.
-
-- hit it off (together, with sb) 相处很好
-  The couple went on a date and really hit it off together.
-
-- break off 折断；突然结束
-  The broke off their relationship after a big argument.
-
-- cast off 丢弃
-  They cast off their old furniture.
-
-- boil down to 归结起来是，问题是
-  Most of my problems boil down to not having enough money.
-
-- clear the air 消除误会
-  They cleared the air, talking about their problems, and became friends again.
-
-- go by 时间流逝；走过
-  You can see how slow time goes by with the hourglass.
-
 130. take sb in 收留
 My aunt will take me in when my mother goes to Paris.
 
@@ -452,6 +374,9 @@ After the fight they made up with each other.
 - all at once  突然；同时
   All at once he lost his temper.
 
+- all told 总共
+  All told, the price is 470.
+
 ## Among
 - Among other things  除此之外，此外
   Among other things, we shrunk the size of the newspapers by an inch
@@ -517,17 +442,31 @@ After the fight they made up with each other.
 - be(get) fed up with  厌烦
   He gets fed up with people pestering him with annoying messages.
 
+- be obsessed with 缠住，烦扰
+  The woman is obsessed with money.
+
+
 ## By
 - by the book  照章办事
   He is an unimaginative individual who does everything by the book.
+
+## Boil
+- boil down to  归结起来是，问题是
+  Most of my problems boil down to not having enough money.
 
 ## Back
 - back sb. up  支持某人
   I'm only one man, but I've got a whole team backing me up.
 
+- back down from 投降，认输
+  We were surrounded, so we had to back down from the fight.
+
 ## Beat
 - beat off  击退
   He beat off his opponent at the end of the boxing match.
+
+- beat about/around the bush  旁敲侧击，转弯抹角
+  Should my novel beat about the bush, or should it really say what we did that night?
 
 ## Bear
 - bear sth./sb. out  证实
@@ -556,6 +495,10 @@ After the fight they made up with each other.
 
 - break away from  突然离开
   The black swan breaks away from the white swans.
+
+- break off 折断；突然结束
+  The broke off their relationship after a big argument.
+
 
 ## Become
 - become of  降临；发生
@@ -621,9 +564,25 @@ After the fight they made up with each other.
 - clear up  变晴
   After the rain, the sky clears up and a rainbow appears.
 
+- clear the air 消除误会
+  They cleared the air, talking about their problems, and became friends again.
+
 ## Cost
 - cost a arm and leg  价值不菲
   A week at a health farm can cost an arm and a leg.
+
+## Cash
+- cash in on  以...获利，盈利
+  He found an advantage against the casino and cashed in on his discovery.
+
+## Carry
+- carry through  坚持下去，渡过难关
+  It was difficult, but he carried through and lifted the weight.
+
+## Cast
+- cast off 丢弃
+  They cast off their old furniture.
+
 
 --------------------------------------------------------------------------------
 
@@ -763,7 +722,8 @@ After the fight they made up with each other.
 - get the better of  打败
   The man on top got the better of the other man.
 
-
+- get sth down  写下
+  When she has ideas she likes to get them down quickly.
 
 ## Go
 - go the distance  坚持到底，完成全部
@@ -787,6 +747,12 @@ After the fight they made up with each other.
 - go on board  在船上，在飞机上
   She goes on board and enjoys the sun.
 
+- go off  爆炸
+  The bomb goes off with a "BOOM!"
+
+- go by 时间流逝；走过
+  You can see how slow time goes by with the hourglass.
+
 ## Give
 - give and take  双方迁就、妥协
   We must all give and take a little if we want peace.
@@ -800,6 +766,9 @@ After the fight they made up with each other.
 - give way to  给...让路；为...所代替
   When driving, you should always give way to pedestrians and especially kids.
 
+- give out 分发
+  They're giving out free food.
+
 
 --------------------------------------------------------------------------------
 
@@ -807,6 +776,7 @@ After the fight they made up with each other.
 ## Hit
 - hit it off  合得来，投缘
   How well did you hit it off with one another?
+  The couple went on a date and really hit it off together.
 
 - hit on(upon)  偶然碰到
   The chef hit on an idea for a new dish.
@@ -880,7 +850,10 @@ After the fight they made up with each other.
   If you cheat on me, get a hotel room - don't be so in my face about it.
 
 - in light of  根据
-  We must ascertain the responsibility in light of different situtations.
+  We must ascertain the responsibility in light of different situations.
+
+- in a row  接连
+  He finished second in the championship four years in a row.
 
 
 --------------------------------------------------------------------------------
@@ -914,6 +887,9 @@ After the fight they made up with each other.
 - keep sb on  继续雇佣某人
   I'm firing everyone else, but I'd like to keep you on as an employee.
 
+- keep sth to oneself 不影响他人，独自享用
+  During dinner, you should keep your work to yourself.
+
 
 --------------------------------------------------------------------------------
 
@@ -936,6 +912,12 @@ After the fight they made up with each other.
 
 - look for  寻找
   Is this the right place to look for science fiction novels?
+
+- look away  不再看，移开视线
+  She looked at him in such distress that he had to look away.
+
+- look sth. up  查字典
+  I look "parasite" up in the "P" section.
 
 ## Laugh
 - LOL - Laugh Out Loud  大笑，哈哈
@@ -977,9 +959,15 @@ After the fight they made up with each other.
 - lay sth bare  显示；揭露
   The decision was easy for the judge after the truth was laid bare.
 
-## Leran
+- lay sth aside 储蓄
+  I lay money aside for the future.
+
+## Learn
 - Learn sth the hard way  经过艰难困苦而学到
   She had to learn Latin the hard way - from boring old books, without a computer.
+
+- learn (know) sth by heart 记住，背下
+  The boy knows the song by heart, he doesn't need sheet music.
 
 ## Later
 - later on  后来；稍后
@@ -1063,6 +1051,8 @@ After the fight they made up with each other.
 - not a bit  一点也不，丝毫不
   She is _not a bit_ tired.   
 
+- not to say 并不是说
+  She has a nice figure, that's not to say she is pretty though.
 
 
 --------------------------------------------------------------------------------
@@ -1080,6 +1070,9 @@ After the fight they made up with each other.
 
 - on the spur of the moment  一时冲动
   They admitted they had taken a vehicle on the spur of the moment.
+
+- on and on 继续不停的
+  The boy goes on and on about his favorite cars, it's so annoying.
 
 ## One
 - one another 彼此
@@ -1109,6 +1102,9 @@ After the fight they made up with each other.
 
 - out of question  毫无疑问的
   He is out of question the greatest authority on this subject now living.
+
+- out of line with <-> in line with  跟...（不）一致
+  She's out of line with how we do things here.
 
 
 --------------------------------------------------------------------------------
@@ -1151,6 +1147,9 @@ After the fight they made up with each other.
 - put up  留宿
   I wanted to know if she could put me up for a few days.
 
+- put forward  提出
+  The boy put forward a practicable solution to get the weight of the elephant.
+
 ## Pass
 - pass out
   The instant she saw me, she passed out.  昏厥
@@ -1182,6 +1181,9 @@ After the fight they made up with each other.
 ## Pick
 - pick up  接；中途搭乘
   Since he can't drive by himself. I have to pick him up from work every day.
+
+- pick out 选出，挑选
+  She picks meat out for dinner.
 
 ## Pull
 - pull sth down  拆除
