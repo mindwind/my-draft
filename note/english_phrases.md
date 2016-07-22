@@ -4,52 +4,7 @@ date      : 2015-09-18
 ---
 
 
-130. take sb in 收留
-My aunt will take me in when my mother goes to Paris.
-
-129. out of stock 无存货，已脱销
-Sorry, the store does not have what you want, we are out of stock.
-
-128. clear out 匆忙离开
-When the earthquake hit, people cleared out of the building swiftly.
-
-127. leave for 动身去
-She leaves for a different city today.
-
-126. take to sb 喜欢
-The little boy really took to the girl, and now they play together every day.
-
-125. snap at sb 对人厉声说
-Why don't you ever take out the garbage? she snapped at him.
-
-124. on and off 断断续续的
-Expect on and off thunderstorms this week.
-
-123. catch on 理解
-At first she was confused, but then she started to catch on.
-
-122. call for 需要；要求
-She is in trouble, so she calls for help.
-
-120. all out 全力以赴
-He goes all out to push the boulder up the hill.
-
-119. get round sth 规避，避开
-You can only get round the obstacle by going off the road.
-
-118. phase out 逐渐淘汰
-Beepers were phased out when people started using cell phones.
-
-117. clear away 把...除掉
-The farmer clears away weeds so his crops can grow.
-
-116. leave sb/sth behind 忘带，留下
-She left her purse behind in the car.
-
-114. look back on sth 回顾
-The old woman look back on their childhood memories together.
-
-113. live throught 度过
+113. live through 度过
 The farmers live through the war by hiding in the country.
 
 - pull sth. off  努力实现
@@ -370,12 +325,13 @@ After the fight they made up with each other.
 
 - all told  总计，总共
   These books numbered ten all told.
+  All told, the price is 470.
 
 - all at once  突然；同时
   All at once he lost his temper.
 
-- all told 总共
-  All told, the price is 470.
+- all out 全力以赴
+  He goes all out to push the boulder up the hill.
 
 ## Among
 - Among other things  除此之外，此外
@@ -499,7 +455,6 @@ After the fight they made up with each other.
 - break off 折断；突然结束
   The broke off their relationship after a big argument.
 
-
 ## Become
 - become of  降临；发生
   What has become of my car?
@@ -567,6 +522,12 @@ After the fight they made up with each other.
 - clear the air 消除误会
   They cleared the air, talking about their problems, and became friends again.
 
+- clear out 匆忙离开
+  When the earthquake hit, people cleared out of the building swiftly.
+
+- clear away 把...除掉
+  The farmer clears away weeds so his crops can grow.
+
 ## Cost
 - cost a arm and leg  价值不菲
   A week at a health farm can cost an arm and a leg.
@@ -582,6 +543,10 @@ After the fight they made up with each other.
 ## Cast
 - cast off 丢弃
   They cast off their old furniture.
+
+## Catch
+- catch on 理解
+At first she was confused, but then she started to catch on.
 
 
 --------------------------------------------------------------------------------
@@ -724,6 +689,9 @@ After the fight they made up with each other.
 
 - get sth down  写下
   When she has ideas she likes to get them down quickly.
+
+- get round sth 规避，避开
+  You can only get round the obstacle by going off the road.
 
 ## Go
 - go the distance  坚持到底，完成全部
@@ -916,8 +884,11 @@ After the fight they made up with each other.
 - look away  不再看，移开视线
   She looked at him in such distress that he had to look away.
 
-- look sth. up  查字典
+- look sth up  查字典
   I look "parasite" up in the "P" section.
+
+- look back on sth 回顾
+  The old woman look back on their childhood memories together.
 
 ## Laugh
 - LOL - Laugh Out Loud  大笑，哈哈
@@ -972,6 +943,13 @@ After the fight they made up with each other.
 ## Later
 - later on  后来；稍后
   Later on, when I get back, we can start working again.
+
+## Leave
+- leave sb/sth behind 忘带，留下
+  She left her purse behind in the car.
+
+- leave for 动身去
+  She leaves for a different city today.
 
 
 --------------------------------------------------------------------------------
@@ -1074,6 +1052,9 @@ After the fight they made up with each other.
 - on and on 继续不停的
   The boy goes on and on about his favorite cars, it's so annoying.
 
+- on and off 断断续续的
+  Expect on and off thunderstorms this week.
+
 ## One
 - one another 彼此
   The couple really love one another.
@@ -1105,6 +1086,9 @@ After the fight they made up with each other.
 
 - out of line with <-> in line with  跟...（不）一致
   She's out of line with how we do things here.
+
+- out of stock 无存货，已脱销
+  Sorry, the store does not have what you want, we are out of stock.
 
 
 --------------------------------------------------------------------------------
@@ -1192,6 +1176,10 @@ After the fight they made up with each other.
 ## Plead
 - plead guilty(not guilty)  服罪（不服罪）
   He pled guilty to the crime so they put him in jail.
+
+## Phase
+- phase out 逐渐淘汰
+  Beepers were phased out when people started using cell phones.
 
 
 --------------------------------------------------------------------------------
@@ -1293,8 +1281,11 @@ After the fight they made up with each other.
   The system was state of the art.  
 
 ## Snap
-- snap at sth. 咬住
+- snap at sth 咬住
   The dog snapped at the dogcatcher's butt.
+
+- snap at sb 对人厉声说
+  Why don't you ever take out the garbage? she snapped at him.
 
 ## Steal
 - steal someone's thunder  窃取别人的成绩，居他人之功
@@ -1367,6 +1358,12 @@ After the fight they made up with each other.
 
 - take pains to do  尽力去做；
   My mother takes pains to make sure all the food is served.
+
+- take sb in 收留
+  My aunt will take me in when my mother goes to Paris.
+
+- take to sb 喜欢
+  The little boy really took to the girl, and now they play together every day.
 
 ## Think
 - think nothing of = never mind  把...看作平常
