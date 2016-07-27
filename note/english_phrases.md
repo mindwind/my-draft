@@ -4,60 +4,6 @@ date      : 2015-09-18
 ---
 
 
-113. live through 度过
-The farmers live through the war by hiding in the country.
-
-- pull sth. off  努力实现
-  I'm pulling my dream off to make my parents proud.
-
-- pull oneself together   恢复镇定；振作起来
-  She pulled herself together before the big game by saying a prayer and concentrating.
-
-- pull over   开到路边
-  She pulled over to ask for help.
-
-111. go far 成功，大有前途
-With the right attitude, you can go far in life.
-
-110. hold out against 坚持，顶住
-He won eventually, but I managed to hold out against hime for ten minutes.
-
-108. be in two minds about sth 犹豫不决
-He is two minds about which door he should take.
-
-106. has the making of 具有成为...所需要的素质
-At only ten years old, the boy already has the making of a pro football player.
-
-105. make sb's day 使某人快活
-He loved the present, it really made his day.
-
-104. recon on 规划；估计
-The businessman reckons on his plans for the future.
-
-103. null and void 无效的
-You cannot buy the house, our agreement is null and void.
-
-102. call it a day 手工
-After a long day of work, she calls it a day and goes home.
-
-101. live on 以...主食；靠...生活
-The panda mainly lives on bamboo leaves.
-
-100. set about sth 着手
-Before you set about fixing a car, make sure you know what you're doing.
-
-- go about 着手做
-  The little girls their studies with lots of concentration.
-
-99. pay up 结账
-At the end of the meal it's time to pay up.
-
-98. at a loose end  不知做什么好
-He's at a loose end, he doesn't know which way to go.
-
-97. make sb up 化妆
-The woman makes herself up before going out on a date.
-
 96. pull through  渡过难关；恢复健康
 We believe that optimistic woman will pull through.
 
@@ -309,6 +255,9 @@ After the fight they made up with each other.
 - as opposed to  与...形成对照
   Susie believes we should take the car, as opposed to Lucy, who thinks we should walk.
 
+- at a loose end  不知做什么好
+  He's at a loose end, he doesn't know which way to go.
+
 ## As
 - as soon as not  很愿意，再乐意不过
   I would go with you as soon as not.
@@ -368,6 +317,9 @@ After the fight they made up with each other.
 
 
 ## Be
+- be in two minds about sth 犹豫不决
+He is two minds about which door he should take.
+
 - be none the wiser  仍然不知道，仍不明白
   He seems to be none the wiser.
 
@@ -471,6 +423,9 @@ After the fight they made up with each other.
 - call for
   The letter is to be left here until (或 till) called for.  去取，去接
   A call for a vote of no-confidence in the president was rejected.  请求，要求
+
+- call it a day  收工
+  After a long day of work, she calls it a day and goes home.
 
 ## Cut
 - cut to the chase  不绕圈子，有话直说
@@ -694,6 +649,9 @@ At first she was confused, but then she started to catch on.
   You can only get round the obstacle by going off the road.
 
 ## Go
+- go far  成功，大有前途
+  With the right attitude, you can go far in life.
+
 - go the distance  坚持到底，完成全部
   I doubt if he can go the distance.
 
@@ -720,6 +678,9 @@ At first she was confused, but then she started to catch on.
 
 - go by 时间流逝；走过
   You can see how slow time goes by with the hourglass.
+
+- go about 着手做
+  The little girls go about their studies with lots of concentration.
 
 ## Give
 - give and take  双方迁就、妥协
@@ -753,6 +714,9 @@ At first she was confused, but then she started to catch on.
 - have one's hands full 忙得不可开交
   He has his hands full with work.
 
+- have the making of  具有成为...所需要的素质
+  At only ten years old, the boy already has the making of a pro football player.
+
 ## Help
 - help out  帮忙
   She's always willing to help out.
@@ -770,6 +734,9 @@ At first she was confused, but then she started to catch on.
   Do not hold back the truth.  隐瞒
   The problem can be big enough to hold back a country's development.  阻碍
   Social censure is an effective means of helping her help herself. Don't hold back.  犹豫不决
+
+- hold out against 坚持，顶住
+  He won eventually, but I managed to hold out against him for ten minutes.
 
 ## Hand
 - hand sth. over to sb  移交
@@ -923,6 +890,9 @@ At first she was confused, but then she started to catch on.
 - live up to  不辜负；做到
   The son really lived up to his father's expectations, he was great at his job.
 
+- live on  以...主食；靠...生活
+  The panda mainly lives on bamboo leaves.
+
 ## Lay
 - lay sth out  展示，摆开，布置，设计
   Let me lay out some charts for us to look at together.
@@ -967,7 +937,6 @@ At first she was confused, but then she started to catch on.
 - may well  有充分理由
   He may well be proud of his success.
 
-
 ## Make
 - make up one's mind  决心
   He has made up his mind to study hard.
@@ -987,6 +956,11 @@ At first she was confused, but then she started to catch on.
 - make light of  轻视
   The manager made light of the problems we were having.
 
+- make sb up  化妆
+  The woman makes herself up before going out on a date.
+
+- make sb's day  使某人快活
+  He loved the present, it really made his day.
 
 ## Many
 - many a  许多
@@ -1031,6 +1005,10 @@ At first she was confused, but then she started to catch on.
 
 - not to say 并不是说
   She has a nice figure, that's not to say she is pretty though.
+
+## Null
+- null and void  无效的
+You cannot buy the house, our agreement is null and void.
 
 
 --------------------------------------------------------------------------------
@@ -1097,6 +1075,9 @@ At first she was confused, but then she started to catch on.
 ## Pay
 - pay through nose  被勒索; 花大钱
   Don't pay through the nose when you buy the furniture.
+
+- pay up 结账
+  At the end of the meal it's time to pay up.
 
 ## Part
 - parting statement  临别赠言
@@ -1173,6 +1154,15 @@ At first she was confused, but then she started to catch on.
 - pull sth down  拆除
   I heard they're going to pull that house down next week.
 
+- pull sth off  努力实现
+  I'm pulling my dream off to make my parents proud.
+
+- pull oneself together   恢复镇定；振作起来
+  She pulled herself together before the big game by saying a prayer and concentrating.
+
+- pull over   开到路边
+  She pulled over to ask for help.
+
 ## Plead
 - plead guilty(not guilty)  服罪（不服罪）
   He pled guilty to the crime so they put him in jail.
@@ -1208,6 +1198,10 @@ At first she was confused, but then she started to catch on.
 - rest with  在于，取决于
   In that case I don't think the responsibility should rest with us.
 
+## Recon
+recon on 规划；估计
+The businessman reckons on his plans for the future.
+
 
 --------------------------------------------------------------------------------
 
@@ -1218,6 +1212,9 @@ At first she was confused, but then she started to catch on.
 
 - set off  出发
   The pirates set off from the island.
+
+- set about sth 着手
+  Before you set about fixing a car, make sure you know what you're doing.
 
 ## Settle
 - settle sb in  迁入新居
