@@ -4,51 +4,6 @@ date      : 2015-09-18
 ---
 
 
-96. pull through  渡过难关；恢复健康
-We believe that optimistic woman will pull through.
-
-95. take after  像某人
-The daughter really takes after her mother.  
-
-94. make sb. out to be
-把...说成  The old ladies make her out to be a bad person.
-
-92. reckon with sb
-认真对待  The father reckon with his son in a game of chess.
-
-91. in line for
-排队  We wait in line for our job interviews.
-
-90. make the best of a bad job
-尽力把损失减到最小  We made a mistake, but maybe we can make the best of a bad job and fix it soon.
-
-89. At a stroke
-一下子  At a stroke he knocked all ten pins down.
-
-88. from the outset
-从一开始 Both players wanted to win from the outset of the race.
-
-87. have(get) the upper hand
-取得优势，占上风  I tried my best, but she got the upper hand and beat me.
-
-86. on end
-直立  The man's hair is on end.
-
-85. sort out
-分类 I sorted the food out according to their varieties.
-
-84. on account of
-因为 He crashed his car again on account of his drinking.
-
-83. open sb's eyes to
-使某人看清 I was astonished when you opened my eyes to my boyfriend's nature.
-
-82. see eye to eye with
-看法完全一致 The two men really see eye to eye with each other and decide to work together.
-
-81. stick up
-竖起  When you stick up your thumb, you mean that you approve.
-
 80. stick out
 伸出  She sticks her arms out for the exercises.
 
@@ -257,6 +212,9 @@ After the fight they made up with each other.
 
 - at a loose end  不知做什么好
   He's at a loose end, he doesn't know which way to go.
+
+- At a stroke  一下子  
+  At a stroke he knocked all ten pins down.
 
 ## As
 - as soon as not  很愿意，再乐意不过
@@ -573,7 +531,6 @@ At first she was confused, but then she started to catch on.
 - for good (and all)  永久的，一劳永逸的
   You must quit smoking for good and all.
 
-
 ## Feed
 - feed up  对...厌烦
   I am feed up with all this argument.
@@ -597,6 +554,11 @@ At first she was confused, but then she started to catch on.
 ## Fall
 - falling out  闹翻（亲人、朋友、爱人之间）
   The falling out lovers is the renewing of love.
+
+## From
+- from the outset  从一开始
+  Both players wanted to win from the outset of the race.
+
 
 --------------------------------------------------------------------------------
 
@@ -717,6 +679,9 @@ At first she was confused, but then she started to catch on.
 - have the making of  具有成为...所需要的素质
   At only ten years old, the boy already has the making of a pro football player.
 
+- have(get) the upper hand  取得优势，占上风  
+  I tried my best, but she had(got) the upper hand and beat me.
+
 ## Help
 - help out  帮忙
   She's always willing to help out.
@@ -789,6 +754,12 @@ At first she was confused, but then she started to catch on.
 
 - in a row  接连
   He finished second in the championship four years in a row.
+
+- in a nutshell  一言以蔽之，简而言之
+  In a nutshell, the owners thought they knew best.
+
+- in line for  排队  
+  We wait in line for our job interviews.
 
 
 --------------------------------------------------------------------------------
@@ -962,10 +933,15 @@ At first she was confused, but then she started to catch on.
 - make sb's day  使某人快活
   He loved the present, it really made his day.
 
+- make sb. out to be  把...说成  
+  The old ladies make her out to be a bad person.
+
+- make the best of a bad job  尽力把损失减到最小  
+  We made a mistake, but maybe we can make the best of a bad job and fix it soon.
+
 ## Many
 - many a  许多
   Many a child knows only that much.
-
 
 ## Much
 - much less  更不用说，用在否定句中作连接词  == still less | let alone
@@ -1033,6 +1009,12 @@ You cannot buy the house, our agreement is null and void.
 - on and off 断断续续的
   Expect on and off thunderstorms this week.
 
+- on end  直立  
+  The man's hair is on end.
+
+- on account of  因为
+  He crashed his car again on account of his drinking.
+
 ## One
 - one another 彼此
   The couple really love one another.
@@ -1068,6 +1050,9 @@ You cannot buy the house, our agreement is null and void.
 - out of stock 无存货，已脱销
   Sorry, the store does not have what you want, we are out of stock.
 
+## Open
+- open sb's eyes to  使某人看清  
+  I was astonished when you opened my eyes to my boyfriend's nature.
 
 --------------------------------------------------------------------------------
 
@@ -1157,11 +1142,15 @@ You cannot buy the house, our agreement is null and void.
 - pull sth off  努力实现
   I'm pulling my dream off to make my parents proud.
 
-- pull oneself together   恢复镇定；振作起来
+- pull oneself together  恢复镇定；振作起来
   She pulled herself together before the big game by saying a prayer and concentrating.
 
-- pull over   开到路边
+- pull over  开到路边
   She pulled over to ask for help.
+
+- pull through  渡过难关；恢复健康
+  We believe that optimistic woman will pull through.
+
 
 ## Plead
 - plead guilty(not guilty)  服罪（不服罪）
@@ -1199,8 +1188,11 @@ You cannot buy the house, our agreement is null and void.
   In that case I don't think the responsibility should rest with us.
 
 ## Recon
-recon on 规划；估计
-The businessman reckons on his plans for the future.
+- recon on 规划；估计
+  The businessman reckons on his plans for the future.
+
+- reckon with sb  认真对待  
+  The father reckon with his son in a game of chess.
 
 
 --------------------------------------------------------------------------------
@@ -1267,11 +1259,14 @@ The businessman reckons on his plans for the future.
   Don't pay much attention to what he says, he likes to shoot the bull.
 
 ## Stick
-- stick to sb./sth.  忠于
+- stick to sb/sth  忠于
   The supporters stick to their leader, they really believe in him.
 
 - stick around  逗留
   My boyfriend had better come soon - I'm not going to stick around much longer.
+
+- stick up  竖起  
+  When you stick up your thumb, you mean that you approve.
 
 ## State
 - state of the art  体现最高水平的
@@ -1291,6 +1286,15 @@ The businessman reckons on his plans for the future.
 ## Stop
 - stop by  顺便走访
   I'll stop by see Leigh before going home.  
+
+## Sort
+- sort out  分类  
+  I sorted the food out according to their varieties.
+
+## See
+- see eye to eye with  看法完全一致  
+  The two men really see eye to eye with each other and decide to work together.
+
 
 --------------------------------------------------------------------------------
 
@@ -1361,6 +1365,9 @@ The businessman reckons on his plans for the future.
 
 - take to sb 喜欢
   The little boy really took to the girl, and now they play together every day.
+
+- take after  像某人
+  The daughter really takes after her mother.  
 
 ## Think
 - think nothing of = never mind  把...看作平常
