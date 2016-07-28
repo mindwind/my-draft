@@ -49,3 +49,14 @@ Four challenges:
 
 ## 8. Diagnostics
 No one is noticing the financial cost or the failure to develop people. Instead, if objectives are met, it seems as though a given leader is performing effectively.
+
+
+## 9. Performance Improvement
+Seven key areas:
+  1. Operating results
+  2. Customer results
+  3. Leadership results
+  4. Management results
+  5. Relationships
+  6. Social responsibility
+  7. Individual technical competence
