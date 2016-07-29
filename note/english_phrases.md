@@ -4,65 +4,25 @@ date      : 2015-09-18
 ---
 
 
-80. stick out
-伸出  She sticks her arms out for the exercises.
 
-79. let oneself go
-尽情  I really let myself go while on vacation.
 
-78. have one's say
-利用机会发表意见  The businessman took this opportunity to have his say and tell the boss what he thinks.
 
-77. stand off
-冷战；疏离  They've been arguing for hours, and there's no sign the stand off will end.
 
-76. know better
-很明白  I can't believe she smokes around her daughter, she should know better.
 
-75. make for sb/sth
-有助于  Fresh vegetable makes for youre health.
 
-74. pass away
-逝世  He passed away in his sleep last night.
 
-73. take sth in
-领会  She really took the book in and understood it well.
 
-72. look in on
-顺便看望  The boy wants to look in on his girlfriend.
 
-71. pass over
-忽略  The short player was passed over in favor of the tall players.
 
-70. be bent on
-专心致志于  Nowadays most people are bent on making as much money as they can.
 
-69. permeate through
-渗透，透入  Cigarette smoke permeates through clothing, making smokers stinky.
 
-68. first and foremost
-首先  First and foremost we should introduce ourselves.
 
-67. hand sth out
-分发  They're handing free newspapers out at the train station.
 
-66. set out
-出发  The group set out to the forest.
 
-65. bring about
-引起，导致  If one country falls, it can bring about change in many countries.
 
-64. be on good terms with sb
-关系好  The three ladies are on good terms with each other.
 
-63. come upon
-偶然遇见  The couple came upon each other while walking their dogs.
 
-62. set on sb
-攻击  She set on her attacker with a high kick.
 
-61. get somewhere
-有所成就  As the blue bar shows, this year we're finally getting somewhere with our company.
 
 - rise to the occasion
 应付自如  The game was hard, but the boy rose to the occasion and won the game.
@@ -311,6 +271,11 @@ He is two minds about which door he should take.
 - be obsessed with 缠住，烦扰
   The woman is obsessed with money.
 
+- be bent on  专心致志于  
+  Nowadays most people are bent on making as much money as they can.
+
+- be on good terms with sb  关系好  
+  The three ladies are on good terms with each other.
 
 ## By
 - by the book  照章办事
@@ -354,6 +319,9 @@ He is two minds about which door he should take.
 
 - bring up  养育
   A mother should bring up her child with love and care.
+
+- bring about  引起，导致  
+  If one country falls, it can bring about change in many countries.
 
 ## Break
 - break down  发生故障；失败
@@ -427,6 +395,9 @@ He is two minds about which door he should take.
 
 - come off  发生；举行
   The wedding came off with no problems at all.
+
+- come upon  偶然遇见  
+  The couple came upon each other while walking their dogs.
 
 ## Clear
 - clear up  变晴
@@ -559,6 +530,14 @@ At first she was confused, but then she started to catch on.
 - from the outset  从一开始
   Both players wanted to win from the outset of the race.
 
+## Fire
+- fire in the belly
+  Rocco does not have the same fire in his belly as his father.
+
+## First
+- first and foremost  首先  
+  First and foremost we should introduce ourselves.
+
 
 --------------------------------------------------------------------------------
 
@@ -609,6 +588,9 @@ At first she was confused, but then she started to catch on.
 
 - get round sth 规避，避开
   You can only get round the obstacle by going off the road.
+
+- get somewhere  有所成就  
+  As the blue bar shows, this year we're finally getting somewhere with our company.
 
 ## Go
 - go far  成功，大有前途
@@ -673,7 +655,7 @@ At first she was confused, but then she started to catch on.
   The chef hit on an idea for a new dish.
 
 ## Have
-- have one's hands full 忙得不可开交
+- have one's hands full  忙得不可开交
   He has his hands full with work.
 
 - have the making of  具有成为...所需要的素质
@@ -681,6 +663,9 @@ At first she was confused, but then she started to catch on.
 
 - have(get) the upper hand  取得优势，占上风  
   I tried my best, but she had(got) the upper hand and beat me.
+
+- have one's say  利用机会发表意见  
+  The businessman took this opportunity to have his say and tell the boss what he thinks.
 
 ## Help
 - help out  帮忙
@@ -704,8 +689,11 @@ At first she was confused, but then she started to catch on.
   He won eventually, but I managed to hold out against him for ten minutes.
 
 ## Hand
-- hand sth. over to sb  移交
+- hand sth over to sb  移交
   I'll hand the house keys over to you tomorrow.
+
+- hand sth out  分发  
+  They're handing free newspapers out at the train station.
 
 
 --------------------------------------------------------------------------------
@@ -796,6 +784,10 @@ At first she was confused, but then she started to catch on.
 - keep sth to oneself 不影响他人，独自享用
   During dinner, you should keep your work to yourself.
 
+## Know
+- know better  很明白  
+  I can't believe she smokes around her daughter, she should know better.
+
 
 --------------------------------------------------------------------------------
 
@@ -828,6 +820,9 @@ At first she was confused, but then she started to catch on.
 - look back on sth 回顾
   The old woman look back on their childhood memories together.
 
+- look in on  顺便看望  
+  The boy wants to look in on his girlfriend.
+
 ## Laugh
 - LOL - Laugh Out Loud  大笑，哈哈
   The Yanks look like a group of sailors, lol.
@@ -849,6 +844,9 @@ At first she was confused, but then she started to catch on.
 
 - let sb down  使失望
   Her daughter really let her mother down by not doing her homework.
+
+- let oneself go  尽情  
+  I really let myself go while on vacation.
 
 ## Lose
 - lose heart  丧失信心
@@ -938,6 +936,9 @@ At first she was confused, but then she started to catch on.
 
 - make the best of a bad job  尽力把损失减到最小  
   We made a mistake, but maybe we can make the best of a bad job and fix it soon.
+
+- make for sb/sth  有助于  
+  Fresh vegetable makes for your health.
 
 ## Many
 - many a  许多
@@ -1120,6 +1121,12 @@ You cannot buy the house, our agreement is null and void.
 - pass the time of day with  交谈；共渡
   The women like to pass the time of day with each other, just talking and sipping tea.
 
+- pass away  逝世  
+  He passed away in his sleep last night.
+
+- pass over  忽略  
+  The short player was passed over in favor of the tall players.
+
 ## Purple
 - purple passage  词藻华丽的段落
   I had been latching on to the purple passages like a child running after toffee.
@@ -1159,6 +1166,10 @@ You cannot buy the house, our agreement is null and void.
 ## Phase
 - phase out 逐渐淘汰
   Beepers were phased out when people started using cell phones.
+
+## Permeate
+- permeate through  渗透，透入  
+  Cigarette smoke permeates through clothing, making smokers stinky.
 
 
 --------------------------------------------------------------------------------
@@ -1204,6 +1215,13 @@ You cannot buy the house, our agreement is null and void.
 
 - set off  出发
   The pirates set off from the island.
+
+- set out  出发  
+  The group set out to the forest.
+
+
+- set on sb  攻击  
+  She set on her attacker with a high kick.
 
 - set about sth 着手
   Before you set about fixing a car, make sure you know what you're doing.
@@ -1254,6 +1272,9 @@ You cannot buy the house, our agreement is null and void.
 - stand in (for sb.)  代替
   Since he loves her, he has to stand in for the baby's real father.
 
+- stand off  冷战；疏离  
+  They've been arguing for hours, and there's no sign the stand off will end.
+
 ## Shoot
 - shoot the bull  吹牛
   Don't pay much attention to what he says, he likes to shoot the bull.
@@ -1267,6 +1288,9 @@ You cannot buy the house, our agreement is null and void.
 
 - stick up  竖起  
   When you stick up your thumb, you mean that you approve.
+
+- stick out  伸出  
+  She sticks her arms out for the exercises.
 
 ## State
 - state of the art  体现最高水平的
@@ -1368,6 +1392,9 @@ You cannot buy the house, our agreement is null and void.
 
 - take after  像某人
   The daughter really takes after her mother.  
+
+- take sth in  领会  
+  She really took the book in and understood it well.
 
 ## Think
 - think nothing of = never mind  把...看作平常
