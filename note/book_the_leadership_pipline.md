@@ -60,3 +60,7 @@ Seven key areas:
   5. Relationships
   6. Social responsibility
   7. Individual technical competence
+
+
+## 10. Succession Planning
+Success planning is perpetuating the enterprise by filling the pipeline with high-performance people to ensure that every leadership level has an abundance of these performers to draw from, both now and in the future.
