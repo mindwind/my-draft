@@ -64,3 +64,13 @@ Seven key areas:
 
 ## 10. Succession Planning
 Success planning is perpetuating the enterprise by filling the pipeline with high-performance people to ensure that every leadership level has an abundance of these performers to draw from, both now and in the future.
+
+The focus on people therefore is to determine not whether we have good people but whether we have the right people.
+
+
+## 11. Identifying Potential Pipeline Failures
+Relying on assumptions and general job descriptions or following in the footsteps of the person who had the job before them will frequently lead to failure.
+
+
+## 12. The Functional Career Passage
+Empowerment means freedom to do the right things rather than what one feels like doing. No one will value the new work if he doesn't do it.
