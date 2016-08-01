@@ -4,78 +4,6 @@ date      : 2015-09-18
 ---
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- rise to the occasion
-应付自如  The game was hard, but the boy rose to the occasion and won the game.
-
-- make sth. up   虚构
-  She is the swindler who makes everything up.
-
-- make up for  补偿，弥补  
-The man tried to make up for his mistakes by giving her flowers.
-
-- make up with sb.  与...和解  
-After the fight they made up with each other.
-
-57. give sth off
-发出（烟、气、光）  Guns give off smoke after they fire.
-
-56. take stock of
-估量，观察  The businessman takes stock of the different options.
-
-55. make sth out
-辨认出，理解  With all the fog, I can just barely make out his face.
-
-54. as for
-至于，就...方面说  As for our market share, it is going down.
-
-
-52. set in
-开始，生效  We'll have to wait until the drugs set in and she falls asleep.
-
-51. fall back on
-依赖，求助于  You can always fall back on him when you are in difficulties.
-
-50. find fault with
-挑剔；指责  He loved best to find fault with me.
-
-49. get nowhere
-无进展  I came up with many ideas, but I got nowhere with them.
-
-48. cut across
-抄近路通过  We'll cut across the forest and take the highway instead.
-
-47. hold one's ground
-坚持立场  He started yelling at me, but I held my ground and yelled back.
-
-46. hard and fast
-严格的，不能变通的 At the moment there is no hard and fast timetable.
-
-45. on the air
-直播中  Be quiet the TV show is on the air now.
-
-44. single out
-挑选，选出  The group singled out one man to make fun of.
-
 43. to one's face
 坦白的，当面 She is brave enough to tell the boss about his mistakes to his face.
 
@@ -182,6 +110,9 @@ After the fight they made up with each other.
 
 - as yet  到目前为止
   No one has as yet been able to produce the absolute zero of temperature.
+
+- as for  至于，就...方面说  
+  As for our market share, it is going down.
 
 ## All
 - all the same to  对...说来都一样；无所谓
@@ -364,6 +295,9 @@ He is two minds about which door he should take.
 - cut a deal  达成协议
   We should cut a deal before they sign with another company.
 
+- cut across  抄近路通过  
+  We'll cut across the forest and take the highway instead.
+
 ## Come
 - come to terms with sb.  与...达成协议
   We came to terms with each other and decided to work together.
@@ -518,6 +452,9 @@ At first she was confused, but then she started to catch on.
 - find one's bearings  指明方向
   My new GPS helps me find my bearings when I'm lost.
 
+- find fault with  挑剔；指责  
+  He loved best to find fault with me.
+
 ## Feel
 - feel for  同情
   "I really feel for you." the older woman said as she handed me tissues.
@@ -525,6 +462,9 @@ At first she was confused, but then she started to catch on.
 ## Fall
 - falling out  闹翻（亲人、朋友、爱人之间）
   The falling out lovers is the renewing of love.
+
+- fall back on  依赖，求助于  
+  You can always fall back on him when you are in difficulties.
 
 ## From
 - from the outset  从一开始
@@ -592,6 +532,9 @@ At first she was confused, but then she started to catch on.
 - get somewhere  有所成就  
   As the blue bar shows, this year we're finally getting somewhere with our company.
 
+- get nowhere  无进展  
+  I came up with many ideas, but I got nowhere with them.
+
 ## Go
 - go far  成功，大有前途
   With the right attitude, you can go far in life.
@@ -639,8 +582,11 @@ At first she was confused, but then she started to catch on.
 - give way to  给...让路；为...所代替
   When driving, you should always give way to pedestrians and especially kids.
 
-- give out 分发
+- give out  分发
   They're giving out free food.
+
+- give sth off  发出（烟、气、光）  
+  Guns give off smoke after they fire.
 
 
 --------------------------------------------------------------------------------
@@ -688,12 +634,19 @@ At first she was confused, but then she started to catch on.
 - hold out against 坚持，顶住
   He won eventually, but I managed to hold out against him for ten minutes.
 
+- hold one's ground  坚持立场  
+  He started yelling at me, but I held my ground and yelled back.
+
 ## Hand
 - hand sth over to sb  移交
   I'll hand the house keys over to you tomorrow.
 
 - hand sth out  分发  
   They're handing free newspapers out at the train station.
+
+## Hard
+- hard and fast  严格的，不能变通的
+  At the moment there is no hard and fast timetable.
 
 
 --------------------------------------------------------------------------------
@@ -907,9 +860,6 @@ At first she was confused, but then she started to catch on.
   He may well be proud of his success.
 
 ## Make
-- make up one's mind  决心
-  He has made up his mind to study hard.
-
 - make allowance for  顾及，体谅
   We should make allowance for the wishes of others.
 
@@ -925,13 +875,10 @@ At first she was confused, but then she started to catch on.
 - make light of  轻视
   The manager made light of the problems we were having.
 
-- make sb up  化妆
-  The woman makes herself up before going out on a date.
-
 - make sb's day  使某人快活
   He loved the present, it really made his day.
 
-- make sb. out to be  把...说成  
+- make sb out to be  把...说成  
   The old ladies make her out to be a bad person.
 
 - make the best of a bad job  尽力把损失减到最小  
@@ -939,6 +886,24 @@ At first she was confused, but then she started to catch on.
 
 - make for sb/sth  有助于  
   Fresh vegetable makes for your health.
+
+- make sth up  虚构
+  She is the swindler who makes everything up.
+
+- make sb up  化妆
+  The woman makes herself up before going out on a date.
+
+- make up with sb  与...和解  
+  After the fight they made up with each other.
+
+- make up for  补偿，弥补  
+  The man tried to make up for his mistakes by giving her flowers.
+
+- make up one's mind  决心
+  He has made up his mind to study hard.
+
+- make sth out  辨认出，理解  
+  With all the fog, I can just barely make out his face.
 
 ## Many
 - many a  许多
@@ -1015,6 +980,9 @@ You cannot buy the house, our agreement is null and void.
 
 - on account of  因为
   He crashed his car again on account of his drinking.
+
+- on the air  直播中  
+  Be quiet the TV show is on the air now.
 
 ## One
 - one another 彼此
@@ -1205,9 +1173,17 @@ You cannot buy the house, our agreement is null and void.
 - reckon with sb  认真对待  
   The father reckon with his son in a game of chess.
 
+## Rise
+- rise to the occasion  应付自如  
+  The game was hard, but the boy rose to the occasion and won the game.
+
 
 --------------------------------------------------------------------------------
 
+
+## Single
+- single out  挑选，选出  
+  The group singled out one man to make fun of.
 
 ## Set
 - set sth off  使爆炸
@@ -1219,12 +1195,14 @@ You cannot buy the house, our agreement is null and void.
 - set out  出发  
   The group set out to the forest.
 
-
 - set on sb  攻击  
   She set on her attacker with a high kick.
 
-- set about sth 着手
+- set about sth  着手
   Before you set about fixing a car, make sure you know what you're doing.
+
+- set in  开始，生效  
+  We'll have to wait until the drugs set in and she falls asleep.
 
 ## Settle
 - settle sb in  迁入新居
@@ -1395,6 +1373,9 @@ You cannot buy the house, our agreement is null and void.
 
 - take sth in  领会  
   She really took the book in and understood it well.
+
+- take stock of  估量，观察  
+  The businessman takes stock of the different options.
 
 ## Think
 - think nothing of = never mind  把...看作平常
