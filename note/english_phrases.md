@@ -4,56 +4,6 @@ date      : 2015-09-18
 ---
 
 
-43. to one's face
-坦白的，当面 She is brave enough to tell the boss about his mistakes to his face.
-
-42. stand by
-支持  Despite its problems, the woman stands by her country.
-
-41. hand sth down to sb
-遗留; 把…传递下来  The idea of handing down his knowledge from generation to generation is important to McLean.
-
-40. lay bare
-暴露，揭发  This pierced me like a sword, and seemed to lay bare my private disloyalty.
-
-39. come over sb
-支配；困扰 I don't know what's come over him.
-
-38. do away with
-废除；去掉  The long-range goal must be to do away with nuclear weapons altogether.
-
-37. cast sb/sth aside
-消除；废弃  Sweden needs to cast aside outdated policies and thinking.
-
-36. get down to business
-着手办正事  Stop arguing about procedure and let's get down to business.
-
-35. turn up
-打开；出现  No matter how often they turn up, their welcome never wears out.
-
-34. identify with
-认同；同情  She would only play a role if she could identify with the character.
-
-33. move away
-离开；改变   Beijing does need to move away from its export-orientation.
-
-32. out of
-由于  e.g. Out of respect for the dead, the rest has been told exactly as it occurred.
-
-31. as of
-截至 e.g. As of now we don't know much about Mars.
-
-30. step up
-走上；加速 e.g. He urged donors to step up their efforts to send aid to Somalia.
-
-29. come around
-造访；开始接受；改变主意  e.g. I need time to come around to this new idea.
-
-
-
---------------------------------------------------------------------------------
-
-
 ## A
 - a good deal of  很多的
   Some preteens are able to handle a good deal of responsibility.
@@ -113,6 +63,9 @@ date      : 2015-09-18
 
 - as for  至于，就...方面说  
   As for our market share, it is going down.
+
+- as of  截至
+  As of now we don't know much about Mars.
 
 ## All
 - all the same to  对...说来都一样；无所谓
@@ -333,6 +286,12 @@ He is two minds about which door he should take.
 - come upon  偶然遇见  
   The couple came upon each other while walking their dogs.
 
+- come over sb  支配；困扰
+  I don't know what's come over him.
+
+- come around  造访；开始接受；改变主意  
+  I need time to come around to this new idea.
+
 ## Clear
 - clear up  变晴
   After the rain, the sky clears up and a rainbow appears.
@@ -362,6 +321,9 @@ He is two minds about which door he should take.
 - cast off 丢弃
   They cast off their old furniture.
 
+- cast sb/sth aside  消除；废弃  
+  Sweden needs to cast aside outdated policies and thinking.
+
 ## Catch
 - catch on 理解
 At first she was confused, but then she started to catch on.
@@ -379,6 +341,9 @@ At first she was confused, but then she started to catch on.
 
 - do with  需要
   I'm so tired, I could really do with a nap today.
+
+- do away with  废除；去掉  
+  The long-range goal must be to do away with nuclear weapons altogether.
 
 ## Dumb
 - dumb sth down  （为使公众更易理解而）降低...标准，减少...的专业性
@@ -516,6 +481,7 @@ At first she was confused, but then she started to catch on.
 
 - get down to  开始认真对待
   It's time to get down to my tasks and start working.
+  Stop arguing about procedure and let's get down to business.
 
 - get round to doing sth  抽出时间做
   After putting it off for weeks, the man finally got round to mowing his lawn.
@@ -644,6 +610,9 @@ At first she was confused, but then she started to catch on.
 - hand sth out  分发  
   They're handing free newspapers out at the train station.
 
+- hand sth down to sb  遗留; 把…传递下来  
+  The idea of handing down his knowledge from generation to generation is important to McLean.
+
 ## Hard
 - hard and fast  严格的，不能变通的
   At the moment there is no hard and fast timetable.
@@ -701,6 +670,10 @@ At first she was confused, but then she started to catch on.
 
 - in line for  排队  
   We wait in line for our job interviews.
+
+## Identify
+- identify with  认同；同情  
+  She would only play a role if she could identify with the character.
 
 
 --------------------------------------------------------------------------------
@@ -821,6 +794,7 @@ At first she was confused, but then she started to catch on.
 
 - lay sth bare  显示；揭露
   The decision was easy for the judge after the truth was laid bare.
+  This pierced me like a sword, and seemed to lay bare my private disloyalty.
 
 - lay sth aside 储蓄
   I lay money aside for the future.
@@ -916,6 +890,10 @@ At first she was confused, but then she started to catch on.
 
 - much as  尽管
   We cannot come, much as we would like to.
+
+## Move
+- move away  离开；改变
+  Beijing does need to move away from its export-orientation.
 
 
 --------------------------------------------------------------------------------
@@ -1018,6 +996,9 @@ You cannot buy the house, our agreement is null and void.
 
 - out of stock 无存货，已脱销
   Sorry, the store does not have what you want, we are out of stock.
+
+- out of  由于  
+  Out of respect for the dead, the rest has been told exactly as it occurred.
 
 ## Open
 - open sb's eyes to  使某人看清  
@@ -1253,6 +1234,9 @@ You cannot buy the house, our agreement is null and void.
 - stand off  冷战；疏离  
   They've been arguing for hours, and there's no sign the stand off will end.
 
+- stand by  支持  
+  Despite its problems, the woman stands by her country.
+
 ## Shoot
 - shoot the bull  吹牛
   Don't pay much attention to what he says, he likes to shoot the bull.
@@ -1297,6 +1281,10 @@ You cannot buy the house, our agreement is null and void.
 - see eye to eye with  看法完全一致  
   The two men really see eye to eye with each other and decide to work together.
 
+## Step
+- step up  走上；加速  
+  He urged donors to step up their efforts to send aid to Somalia.
+
 
 --------------------------------------------------------------------------------
 
@@ -1322,6 +1310,9 @@ You cannot buy the house, our agreement is null and void.
 - to and fro  来回地，往复地
   She stood up and began to pace to and fro.
 
+- to one's face  坦白的，当面
+  She is brave enough to tell the boss about his mistakes to his face.
+
 ## Tie
 - tie the knot  结婚，喜结良缘
   I really want to tie the knot this years and start a family.
@@ -1333,6 +1324,9 @@ You cannot buy the house, our agreement is null and void.
 - turn out  
   We turn out for the meeting.  出席
   I feel that it will all turn out well.  结果是
+
+- turn up  打开；出现  
+  No matter how often they turn up, their welcome never wears out.
 
 ## Ten
 - ten to one  十之八九
