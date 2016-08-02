@@ -4,7 +4,7 @@ date      : 2016-05-10
 ---
 
 
-- self-titled debut album
+- Self-titled debut album
   首张同名专辑
 
 - To know everything is to know nothing.  
@@ -34,17 +34,21 @@ date      : 2016-05-10
 - That name escapes me.
   我想不起来那名字了
 
-- maternity leave  产假
+- Maternity leave  产假
   Her going on maternity leave will create a temporary vacancy.
 
-- cash crop  经济作物
+- Cash crop  经济作物
   As a major cash crop in America, corn has brought farmers a large income.
 
-- brown-nosing  拍马屁
+- Brown-nosing  拍马屁的
   In some companies, relationship-building has political overtones, suggesting brown-nosing behaviors.
 
-- litmus test  试金石，立见分晓的检验
+- Litmus test  试金石，立见分晓的检验
   Ending the fighting must be the absolute priority, the litmus test of the agreements' validity.
 
-- first thing  一大早
+- First thing  一大早
   A line formed at Vic's door first thing every morning.
+
+- Mount Everest  珠穆朗玛峰
+
+- Altitude sickness  高原反应
