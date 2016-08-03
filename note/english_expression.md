@@ -54,3 +54,8 @@ date      : 2016-05-10
 - Altitude sickness  高原反应
 
 - Board of director  董事会
+
+- Smoking gun  确切的证据
+  This memo could be the smoking gun that investigators have been looking for.
+
+- The House of Representatives  众议院
