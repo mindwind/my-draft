@@ -33,7 +33,7 @@ New business managers may feel they owe the out of loyalty or based on their pas
 
 
 ## 6. From Business Manager to Group Manager
-  - exceptional results, strong strategic skills, effective people development, passion for satisfying customers and well-developed business acument.
+  - exceptional results, strong strategic skills, effective people development, passion for satisfying customers and well-developed business acumen.
   - Breadth of thought and learning.
   - Peer influence.
 
@@ -74,3 +74,17 @@ Relying on assumptions and general job descriptions or following in the footstep
 
 ## 12. The Functional Career Passage
 Empowerment means freedom to do the right things rather than what one feels like doing. No one will value the new work if he doesn't do it.
+
+
+## 13. Coaching
+
+
+## 14. Benefits Up and Down the Line
+- Group executives
+  Coach business managers.
+
+- Business Managers
+  This leadership level is responsible for generating short-term profit as well as strategies that produce long-term success.
+
+- Managers of Managers
+  They're the ones who must help individual contributors adjust to their first managerial job, and they must make sure that these neophyte managers value being managers.
