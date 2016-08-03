@@ -443,6 +443,10 @@ At first she was confused, but then she started to catch on.
 - first and foremost  首先  
   First and foremost we should introduce ourselves.
 
+## Factor
+- factor in  把...计算在内
+  Using a computer model they factored in the costs of transplants for those women who die...
+
 
 --------------------------------------------------------------------------------
 

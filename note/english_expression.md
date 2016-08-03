@@ -52,3 +52,5 @@ date      : 2016-05-10
 - Mount Everest  珠穆朗玛峰
 
 - Altitude sickness  高原反应
+
+- Board of director  董事会
