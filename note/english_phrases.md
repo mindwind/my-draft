@@ -1289,6 +1289,9 @@ You cannot buy the house, our agreement is null and void.
 - step up  走上；加速  
   He urged donors to step up their efforts to send aid to Somalia.
 
+## Stake
+- stake out  明确表明，清楚界定(立场、要求等)
+  Those who want to take child abuse seriously today must stake out a humane child protection practice
 
 --------------------------------------------------------------------------------
 
