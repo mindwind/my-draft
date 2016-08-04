@@ -59,3 +59,5 @@ date      : 2016-05-10
   This memo could be the smoking gun that investigators have been looking for.
 
 - The House of Representatives  众议院
+
+- Talk the talk, walk the walk  说到做到

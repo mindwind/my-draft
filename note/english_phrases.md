@@ -883,6 +883,9 @@ At first she was confused, but then she started to catch on.
 - make sth out  辨认出，理解  
   With all the fog, I can just barely make out his face.
 
+- make a killing  突然发大财，暴发
+  Investors are set to make a killing from the sell - off
+
 ## Many
 - many a  许多
   Many a child knows only that much.
