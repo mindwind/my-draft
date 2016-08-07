@@ -68,6 +68,9 @@ date      : 2015-09-18
   As of now we don't know much about Mars.
 
 ## All
+- all there  头脑正常的；神志清醒
+  How can Beth be taken in? She is all there.
+
 - all the same to  对...说来都一样；无所谓
   It's all the same to her -- she doesn't care.
 
