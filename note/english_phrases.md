@@ -51,8 +51,12 @@ date      : 2015-09-18
 - at a loose end  不知做什么好
   He's at a loose end, he doesn't know which way to go.
 
-- At a stroke  一下子  
+- at a stroke  一下子  
   At a stroke he knocked all ten pins down.
+
+- at every turn  老是，处处
+  Its operations were hampered at every turn by inadequate numbers of trained staff.
+
 
 ## As
 - as soon as not  很愿意，再乐意不过
@@ -594,6 +598,9 @@ At first she was confused, but then she started to catch on.
 - House of Representative  众议院
   The member of the House of Representative (call congressmen) is elected for two years.
 
+- Household name  家喻户晓的名字
+  She became a household name in the 1960s.
+
 ## Hold
 - hold onto = hold firmly  抓住，抓牢
   Some parts of the wall are difficult to hold onto when rock climbing.
@@ -943,6 +950,11 @@ You cannot buy the house, our agreement is null and void.
 
 --------------------------------------------------------------------------------
 
+
+## Own
+- own up to  承认
+  If no one will own up to misbehaving, all pupils will be kept in after school. 
+
 ## Of
 - of late  近来，近年
   His life has changed of late.
@@ -1147,6 +1159,10 @@ You cannot buy the house, our agreement is null and void.
 
 - run into = bump into  与某人巧遇
   I ran into an old friend on the street yesterday.
+
+## Rip
+- rip off 敲...的竹杠; 对...漫天要价; 坑骗
+  The airlines have been accused of ripping off customers.
 
 ## Right
 - right along
