@@ -1,0 +1,38 @@
+--------------------------------------------------- re
+
+[:alnum:]					0-9 a-z A-Z
+[:alhpa:]					字母 a-z，A-Z
+[:digit:]					数字 0-9
+[:upper:]					大写字母 A-Z
+[:lower:]					小写字母 a-z，例：[^[:lower:]]oo  oo前不包含小写字符
+^						行首或反向选择，例：grep -n '^[[:lower:]]' regular_express.txt 小写字母开头， grep -n '^#' regular_express.txt 搜寻行首为 # 开始的那一行,并列出行号
+$						行末尾，例：grep -n '^$' regular_express.txt 查找空白行， grep -n '\.$' regular_express.txt 查找行末以.结尾的行
+. 						(小数点)代表『一定有一个任意字符』意思
+* 						(星号)代表『重复前一个 0到无穷多次』意思,为组合形态, .* 就代表零个或多个任意字符 例如：grep -n 'g.*g' regular_express.txt
+\{n,m\}						连续n到m个前一个RE字符，grep -n 'go\{2,5\}g' regular_express.txt，例如：找出 g 后面接 2 到 5 个 o ,然后再接一个 g 字符串
+\{n\}						连续n个的前一个RE字符
+\{n,\}						连续n个以上的前一个RE字符
+[list] 						搜寻含有 (gl) 或(gd) 的那一行,需要特别留意的是,在 [] 当中『谨代表一个待搜寻的字符』, grep -n 'g[ld]' regular_express.txt
+[n1-n2]						搜寻吨有任意数字的那一行!需特别留意,在字符集合 [] 中的减号 - 是有特殊意义的,他代表两个字符之间癿所有连续字符!但这个连续与否与ASCII编码有关 例如：grep -n '[0-9] 'regular_express.txt
+[^list]						那个 ^ 在 [] 内时,代 表的意义是『反向选择』的意思，例：grep -n 'oo[^t]' regular_express.txt 搜寻的字符串可以是 (oog) (ood) 但不能是 (oot)
+
+--------------------------------------------------- sed
+
+nl /etc/passwd | sed '2,5d'							将 /etc/passwd 的内容列出幵且打印行号,同时,请将第 2~5 行删 除!
+nl /etc/passwd | sed '2d'							只要删除第 2 行
+nl /etc/passwd | sed '3,$d'							删除第 3 到最后一行 
+nl /etc/passwd | sed '2a drink tea'						在第二行后(亦卲是加在第三行)加上『drink tea?』字样
+nl /etc/passwd | sed '2i drink tea'						在第二行前加上『drink tea?』字样
+nl /etc/passwd | sed '2a drink tea or\drink beer ?'				增加两行，中间用反斜杠分割\
+nl /etc/passwd | sed '2,5c No 2-5 number'					将第 2-5 行的内容叏代成为『No 2-5 number』
+nl /etc/passwd | sed -n '5,7p'							仅列出 /etc/passwd 档案内的第 5-7 行
+ifconfig eth0 | grep 'inet addr'|sed 's/^.*addr://g'|sed 's/Bcast.*$//g'	提取ip地址，sed 's/要被替换的字符串/新的字符串/g'
+cat /etc/man.config | grep 'MAN'| sed 's/#.*$//g' | sed '/^$/d'			提取MAN存在的那一行，排除空白行和#批注的行
+sed -e '4d' -e '6c no six line' > passwd.new					sed 后面如果要接超过两个以上癿劢作时,每个劢作前面得加 -e
+
+--------------------------------------------------- awk
+
+last -n 5 | awk '{print $1 "\t" $3}'						awk后面接两个单引号并加上大括号{}来设定想要对数据迚行的处理劢作，主要是处理『每一行的字段内的数据』,而默认的『字段的分隔符为 "空格键" 戒 "[tab]键" 』
+NF     										每一行 ($0) 拥有的字段总数NR     										目前 awk 所处理的是『第几行』数据FS     										目前的分隔字符,默认是空格键
+cat /etc/passwd | awk 'BEGIN {FS=":"} $3 < 10 {print $1 "\t " $3}'		查阅第三栏小于10 以下的数据,并且仅列出第一栏和第三栏
+ls -l | sed -n '$p'|awk '{print $9}'						取文件列表最后一行的文件名

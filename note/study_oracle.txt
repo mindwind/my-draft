@@ -1,0 +1,225 @@
+-- oerr ora 1403  查询oracle错误代码含义 
+ 
+-- 1. 查找重复记录
+SELECT * FROM TABLE WHERE ROWID != (SELECT MAX(ROWID) FROM TABLE t WHERE TABLE.标识唯一字段集 = t.标识唯一字段集); 
+-- eg.
+select * from tabsurveyanswer
+where ROWID!=(SELECT MAX(ROWID) FROM tabsurveyanswer D
+WHERE tabsurveyanswer.user_id=D.user_id AND tabsurveyanswer.SURVEY_ID=D.SURVEY_ID
+and tabsurveyanswer.question_id=D.question_id
+and tabsurveyanswer.answer_no=D.answer_no); 
+ 
+-- 2. 删除重复记录
+DELETE FROM TABLE WHERE ROWID != (SELECT MAX(ROWID) FROM TABLE t WHERE TABLE.标识唯一字段集 = t.标识唯一字段集); 
+-- eg.
+delete from tabsurveyanswer
+where ROWID!=(SELECT MAX(ROWID) FROM tabsurveyanswer D
+WHERE tabsurveyanswer.user_id=D.user_id AND tabsurveyanswer.SURVEY_ID=D.SURVEY_ID
+and tabsurveyanswer.question_id=D.question_id
+and tabsurveyanswer.answer_no=D.answer_no); 
+ 
+-- 3. 创建唯一索引
+CREATE UNIQUE INDEX 索引名 ON TABLE(索引字段集)
+-- eg.
+create unique index tabsurveyanswer_idx1 on tabsurveyanswer(user_id, survey_id, question_id, answer_no);
+ 
+-- 4. 索引重建
+ALTER INDEX 索引名 REBUILD;
+-- eg.
+alter index tabsurveyanswer_idx rebuild;
+ 
+-- 5. 显示初始分配空间
+select segment_name, bytes/1024 from user_segments where segment_name like '%TST_INDEX%';
+ 
+-- 6. 检查目前空间使用情况
+select segment_name, bytes/1024 from user_segments where segment_name like '%TST_INDEX%';
+ 
+-- 10. oracle 分页查询
+select *
+  from (select row_.*, rownum rownum_
+          from (select * from HJB_CLIENT_INFO clientinfo0_) row_)
+ where rownum_ <= 11
+   and rownum_ > 10;
+select *
+  from (select al.*, rownum rn from acct_item al)
+ where rn <= 16
+   and rn > 10;
+ 
+-- 11. 取oracle数据库当前日期时间
+select to_char(sysdate, 'YYYYMMDDHH24MISS') from dual
+ 
+-- 12. 查看oracle数据库字符集
+select userenv('language') from dual;
+select nls_charset_name(1) from dual
+ 
+-- 13. oracle索引创建和重建
+ALTER INDEX idx_name REBUILD NOLOGGING;
+ 
+-- 14. 逻辑读多的SQL 
+select *
+  from (select buffer_gets, sql_text
+          from v$sqlarea
+         where buffer_gets > 500000
+         order by buffer_gets desc)
+ where rownum <= 20;
+ 
+-- 15. 执行次数多的SQL
+select sql_text, executions
+  from (select sql_text, executions from v$sqlarea order by executions desc)
+ where rownum < 20;
+ 
+-- 16. 读硬盘多的SQL 
+select sql_text, disk_reads
+  from (select sql_text, disk_reads from v$sqlarea order by disk_reads desc)
+ where rownum < 20;
+ 
+-- 17. 排序多的SQL 
+select sql_text, sorts
+  from (select sql_text, sorts from v$sqlarea order by sorts desc)
+ where rownum < 20;
+
+ 
+-- 18. 锁表查询
+select p.spid,
+       c.object_name,
+       b.session_id,
+       b.oracle_username,
+       b.os_user_name
+  from v$process p, v$session a, v$locked_object b, all_objects c
+ where p.addr = a.paddr
+   and a.process = b.process
+   and c.object_id = b.object_id
+   
+SELECT l.session_id sid,
+       s.serial#,
+       l.locked_mode,
+       l.oracle_username,
+       s.user#,
+       l.os_user_name,
+       s.machine,
+       s.terminal,
+       a.sql_text,
+       a.action
+  FROM v$sqlarea a, v$session s, v$locked_object l
+ WHERE l.session_id = s.sid
+   AND s.prev_sql_addr = a.address
+ ORDER BY sid, s.serial#;
+ 
+-- 19. 解锁
+alter system kill session '146'; (其中146为锁住的进程号)
+ 
+-- 20. 查询连接到某表的所有外键(查某表的所有子表)   
+  select rcc.owner,
+        rcc.table_name,
+        rcc.constraint_name,
+        rcc.column_name,
+        c.table_name,
+        c.constraint_name,
+        cc.column_name
+   from user_constraints c, user_cons_columns cc, user_cons_columns rcc
+  where c.owner = 'ISAP_HN'
+    and rcc.table_name = 'NE_NE_TYPE'
+    and c.constraint_type = 'R'
+    and c.owner = cc.owner
+    and c.constraint_name = cc.constraint_name
+    and c.r_owner = rcc.owner
+    and c.r_constraint_name = rcc.constraint_name
+    and cc.position = rcc.position
+  order by c.constraint_name, cc.position
+ 
+-- 21. 查询外键约束(查某表的所有父表)   
+ select c.constraint_name,
+        cc.column_name,
+        rcc.owner,
+        rcc.table_name,
+        rcc.column_name
+   from user_constraints c, user_cons_columns cc, user_cons_columns rcc
+  where c.owner = 'ISAP_HN'
+    and c.table_name = 'WL_WORKITEM'
+    and c.constraint_type = 'R'
+    and c.owner = cc.owner
+    and c.constraint_name = cc.constraint_name
+    and c.r_owner = rcc.owner
+    and c.r_constraint_name = rcc.constraint_name
+    and cc.position = rcc.position
+  order by c.constraint_name, cc.position;
+ 
+-- 22. 查询活动session数
+Select count(*) from v$session where status='ACTIVE';
+ 
+-- 23. 诊断连接泄漏sql
+select count (*) from v$session;
+select count(*) from v$process;
+ 
+select count(*), SCHEMANAME, machine
+  from v$session
+ group by SCHEMANAME, machine;
+ 
+select count(*), v.PREV_SQL_ADDR, v.PREV_HASH_VALUE
+  from v$session v
+ group by v.PREV_SQL_ADDR, v.PREV_HASH_VALUE
+ order by count(*) desc;
+ 
+select *
+  from v$sql s
+ where s.ADDRESS = '07000000E1C3A0A0'
+   and s.HASH_VALUE = '2188879293';
+ 
+-- 24. 检查数据库
+    --索引blevel达到4或以上需重建
+    select * from dba_indexes t where t.table_owner='ISPP' and t.blevel>=4
+ 
+    --失效索引查询
+    select object_name, created, object_type, status
+    from user_objects
+    where object_type in ('INDEX', 'INDEX PARTITION')
+    and status = 'INVALID'
+ 
+    --查询大IO sql
+    SELECT disk_reads, sql_text
+    FROM (select sql_text,
+               disk_reads,
+               dense_rank() over(order by disk_reads desc) disk_reads_rank
+          from v$sql)
+    WHERE disk_reads_rank <= 5;
+ 
+    --表空间查询
+    SELECT to_char(sysdate, 'yyyy-mm-dd') "date",
+       Total.name "name",
+       round(nvl(Free_space, 0), 1) "FREE(M)",
+       round(nvl(total_space - Free_space, 0), 1) "USE(M)",
+       round(total_space, 1) "TOTAL(M)",
+       trunc((nvl(total_space - Free_space, 0) / total_space) * 100, 2) used_percent
+    FROM (select tablespace_name, sum(bytes / 1024 / 1024) Free_Space
+          from dba_free_space
+         group by tablespace_name) Free,
+       (select b.name, sum(bytes / 1024 / 1024) TOTAL_SPACE
+          from v$datafile a, v$tablespace b
+         where a.ts# = b.ts#
+         group by b.name) Total
+   WHERE Free.Tablespace_name(+) = Total.name
+   ORDER BY trunc((nvl(total_space - Free_space, 0) / total_space) * 100, 2) desc;
+   
+   --查询表和索引分析情况
+   select table_name, LAST_ANALYZED  from user_tables where table_name='WO_ORDER_ATTR_INFO';
+   select index_name, table_name, LAST_ANALYZED  from user_indexes where table_name=‘WO_ORDER_ATTR_INFO’; 
+
+25.创建数据库
+  
+-- 创建数据表空间
+create tablespace xdd_ts
+logging
+datafile 'D:\database\oracle\ora10_xdd.dbf' 
+size 32m 
+autoextend on 
+next 32m maxsize 2048m
+extent management local;
+ 
+-- 创建用户并指定表空间
+create user xdd identified by xdd
+default tablespace xdd_ts
+temporary tablespace temp;
+ 
+-- 给用户授予权限
+grant connect,resource to xdd;
+ 
