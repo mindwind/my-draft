@@ -61,3 +61,8 @@ date      : 2016-05-10
 - The House of Representatives  众议院
 
 - Talk the talk, walk the walk  说到做到
+
+- Trade union；Labour union  工会
+
+- Home stretch  最后阶段，冲刺阶段
+  The horse was three lengths ahead going into the home stretch.
