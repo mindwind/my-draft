@@ -244,6 +244,9 @@ He is two minds about which door he should take.
 - call it a day  收工
   After a long day of work, she calls it a day and goes home.
 
+- call at  进行短暂访问；停留
+  The next train at Platform 3 will be the 15:20 service for Bath Spa calling at Swindon.
+
 ## Cut
 - cut to the chase  不绕圈子，有话直说
   All right, let's stop the idle chatter and cut to the chase.
@@ -953,7 +956,7 @@ You cannot buy the house, our agreement is null and void.
 
 ## Own
 - own up to  承认
-  If no one will own up to misbehaving, all pupils will be kept in after school. 
+  If no one will own up to misbehaving, all pupils will be kept in after school.
 
 ## Of
 - of late  近来，近年
