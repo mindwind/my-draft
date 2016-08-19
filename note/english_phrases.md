@@ -91,6 +91,10 @@ date      : 2015-09-18
 - all out 全力以赴
   He goes all out to push the boulder up the hill.
 
+## And
+- and beyond  及其以后
+  The financing of home ownership will continue through the 1990s and beyond.
+
 ## Among
 - Among other things  除此之外，此外
   Among other things, we shrunk the size of the newspapers by an inch
