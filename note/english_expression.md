@@ -66,3 +66,5 @@ date      : 2016-05-10
 
 - Home stretch  最后阶段，冲刺阶段
   The horse was three lengths ahead going into the home stretch.
+
+- Ministry of Foreign Affairs  外交部
