@@ -2,3 +2,5 @@
 *.swp
 note/.study_jvm.md.swo
 slide/~$*
+
+.DS_Store
