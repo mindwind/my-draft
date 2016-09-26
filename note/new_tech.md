@@ -1,5 +1,5 @@
 ---
-title     : Study New Tech
+title     : New Tech
 date      : 2016-05-19
 ---
 
