@@ -38,6 +38,16 @@ Provide Options, Don't Make Lame Excuses
 提供各种选择，不要找蹩脚的借口
 
 
+### 2. 软件的熵
+> 控制熵增是软件演化的本质
+
+「熵」是一个来自物理学的概念，指的是某个系统中的「无序」的总量
+
+提示 4
+Don't Live with Broken Windows
+不要容忍破窗户
+
+
 ## 第 2 章：注重实效的途径  A Pragmatic Approach
 
 ### 7. 重复的危害
@@ -56,6 +66,21 @@ Make It Easy to Reuse
 让复用变得容易
 
 
+### 8. 正交性
+> 微服务化架构实际强化了正交性
+
+「正交性」是从几何学中借来的术语。如果两条直线相交成直角它们就是正交的，用向量术语说，这两条直线互不依赖。
+在计算机书中，该术语用于表示某种不相依赖性或是解耦性。如果两个或更多事物中的一个发生变化，不会影响其他事物。
+
+提示 13
+Eliminate Effects Between Unrelated Things
+消除无关事物之间的影响
+
+如果你编写正交的系统，你得到两个主要好处：提高生产率与降低风险。
+你可以对项目团队的正交性进行非正式衡量，只要看一看，在讨论每个所需改动时需要涉及多少人。人数越多，团队的正交性就越差。
+不要依赖你无法控制的事物属性。
+
+
 ## 第 3 章：基本工具  The Basic tools
 工具放大你的才干。你的工具越好，你越是能更好地掌握它们的用法，你的生产力就越高。
 要与工匠一样，想着定期增添工具，要总是寻找更好的做事方式。
@@ -69,6 +94,14 @@ Make It Easy to Reuse
 提示 20
 Keep Knowledge in Plain Text
 用纯文本保存知识
+
+
+### 15. shell 游戏
+> 初期学习的高成本需要在高频使用中来摊销
+
+提示 21
+Use the Power of Command Shells
+利用 shell 命令的力量
 
 
 ## 第 4 章：注重实效的偏执  Pragmatic Paranoia
@@ -90,6 +123,16 @@ Design with Contracts
 Liskov 替换原则：子类必须要能通过基类的接口使用，而使用者无须知道其区别。
 
 
+### 22. 死程序不说谎
+> 最怕要死不活的僵尸程序
+
+提示 32
+Crash Early
+早崩溃
+
+有许多时候，让你的程序崩溃是你的最佳选择。
+
+
 ## 第 5 章：弯曲，或折断  Bend, or Break
 
 ### 26. 解耦与得墨忒耳法则
@@ -103,6 +146,18 @@ Minimize Coupling Between Modules
 在数据库 schema 设计中，常常会为了改善性能而对 schema 进行「反规范化」：违反规范化规则，以换取速度。
 
 
+### 27. 元程序设计
+> 今天这已经是常识
+
+提示 37
+Configure, Don't Integrate
+要配置，不要集成
+
+提示 38
+Put Abstractions in Code, Details in Metadata
+将抽象放进代码，细节放进元数据
+
+
 ## 第 6 章：当你编码时  While You Are Coding
 
 ### 31. 靠巧合编程
@@ -113,6 +168,18 @@ Don't Program by Coincidence
 不要靠巧合编程
 
 不要只是测试你的代码，还要测试你的假定。不要猜测，要实际尝试它。
+
+
+### 32. 算法速率
+> 运行时测算去验证开发时的估算
+
+提示 45
+Estimate the Order of Your Algorithms
+估算你的算法的阶
+
+提示 46
+Test Your Estimates
+测试你的估算
 
 
 ## 第 7 章：在项目开始之前  Before The Project
@@ -145,6 +212,22 @@ Abstractions Live Longer than Details
 提示 54
 User a Project Glossary
 使用项目词汇表
+
+
+### 37. 解开不可能解开的谜题
+> 发散性思维
+
+提示 55
+Don't Think Outside the Box - Find the Box
+不要在盒子外面思考——要找到盒子
+
+
+### 38. 等你准备好
+> 心有疑虑，切勿躁动
+
+提示 56
+Listen to Nagging Doubts - Start When You're Ready
+倾听反复出现的疑虑——等你准备好再开始
 
 
 ## 第 8 章：注重实效的项目  Pragmatic Projects
