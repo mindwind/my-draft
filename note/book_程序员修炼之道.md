@@ -47,6 +47,19 @@ Provide Options, Don't Make Lame Excuses
 Don't Live with Broken Windows
 不要容忍破窗户
 
+### 3. 石头汤与煮青蛙
+> 在更高的维度让正确的事情发生
+
+提示 5
+Be a Catalyst for Change
+做变化的催化剂
+
+提示 6
+Remember the Big Picture
+记住大图景
+
+留心大图景，要持续不断地观察周围发生的事情，而不只是你自己在做的事情。
+
 
 ## 第 2 章：注重实效的途径  A Pragmatic Approach
 
@@ -81,6 +94,17 @@ Eliminate Effects Between Unrelated Things
 不要依赖你无法控制的事物属性。
 
 
+### 9. 可撤销性
+> 计划没有变化快
+
+管理人员往往与工程师趣味相投：单一、容易的答案正好可以放在电子表格和项目计划中。
+要把决策视为是写在沙滩上的，而不要把它们刻在石头上。大浪随时可能到来，把它们抹去。
+
+提示 14
+There Are No Final Decisions
+不存在最终决策
+
+
 ## 第 3 章：基本工具  The Basic tools
 工具放大你的才干。你的工具越好，你越是能更好地掌握它们的用法，你的生产力就越高。
 要与工匠一样，想着定期增添工具，要总是寻找更好的做事方式。
@@ -102,6 +126,14 @@ Keep Knowledge in Plain Text
 提示 21
 Use the Power of Command Shells
 利用 shell 命令的力量
+
+
+### 16. 强力编辑
+> 编辑器的选择是一种个人信仰问题。
+
+提示 22
+Use a Single Editor Well
+用好一种编辑器
 
 
 ## 第 4 章：注重实效的偏执  Pragmatic Paranoia
@@ -131,6 +163,16 @@ Crash Early
 早崩溃
 
 有许多时候，让你的程序崩溃是你的最佳选择。
+
+
+### 23. 断言式编程
+> 养成自检式编程习惯
+
+提示 33
+If It Can't Happen, Use Assertions to Ensure That It Won't
+如果它不可能发生，用断言确保它不会发生
+
+现实的情况是，对于任何复杂的程序，你甚至不大可能测试你的代码执行路径的排列数的极小一部分。
 
 
 ## 第 5 章：弯曲，或折断  Bend, or Break
