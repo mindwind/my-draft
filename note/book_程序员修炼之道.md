@@ -60,6 +60,13 @@ Remember the Big Picture
 
 留心大图景，要持续不断地观察周围发生的事情，而不只是你自己在做的事情。
 
+### 4. 足够好的软件
+> 先完成再完美，及时止步
+
+提示 7
+Make Quality a Requirements Issue
+使质量成为需求问题
+
 
 ## 第 2 章：注重实效的途径  A Pragmatic Approach
 
@@ -103,6 +110,15 @@ Eliminate Effects Between Unrelated Things
 提示 14
 There Are No Final Decisions
 不存在最终决策
+
+### 10. 曳光弹
+> 快速集成和迭代的开发方式，更好的可见性
+
+曳光弹与常规弹药交错着装在弹药袋上。发射时，曳光弹中的磷点燃，在枪与它们击中的地方之间留下一条烟火般的踪迹。如果曳光弹击中目标，那么常规子弹也会击中目标。
+
+提示 15
+Use Tracer Bullets to Find the Target
+用曳光弹找到目标
 
 
 ## 第 3 章：基本工具  The Basic tools
