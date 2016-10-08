@@ -291,6 +291,8 @@ Listen to Nagging Doubts - Start When You're Ready
 ## 第 8 章：注重实效的项目  Pragmatic Projects
 
 ### 41. 注重实效的团队
+> 建立团队文化
+
 提示 60
 Organize Around Functionality, Not Job Functions
 围绕功能、而不是工作职务进行组织
@@ -300,3 +302,42 @@ Organize Around Functionality, Not Job Functions
 技术主管还要不断关注大图景，设法找出团队之间任何不必要的，可能降低总体正交性的交叉。
 行政主管或项目经理调度各团队所需要的各种资源，监视并报告进展情况，并根据商业需要帮助确定各种优先级。
 与外界交流时，行政主管还要充当团队的大使。
+
+### 42. 无处不在的自动化
+> 自动化习惯是优秀程序员的属性体现
+
+文明通过增加我们不假思索就能完成的重要操作的数目而取得进步。
+    -- 阿尔弗雷德·诺斯·怀特海
+
+提示 61
+Don't Use Manual Procedures
+不要使用手工流程
+
+### 43. 无情的测试
+> 拥有完整的测试思维框架才能写出更好的程序
+
+提示 62
+Test Early. Test Often. Test Automatically.
+早测试，常测试，自动测试
+
+提示 63
+Coding Ain't Done 'Til All the Tests Run
+要通过全部测试，编码才算完成
+
+提示 64
+Use Saboteurs to Test Your Testing
+通过“蓄意破坏者”测试你的测试
+
+提示 65
+Test State Coverage, Not Code Coverage
+测试状态覆盖，而不是代码覆盖
+
+提示 66
+Find Bugs Once
+一个 bug 只抓一次
+
+一旦测试人员找到了某个 bug，这应该是测试人员最后一次发现这个 bug。
+应该对自动化测试进行修改，从此每次都检查那个特定的 bug，没有例外。
+
+dead-line: 在监狱里或监狱周围划出的一条线，犯人一旦越过，就有遭到枪击的危险。
+    -- 韦伯斯特大学词典
