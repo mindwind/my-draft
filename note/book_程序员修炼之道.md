@@ -135,14 +135,12 @@ Use Tracer Bullets to Find the Target
 Keep Knowledge in Plain Text
 用纯文本保存知识
 
-
 ### 15. shell 游戏
 > 初期学习的高成本需要在高频使用中来摊销
 
 提示 21
 Use the Power of Command Shells
 利用 shell 命令的力量
-
 
 ### 16. 强力编辑
 > 编辑器的选择是一种个人信仰问题。
@@ -151,6 +149,39 @@ Use the Power of Command Shells
 Use a Single Editor Well
 用好一种编辑器
 
+### 17. 源码控制
+> 这已是一个常识
+
+提示 23
+Always Use Source Code Control
+总是使用源码控制
+
+### 18. 调试
+>
+
+提示 24
+Fix the Problem, Not the Blame
+要修正问题，而不是发出指责
+
+提示 25
+Don't Panic
+不要恐慌
+
+在向他人解释问题时，你必须明确的陈述那些你在自己检查代码时想当然的事情。
+因为必须详细描述这些假定中的一部分，你可能会突然获得对问题的新洞见。
+
+提示 26
+"Select" Isn't Broken
+"Select" 没有问题
+> Select 是一个系统接口，这里指不要先怀疑库代码而是先怀疑自己
+
+bug 有可能存在于 OS、编译器、或是第三方产品中——但这不应该是你的第一想法。
+有大得多的可能性是 bug 存在于正在开发的应用代码中。
+与假定库本身除了问题相比，假定应用代码对库的调用不正确通常更有好处。
+
+提示 27
+Don't Assume it - Prove It
+不要假定，要证明。
 
 ## 第 4 章：注重实效的偏执  Pragmatic Paranoia
 提示 30
