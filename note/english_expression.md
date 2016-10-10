@@ -88,3 +88,6 @@ date      : 2016-05-10
 
 - Top Dog
   夺魁者；胜利者
+
+- Post-it note
+  便利贴；便签
