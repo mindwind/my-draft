@@ -120,6 +120,13 @@ There Are No Final Decisions
 Use Tracer Bullets to Find the Target
 用曳光弹找到目标
 
+### 11. 原型和便笺
+> 探索未知和减少风险的手段
+
+提示 16
+Prototype to Learn
+为了学习而制作原型
+
 
 ## 第 3 章：基本工具  The Basic tools
 工具放大你的才干。你的工具越好，你越是能更好地掌握它们的用法，你的生产力就越高。
@@ -247,6 +254,21 @@ Configure, Don't Integrate
 Put Abstractions in Code, Details in Metadata
 将抽象放进代码，细节放进元数据
 
+### 28. 时间耦合
+> 从设计时考虑并发与时序
+
+提示 39
+Analyze Workflow to Improve Concurrency
+分析工作流，以改善并发性
+
+提示 40
+Design Using Services
+用服务进行设计
+
+提示 41
+Always Design for Concurrency
+总是为并发进行设计
+
 
 ## 第 6 章：当你编码时  While You Are Coding
 
@@ -259,7 +281,6 @@ Don't Program by Coincidence
 
 不要只是测试你的代码，还要测试你的假定。不要猜测，要实际尝试它。
 
-
 ### 32. 算法速率
 > 运行时测算去验证开发时的估算
 
@@ -270,6 +291,13 @@ Estimate the Order of Your Algorithms
 提示 46
 Test Your Estimates
 测试你的估算
+
+### 33. 重构
+> 就像一个打扫房屋的收拾整理过程
+
+提示 47
+Refactor Early, Refactor Often
+早重构，常重构
 
 
 ## 第 7 章：在项目开始之前  Before The Project
