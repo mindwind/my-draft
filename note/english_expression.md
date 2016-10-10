@@ -85,3 +85,6 @@ date      : 2016-05-10
 
 - Ministry of Foreign Affairs  
   外交部
+
+- Top Dog
+  夺魁者；胜利者
