@@ -181,7 +181,8 @@ bug 有可能存在于 OS、编译器、或是第三方产品中——但这不�
 
 提示 27
 Don't Assume it - Prove It
-不要假定，要证明。
+不要假定，要证明
+
 
 ## 第 4 章：注重实效的偏执  Pragmatic Paranoia
 提示 30
