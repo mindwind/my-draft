@@ -91,3 +91,6 @@ date      : 2016-05-10
 
 - Post-it note
   便利贴；便签
+
+- No wonder it is so hard!
+  难怪那么难
