@@ -258,6 +258,20 @@ bug 有可能存在于 OS、编译器、或是第三方产品中——但这不�
 Don't Assume it - Prove It
 不要假定，要证明
 
+### 19. 文本操纵
+> 至少学会一种并熟练运用
+
+提示 28
+Learn a Text Manipulation Language
+学习一种文本操纵语言
+
+### 20. 代码生成器
+> 让生成的代码代表你，看上去像你自己写的一样
+
+提示 29
+Write Code That Writes Code
+编写能编写代码的代码
+
 
 ## 第 4 章：注重实效的偏执  Pragmatic Paranoia
 提示 30
@@ -296,6 +310,23 @@ If It Can't Happen, Use Assertions to Ensure That It Won't
 如果它不可能发生，用断言确保它不会发生
 
 现实的情况是，对于任何复杂的程序，你甚至不大可能测试你的代码执行路径的排列数的极小一部分。
+
+### 24. 何时使用异常
+> 分布式环境很多看上去是异常的错误应该当作正常
+
+提示 34
+Use Exceptions for Exceptional Problems
+将异常用于异常的问题
+
+### 25. 怎样配平资源
+> 在同一个地方成对出现
+
+提示 35
+Finish What You Start
+要有始有终
+
+  1. 以与资源分配的次序相反的次序解除资源的分配。
+  2. 在代码的不同地方分配同一组资源时，总是以相同的次序分配它们。
 
 
 ## 第 5 章：弯曲，或折断  Bend, or Break
