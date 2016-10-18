@@ -328,7 +328,6 @@ Finish What You Start
   1. 以与资源分配的次序相反的次序解除资源的分配。
   2. 在代码的不同地方分配同一组资源时，总是以相同的次序分配它们。
 
-
 ## 第 5 章：弯曲，或折断  Bend, or Break
 
 ### 26. 解耦与得墨忒耳法则
@@ -368,6 +367,20 @@ Design Using Services
 Always Design for Concurrency
 总是为并发进行设计
 
+### 29. 它只是视图
+> MVC 已成常识
+
+提示 42
+Separate Views from Models
+使视图与模型分离
+
+### 30. 黑板
+> 一种不太常见的思路，没有想到合适的场景
+
+提示 43
+Use Blackboards to Coordinate Workflow
+用黑板协调工作流
+
 
 ## 第 6 章：当你编码时  While You Are Coding
 
@@ -397,6 +410,26 @@ Test Your Estimates
 提示 47
 Refactor Early, Refactor Often
 早重构，常重构
+
+### 34. 易于测试的代码
+> 吃自己的狗粮
+
+提示 48
+Design to Test
+为测试而设计
+
+测试是技术，但更是文化。
+
+提示 49
+Test your Software, or Your Users Will
+测试你的软件，否则你的用户就得测试
+
+### 35. 邪恶的向导
+> 如今已不主流
+
+提示 50
+Don't Use Wizard Code You Don't Understand
+不要使用你不理解的向导代码
 
 
 ## 第 7 章：在项目开始之前  Before The Project
@@ -445,6 +478,29 @@ Don't Think Outside the Box - Find the Box
 提示 56
 Listen to Nagging Doubts - Start When You're Ready
 倾听反复出现的疑虑——等你准备好再开始
+
+
+### 39. 规范陷阱
+> 设计规约不宜过细，以指导性原则为宜
+
+提示 57
+Some Things Are Better Done than Described
+对有些事情“做”胜于“描述”
+
+作为注重实效的程序员，你应该倾向于把需求搜集，设计，以及实现视为同一个过程——交付高质量的系统——的不同方面。
+
+### 40. 圆圈与箭头
+> 不被方法论限制
+
+提示 58
+Don't Be a Slave to Formal Methods
+不要做形式方法的奴隶
+
+注重实效的程序员批判地看待方法学，并从各种方法学中提取精华，融合成每个月都在变得更好的一套工作习惯。
+
+提示 59
+Expensive Tools Do Not Produce Better Designs
+昂贵的工具不一定制作出更好的设计
 
 
 ## 第 8 章：注重实效的项目  Pragmatic Projects
