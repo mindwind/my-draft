@@ -79,6 +79,9 @@ date      : 2016-05-10
 - Trade union；Labour union  
   工会
 
+- Bench press
+  卧推
+
 - Home stretch  
   最后阶段，冲刺阶段
   The horse was three lengths ahead going into the home stretch.
