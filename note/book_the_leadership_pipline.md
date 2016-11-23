@@ -1,6 +1,5 @@
----
-date      : 2016-07-08
----
+# The Leadership Pipline
+2016-07-08
 
 
 ## 0. Introduction
