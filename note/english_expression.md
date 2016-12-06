@@ -60,3 +60,15 @@ date      : 2016-05-10
 
 - No wonder it is so hard!
   难怪那么难
+
+- Flat broke
+  一文不名
+  Going from flat broke to a million dollars in a month is deluding yourself.
+
+- Go out on a limb
+  担风险来支持某人
+  A fan that would go out on a limb to help their career in ways others just dream of.
+
+- on a kick
+  一时的狂热，心血来潮
+  Lately I've been a happiness kick.
