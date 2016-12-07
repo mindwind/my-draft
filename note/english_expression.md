@@ -69,6 +69,10 @@ date      : 2016-05-10
   担风险来支持某人
   A fan that would go out on a limb to help their career in ways others just dream of.
 
-- on a kick
+- On a kick
   一时的狂热，心血来潮
   Lately I've been a happiness kick.
+
+- On the spur of the moment.
+  一时冲动
+  They admitted they had taken a vehicle on the spur of the moment.
