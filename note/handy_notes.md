@@ -111,6 +111,10 @@ one of the most beautiful qualities of true friendship is to understand and to b
 Set your goals out of reach, but not out of sight.
     -- Scott H Young _Create an Unstoppable Drive_
 
+Have your billions made you happy?
+I’m reasonably happy, but the money’s not the point. It’s an indication that I’ve succeeded in the grand adventure of understanding reality.
+    -- George Soros
+
 
 ## 爱因斯坦
 不要努力成为一个成功的人，而要努力成为一个有价值的人。
