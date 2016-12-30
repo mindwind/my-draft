@@ -232,6 +232,11 @@ Set your goals out of reach, but not out of sight.
 一个好的社会结构或者组织结构，应该是地方自治，层层往上构建，因为动力来自于底层，而约束来自于上层。
 
 
+## 孟子
+爱人不亲，反其仁；治人不治，反其智；礼人不答，反其敬 —— 行有不得者，皆反求诸己。
+    -- 《孟子·离娄上》
+
+
 ## Derek Sivers
 Public comments are just feedback on something you created.
 They’re worth reading to see if your work has been misunderstood, to find ways it can be improved.
