@@ -76,3 +76,7 @@ date      : 2016-05-10
 - On the spur of the moment.
   一时冲动
   They admitted they had taken a vehicle on the spur of the moment.
+
+- rags-and-riches
+  白手起家
+  His was a rags-to-riches story and people admire that. 
