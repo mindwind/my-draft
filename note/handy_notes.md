@@ -5,6 +5,9 @@ date      : 2016-02-13
 
 
 ## 散记
+We are often not aware of the true significance of an event until that event becomes a memory.
+    -- 佚名 anonymity
+
 我们创造了工具，工具反过来塑造我们的思维。写作是塑造思维能力最好的工具。
     -- 麦克卢汉，20世纪原创媒介理论家
 
@@ -144,6 +147,10 @@ I’m reasonably happy, but the money’s not the point. It’s an indication th
 
 
 ## 万维钢
+关于“炫耀式消费”，经济学家有个更中性的称呼，叫“发信号”。
+我们无非是想通过一些外在的东西向别人发出代表自己的信号。奢侈品不是不应该买，发出正确信号有利于促进合作。
+    -- 《奢侈品的逻辑》
+
 普通打仗根本不需要特别聪明的士兵，你保持队形就行了。愚蠢化，恰恰是效率的保障。直到遇到危机为止。
 小钱要先给，大钱要后给。你让我去花时间挣一笔小钱，我懒得理你；但是如果你钱已经给我了，我不愿意欠你这个人情，所以我帮你。
 
