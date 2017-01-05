@@ -3,6 +3,13 @@ title     : English Expression
 date      : 2016-05-10
 ---
 
+- get a jump
+  尽早着手做某事
+  Why not let him get a jump on things?
+
+- throw temper tantrums
+ （小孩）乱发脾气
+  she tried to take the game away but John threw temper tantrums
 
 - Self-titled debut album
   首张同名专辑
@@ -79,4 +86,4 @@ date      : 2016-05-10
 
 - rags-and-riches
   白手起家
-  His was a rags-to-riches story and people admire that. 
+  His was a rags-to-riches story and people admire that.
