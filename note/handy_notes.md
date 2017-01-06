@@ -5,6 +5,10 @@ date      : 2016-02-13
 
 
 ## 散记
+
+走自己的路，让别人说去吧。
+    -- 但丁
+
 We are often not aware of the true significance of an event until that event becomes a memory.
     -- 佚名 anonymity
 
