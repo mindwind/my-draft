@@ -3,6 +3,14 @@ title     : English Expression
 date      : 2016-05-10
 ---
 
+- let alone
+  何况，更不用说
+  His cabin is uninhabitable in summer, let alone in winter.
+
+- throw in the towel
+  认输，心灰意冷
+  She will finally throw in the towel and give up.
+
 - get a jump
   尽早着手做某事
   Why not let him get a jump on things?
