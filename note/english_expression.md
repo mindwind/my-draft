@@ -19,6 +19,10 @@ date      : 2016-05-10
  （小孩）乱发脾气
   she tried to take the game away but John threw temper tantrums
 
+- cold turkey
+  突然戒毒疗法
+  The quickest way to get her off the drug was to let her go cold turkey.
+
 - Self-titled debut album
   首张同名专辑
 
