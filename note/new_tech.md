@@ -4,7 +4,7 @@ date      : 2016-05-19
 ---
 
 
-## 后端分布式
+## 后端
 - Kibana
   日志查询
 
@@ -20,9 +20,6 @@ date      : 2016-05-19
 - OpenFalcon
   监控系统 小米
 
-- RRD
-  时间序列数据库  
-
 - DTrace
   动态追踪工具
 
@@ -33,16 +30,7 @@ date      : 2016-05-19
   CEP规则引擎
 
 - DistributedLog
-  Twitter 开源分布式日志服务
-
-- Locust
-  基于 Python 的分布式压测工具
-
-- Tsung
-  基于 Erlang 的分布式压测工具，比 Locust 性能强劲
-
-- GraphicsMagick
-  图片处理库
+  Twitter 开源分布式日志服务  
 
 - Consul
   服务注册和发现
@@ -51,12 +39,31 @@ date      : 2016-05-19
   Java 协程
 
 
+## 存储
+- GraphicsMagick
+  图片处理库
+
+- RRD
+  时间序列数据库
+  
+
+## 测试
+- Locust
+  基于 Python 的分布式压测工具
+
+- Tsung
+  基于 Erlang 的分布式压测工具，比 Locust 性能强劲
+
+- Ngrinder
+  Java 开源，分布式性能测试平台
+
+
 ## 前端
 - Gulp    
   自动化构建工具
 
 
-## 机器学习
+## AI
 - Aerosolve
   机器学习 Airbnb
 
