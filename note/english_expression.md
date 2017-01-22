@@ -3,6 +3,10 @@ title     : English Expression
 date      : 2016-05-10
 ---
 
+- ride [on] somebody coat-tails
+  依仗某人提携
+  If they want to accelerate it or amplify it they can, but it will cost them to ride your coat-tails.
+
 - let alone
   何况，更不用说
   His cabin is uninhabitable in summer, let alone in winter.
