@@ -1,4 +1,4 @@
-# The Leadership Pipline
+# The Leadership Pipeline
 2016-07-08
 
 
