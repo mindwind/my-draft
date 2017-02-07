@@ -5,6 +5,12 @@ date      : 2016-02-13
 
 
 ## 散记
+Silience isn't empty. It's full of answers.
+    -- 佚名 anonymity
+
+他人即地狱。
+Hell might actually be other people.
+    -- Jean-Paul Sartre
 
 伟大的头脑谈论想法，中等的头脑谈论事件，弱小的头脑谈论人。
 Greate minds discuss ideas. Average minds discuss events. Small minds discuss people.
