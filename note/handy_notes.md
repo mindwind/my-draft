@@ -291,6 +291,10 @@ I’m reasonably happy, but the money’s not the point. It’s an indication th
 
 
 ## Derek Sivers
+Most people are so worried about looking good that they never do anything greate.
+Most people are so worried about doing something great that they never do anything at all.
+        --_I assume I'm below average_
+
 Public comments are just feedback on something you created.
 They’re worth reading to see if your work has been misunderstood, to find ways it can be improved.
     -- _The public you is not you_
