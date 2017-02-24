@@ -18,7 +18,7 @@ date      : 2016-02-13
 好的灵感离不开长期思考的积淀。
     -- 张益唐
 
-Silience isn't empty. It's full of answers.
+Silence isn't empty. It's full of answers.
     -- 佚名 anonymity
 
 他人即地狱。
@@ -229,6 +229,9 @@ I’m reasonably happy, but the money’s not the point. It’s an indication th
 
 
 ## 和菜头
+在一个现代社会里，技能可能是生活的基础保障，但是对于生活质量的贡献却极为有限，基本算不上是决定性因素。
+    --《技术男的毛病》
+
 你何时可以宣称一样品格是你真正拥有的？等你证明它摧毁不掉。
 你不曾为之付出任何代价的喜欢，不称其为一种喜欢。
 弄明白一百个道理都不如动手做好一件事情，完成一件事情本身，蕴含着成就的力量。
@@ -293,7 +296,7 @@ I’m reasonably happy, but the money’s not the point. It’s an indication th
 ## Derek Sivers
 Most people are so worried about looking good that they never do anything greate.
 Most people are so worried about doing something great that they never do anything at all.
-        --_I assume I'm below average_
+    --_I assume I'm below average_
 
 Public comments are just feedback on something you created.
 They’re worth reading to see if your work has been misunderstood, to find ways it can be improved.
