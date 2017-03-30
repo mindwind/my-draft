@@ -5,6 +5,9 @@ date      : 2016-02-13
 
 
 ## 散记
+Love and work are the cornerstones of our humanness.
+    -- Freud
+
 让你陷入困境的，并不是这个世界；真正让你陷入困境的，是这个世界最终并非你所想象。
     -- 马克·吐温
 
