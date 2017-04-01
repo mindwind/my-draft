@@ -252,6 +252,9 @@ I’m reasonably happy, but the money’s not the point. It’s an indication th
 
 
 ## 和菜头
+在今天，作品和创作者已经无法分开，脱离人谈作品毫无任何意义。
+    --《当代艺术和垃圾》
+
 写作是一种创造，创造物必须是有生命的东西。就像手掌中的一只鸟，握紧了会死，握松了就振翅远飞。
     --《写作课教案》
 
