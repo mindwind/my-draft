@@ -5,6 +5,12 @@ date      : 2016-02-13
 
 
 ## 散记
+一个帮助过你的人，比一个你帮助过的人，更愿意帮助你。
+    -- 本杰明·富兰克林
+
+未经检视的人生不值得活。 The unexamined life is not worth living.
+    -- 苏格拉底 Socrates
+
 Love and work are the cornerstones of our humanness.
     -- Freud
 
@@ -19,10 +25,6 @@ Love and work are the cornerstones of our humanness.
 
 人生的价值，并不是用时间，而是用深度去衡量的。
     -- 托尔斯泰
-
-I always knew looking back on the tears would make me laugh, but I never knew looking back on the laughs would make me cry.
-我知道再回首时，那些眼泪想来可笑；却不知再回眸时，那些欢声笑语也能叫我潸然泪下。
-    -- 词霸·每日一句
 
 如果你想造一条船，不要急着找人来收集物料，不要给他们分配任务和工作，而是教晓他们渴望浩瀚无际的大海...
     -- 《小王子》
@@ -306,6 +308,14 @@ I’m reasonably happy, but the money’s not the point. It’s an indication th
 ## 孟子
 爱人不亲，反其仁；治人不治，反其智；礼人不答，反其敬 —— 行有不得者，皆反求诸己。
     -- 《孟子·离娄上》
+
+
+## 词霸·每日一句
+I always knew looking back on the tears would make me laugh, but I never knew looking back on the laughs would make me cry.
+我知道再回首时，那些眼泪想来可笑；却不知再回眸时，那些欢声笑语也能叫我潸然泪下。
+
+Smile and silence are two powerful tools. Smile is the way to solve many problems and silence is the way to avoid many problems.
+微笑和沉默是两把利器：微笑解决很多问题，沉默避免许多问题。
 
 
 ## Derek Sivers
