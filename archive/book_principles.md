@@ -100,7 +100,7 @@ By and large, life will give you what you deserve and it doesn’t give a damn w
 __1) Setting Goals__  
 You can have virtually anything you want, but you can’t have everything you want.
 
-Put another way, to achieve your goals you have to prioritize, and that includes rejecting good alternatives (so that you have the time and resources to pursue even better ones—time being probably your greatest limiting factor, though, through leverage, you can substantially reduce time’s constraints).
+Put another way, to achieve your goals you have to prioritize, and that includes rejecting good alternatives (so that you have the time and resources to pursue even better ones — time being probably your greatest limiting factor, though, through leverage, you can substantially reduce time’s constraints).
 
 _Avoid setting goals based on what you think you can achieve._
 
