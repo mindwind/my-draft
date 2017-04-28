@@ -190,7 +190,7 @@ I’m reasonably happy, but the money’s not the point. It’s an indication th
     -- 雷蒙德·卡佛
 
 人无癖不可与交，以其无深情也。人无疵不可与交，以其无真气也。
-    -- 张岱
+    -- 张岱《陶庵梦忆》，明朝散文家
 
 三千年读史，不外功名利禄；九万里悟道，终归诗酒田园。
     -- 南怀瑾
