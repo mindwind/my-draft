@@ -348,6 +348,10 @@ I always knew looking back on the tears would make me laugh, but I never knew lo
 Smile and silence are two powerful tools. Smile is the way to solve many problems and silence is the way to avoid many problems.
 微笑和沉默是两把利器：微笑解决很多问题，沉默避免许多问题。
 
+Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind. - Bernard M. Baruch
+做你自己，说你想说，介意的人不重要，重要的人不介意。
+    -- Bernard M. Baruch
+
 
 ## Derek Sivers
 Most people are so worried about looking good that they never do anything greate.
