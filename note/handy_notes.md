@@ -352,6 +352,12 @@ Be who you are and say what you feel, because those who mind don't matter, and t
 做你自己，说你想说，介意的人不重要，重要的人不介意。
     -- Bernard M. Baruch
 
+The higher we soar the smaller we appear to those who cannot fly.  
+我们飞得越高在那些不能飞的人眼中的形象就越渺小。
+
+The future has several names. For the weak, it is the impossible. For the fainthearted, it is the unknown. For the thoughtful and valiant, it is the ideal. - Victor Hugo
+未来有几个名字；对软弱的人来说，未来叫做不可能；对胆小的人来说，未来叫做未知；对于深思熟虑且有勇气的人来说，未来叫做理想。– 雨果
+
 
 ## Derek Sivers
 Most people are so worried about looking good that they never do anything greate.
