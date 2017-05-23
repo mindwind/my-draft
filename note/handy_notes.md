@@ -5,6 +5,14 @@ date      : 2016-02-13
 
 
 ## 散记
+我们团队花了近一年的时间研究了全球170多款社交软件，给几万个 UGC 内容一个一个去标注它背后的需求，
+最后总结了六点社交心理需求模型：炫耀、荷尔蒙、孤独感、抒情、功利工具、发泄需求。微信切中了其中四种需求，它没法满足用户的荷尔蒙和发泄需求。
+    -- 朋友印象（匿名聊聊开发公司）联合创始人栗浩洋
+
+You don’t have a career. You have a life. Do the work. Keep the faith. (Hold the principles)
+You cannot convince people to love you. This is an absolute rule. No one will ever give you love because you want him or her to give it. Real love moves freely in both directions.
+    -- Cheryl Strayed _Tiny Beautiful Things_
+
 假如生活欺骗了你,
 不要悲伤，不要心急!
 忧郁的日子里需要镇静，
@@ -359,7 +367,12 @@ The higher we soar the smaller we appear to those who cannot fly.
 我们飞得越高在那些不能飞的人眼中的形象就越渺小。
 
 The future has several names. For the weak, it is the impossible. For the fainthearted, it is the unknown. For the thoughtful and valiant, it is the ideal. - Victor Hugo
-未来有几个名字；对软弱的人来说，未来叫做不可能；对胆小的人来说，未来叫做未知；对于深思熟虑且有勇气的人来说，未来叫做理想。– 雨果
+未来有几个名字；对软弱的人来说，未来叫做不可能；对胆小的人来说，未来叫做未知；对于深思熟虑且有勇气的人来说，未来叫做理想。
+    –- 雨果
+
+Hard work beats a talent when the talent fails to work hard. - Kevin Durant
+当天才不努力时，努力可以击倒天才。
+    -- 凯文•杜兰特
 
 
 ## Derek Sivers
