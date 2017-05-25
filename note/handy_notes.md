@@ -5,6 +5,9 @@ date      : 2016-02-13
 
 
 ## 散记
+We are whatever we pretend to be.
+    -- Kurt Vonnegut
+
 我们团队花了近一年的时间研究了全球170多款社交软件，给几万个 UGC 内容一个一个去标注它背后的需求，
 最后总结了六点社交心理需求模型：炫耀、荷尔蒙、孤独感、抒情、功利工具、发泄需求。微信切中了其中四种需求，它没法满足用户的荷尔蒙和发泄需求。
     -- 朋友印象（匿名聊聊开发公司）联合创始人栗浩洋
@@ -373,6 +376,10 @@ The future has several names. For the weak, it is the impossible. For the fainth
 Hard work beats a talent when the talent fails to work hard. - Kevin Durant
 当天才不努力时，努力可以击倒天才。
     -- 凯文•杜兰特
+
+It is very simple to be happy, but it is very difficult to be simple.
+快乐很简单，但要做到简单却很难。
+    -- 泰戈尔
 
 
 ## Derek Sivers
