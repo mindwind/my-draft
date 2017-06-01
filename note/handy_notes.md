@@ -390,3 +390,6 @@ Most people are so worried about doing something great that they never do anythi
 Public comments are just feedback on something you created.
 They’re worth reading to see if your work has been misunderstood, to find ways it can be improved.
     -- _The public you is not you_
+
+Success comes from persistently improving and inventing, not from persistently doing what’s not working.
+    -- _If it’s not a hit, switch_
