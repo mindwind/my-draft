@@ -5,6 +5,9 @@ date      : 2016-02-13
 
 
 ## 散记
+过去未去，未来已来。
+    -- 钱穆
+
 We are whatever we pretend to be.
     -- Kurt Vonnegut
 
