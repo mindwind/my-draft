@@ -5,6 +5,17 @@ date      : 2016-02-13
 
 
 ## 散记
+我们不是通过节省时间来打造我们想过的生活。我们应该先设定我们想要的生活，这样时间就会自然而然地省出来。
+    -- 劳拉·万德坎姆（Laura Vanderkam）美国著名畅销书作家
+
+Only the best is good enough. 
+追求极致。
+    -- Founder of Lego  Ole Kirk Christiansen（乐高创始人 克里斯琴森）
+
+A lie gets halfway around the world before truth has a chance to get its pants on.
+真相还没机会穿上裤子的时候，谎言已经跑遍了半个世界。
+    -- Time
+
 过去未去，未来已来。
     -- 钱穆
 
