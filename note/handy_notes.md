@@ -5,6 +5,23 @@ date      : 2016-02-13
 
 
 ## 散记
+音乐家演奏乐器，而我演奏乐队。
+The musicians play their instruments. I play the orchestra.
+  -- Steve Jobs
+
+成功地鼓舞人心的讲话都包含以下三个要素：指明方向、表达同理心，以及传达使命感。
+Most successful pep talks include three key elements: direction giving, expressions of empathy, and meaning making.
+在成为一位真正领导者的路上，会有一个关键时刻，那就是当你认识到，你存在的意义，并不是你比别人做得更多，而是和别人共同做的更多的时刻。
+  -- The Talent Curse _Harvard Business Review_
+
+__游戏与电影、小说的核心区别__  
+小说和电影是讲述故事的工具，而游戏是创作故事的空间。
+也就是说，在电影和小说里，所有情节都是设定好的，你没有什么自主权，不可能化身为电影和小说里的主角，只能跟随他们的决定，去看他们经历了什么。
+但现在的游戏有一个特点，就是只给主角的起源、人物的身世，但是接下来操纵人物做什么，完全由你决定，这就是故事创作的空间。
+游戏在帮你自己创造故事，讲述自己版本的经历和遭遇，这是小说和电影这种媒介（Medium），完全没有办法做到的。
+这种自由度和控制权，是游戏独有的。
+    -- Video Games Are Changing the Hero _Nautilus_
+
 我们不是通过节省时间来打造我们想过的生活。我们应该先设定我们想要的生活，这样时间就会自然而然地省出来。
     -- 劳拉·万德坎姆（Laura Vanderkam）美国著名畅销书作家
 
@@ -14,7 +31,7 @@ Only the best is good enough. 
 
 A lie gets halfway around the world before truth has a chance to get its pants on.
 真相还没机会穿上裤子的时候，谎言已经跑遍了半个世界。
-    -- Time
+    -- _Time_
 
 过去未去，未来已来。
     -- 钱穆
