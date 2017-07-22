@@ -5,6 +5,9 @@ date      : 2016-02-13
 
 
 ## 散记
+世界上任何书籍都不能带给你好运，当时它们能让你悄悄成为你自己。
+  -- 赫尔曼·黑塞
+
 音乐家演奏乐器，而我演奏乐队。
 The musicians play their instruments. I play the orchestra.
   -- Steve Jobs
