@@ -5,6 +5,10 @@ date      : 2016-02-13
 
 
 ## 散记
+Memory is a wonderful thing if you don't have to deal with the past.
+回忆本事非常美好的，只要你能让过去的都过去。
+  -- _Before Sunset_
+
 世界上任何书籍都不能带给你好运，当时它们能让你悄悄成为你自己。
   -- 赫尔曼·黑塞
 
