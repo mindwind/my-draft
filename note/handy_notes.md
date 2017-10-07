@@ -5,6 +5,9 @@ date      : 2016-02-13
 
 
 ## 散记
+We appear and we disappear, and we're important to some, but we're just passing through.
+  -- _Before Midnight_
+
 Memory is a wonderful thing if you don't have to deal with the past.
 回忆本事非常美好的，只要你能让过去的都过去。
   -- _Before Sunset_
