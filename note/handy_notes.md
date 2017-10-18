@@ -427,9 +427,12 @@ It is very simple to be happy, but it is very difficult to be simple.
 快乐很简单，但要做到简单却很难。
     -- 泰戈尔
 
+The mature never ask the past, the wise never ask the present and the open-minded never ask the future.
+成熟的人不问过去，聪明的人不问现在，豁达的人不问未来。
+
 
 ## Derek Sivers
-Most people are so worried about looking good that they never do anything greate.
+Most people are so worried about looking good that they never do anything great.
 Most people are so worried about doing something great that they never do anything at all.
     --_I assume I'm below average_
 
