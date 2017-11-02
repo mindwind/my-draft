@@ -5,6 +5,10 @@ date      : 2016-02-13
 
 
 ## 散记
+
+金银之气见于上，下必为覆军之墟。
+  --《天官书》
+
 We appear and we disappear, and we're important to some, but we're just passing through.
   -- _Before Midnight_
 
