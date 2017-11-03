@@ -406,6 +406,9 @@ _教育_
 
 
 ## 词霸·每日一句
+Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful.
+天赋是上帝给予的，要谦虚。名声是别人给予的，要感激。自负是自己给的，要小心。
+
 I always knew looking back on the tears would make me laugh, but I never knew looking back on the laughs would make me cry.
 我知道再回首时，那些眼泪想来可笑；却不知再回眸时，那些欢声笑语也能叫我潸然泪下。
 
