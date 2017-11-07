@@ -36,10 +36,10 @@ How can I carve myself out a niche that only I have?
 Because most of us say yes to too much stuff, and then, we let these little, mediocre things fill our lives... The problem is, when that occasional, 'Oh my God, hell yeah!' things comes along, you don't have enough time to give it the attention that you should, because you've said yes to too much other little, half-ass stuff, right?
 
 ## Matt Mullenweg
-It turns out that I graduated from high school, I had already used 93% of my in-person parent time. I'm now enjoying the last 5% of that time. We're in the tail end.
+It turns out that I graduated from high school, I had already used 93% of my in-person parent time. I'm now enjoying the last 5% of that time. We're in the tail end.  
     -- Tim Urban _The Tail End_
 
-You asked about what we look for in candidates: clarity of writing. I think clarity of writing indicates clarity of thinking.
+You asked about what we look for in candidates: __clarity of writing. I think clarity of writing indicates clarity of thinking.__
 > 故事：邮件交互面试
 
 ## Tony Robbins
@@ -54,11 +54,11 @@ __Quality Questions Create a Quality Life__
 The quality of your life is the quality of your questions. Questions determine your focus.
 
 ## Casey Neistat
-If you would not be forgotten as soon as you are dead and rotten, either write things worth reading, or do things worth writing.
+If you would not be forgotten as soon as you are dead and rotten, either write things worth reading, or do things worth writing.  
     -- Ben Franklin
 
 ## Reid Hoffman
-The limits of my language mean the limits of my world.
+The limits of my language mean the limits of my world.  
     -- Ludwig Wittgenstein
 
 If they don't just accept the strategy you hand them, they should suggest modifications to the plan based on their closeness to the details.
@@ -74,7 +74,7 @@ Are you going to college because it's a 4-year party? Is it a consumption decisi
 Because once you get enough bad ideas, then some good ones have to show up.
 
 ## Scott Adams
-Losers have goals. Winners have systems.
+__Losers have goals. Winners have systems.__
 "What persistent skills or relationships can I develop?" versus "What short-term goal can I achieve?"
 blogging was a system, not a goal.
 
@@ -106,12 +106,12 @@ Great men have almost always shown themselves as ready to obey as they afterward
 In the early stage, at the seed of an idea, the bet is largely based on the quality of the team, and the emotional connection you fell with the product.
 
 ## Mike Shinoda
-It is far better for a man to go wrong in freedom than to go right in chains.
+It is far better for a man to go wrong in freedom than to go right in chains.  
     -- Thomas Huxley
 
 ## How to Earn Your Freedom
-I don't like work, but I like what is in the work -- the chance to find yourself.
-    -- Joseph Conrad _Heart of Darkness_
+__I don't like work, but I like what is in the work -- the chance to find yourself.__  
+    -- Joseph Conrad, _Heart of Darkness_
 
 ## Peter Diamandis
 1. When you're going 10% bigger, you're competing against everybody. When you're trying to go 10 times bigger, you're there by yourself.
@@ -123,24 +123,25 @@ The faster you move, the slower time passes, the longer you live.
 
 
 ## How to Say "No" When It Matters Most
-Life favors the specific ask and punishes the vague wish.
+__Life favors the specific ask and punishes the vague wish.__
 
-An investment that produces a massive financial ROI but makes me a complete nervous mess, or causes insomnia and temper tantrums for a long period of time, is NOT a good investment.
+__An investment that produces a massive financial ROI but makes me a complete nervous mess, or causes insomnia and temper tantrums for a long period of time, is NOT a good investment.__
 
 
 ## Part 3: Wise
 ## Maria Popova
-Those who work much, do not work hard. -- Henry David Thoreau
+Those who work much, do not work hard.   
+-- Henry David Thoreau
 
 ## General Stanley McChrystal & Chris Fussell
-You should have a running list of three people that you're always watching: someone senior to you that you want to emulate, a peer who you think is better at the job than you are and who you respect, and someone subordinate who's doing the job you did -- one, two, or three years ago -- better than you did it.
+__You should have a running list of three people that you're always watching: someone senior to you that you want to emulate, a peer who you think is better at the job than you are and who you respect, and someone subordinate who's doing the job you did -- one, two, or three years ago -- better than you did it.__
 
 ## Will MacAskill
 nature of the job
 It's whether the job provides a lot of variety, gives you good feedback, allows you to exercise autonomy, contributes to the wider world - Is it acutually meaningful? Is it making the world better? - and also, whether it allows you to exercise a skill that you've developed.
 
 ## Kevin Kelly
-Write to get ideas, not to express them.
+__Write to get ideas, not to express them.__
 What I discovered, which is what many writers discover, is that I write in order to think.
 
 ## Bryan Callen
@@ -162,21 +163,21 @@ I think that our life is a journey, dig deep on your journey and the world will 
 If you want to be successful, surround yourself with people who are more successful than you are, but if you want to be happy, surround yourself with people who are less successful than you are.
 
 What you choose to work on, and who you choose to work with, are far more important than how hard you work.
-Free education is abundant, all over the Internet. It's the desire to learn that's scarce.
+__Free education is abundant, all over the Internet. It's the desire to learn that's scarce.__
 
 ## Testing the "impossible": 17 Questions that Changed My Life
-Whenever you find your on the side of the majority, it is time to pause and reflect.
+Whenever you find your on the side of the majority, it is time to pause and reflect.  
     -- Mark Twain
 
-No hurry, no pause.
+__No hurry, no pause.__
 
-Slow is smooth. Smooth is fast.
+Slow is smooth. Smooth is fast.  
   -- Navy SEAL principle
 
 ## Jamie Foxx
-When you raise your kids, you're the bow, they're the arrow, and you just try to aim them in the best direction that you can, and hopefully your aim isn't too off.
+__When you raise your kids, you're the bow, they're the arrow__, and you just try to aim them in the best direction that you can, and hopefully your aim isn't too off.
 
 
 ## Conclusion
-Learn the rules like a pro, so you can break them like a artist
+__Learn the rules like a pro, so you can break them like a artist.__    
     -- Pablo Picasso
