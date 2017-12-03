@@ -172,6 +172,9 @@ We are often not aware of the true significance of an event until that event bec
 决定是容易的，等待是困难的。  
     -- 李宗盛《你像个孩子》
 
+诗人对宇宙人生,须入乎其内,又须出乎其外,入乎其内,故能写之.出乎其外,故能观之,入乎其内,故有生气.出乎其外,故有高致
+    -- 王国维《人间词话》
+    
 最是人间留不住，朱颜辞镜花辞树。
     -- 王国维
 
