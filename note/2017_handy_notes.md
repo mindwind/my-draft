@@ -411,6 +411,9 @@ _教育_
 
 
 ## 词霸·每日一句
+Anybody can sympathize with the sufferings of a friend, but it requires a very fine nature to sympathize with a friend's success.  
+同情一个朋友的苦难是任何人都能做到的，但认同一个朋友的成功则需要十分出色的素质。
+
 Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful.
 天赋是上帝给予的，要谦虚。名声是别人给予的，要感激。自负是自己给的，要小心。
 
