@@ -5,29 +5,32 @@ date      : 2016-02-13
 
 
 ## 散记
+你的内心肯定有着某种火焰，能把你和其他人区别开来。
+    --《青春》 约翰·马克斯韦尔·库切
+
 心理学有句话：潜意识负责做决定，意识负责找理由。
 
 金银之气见于上，下必为覆军之墟。
-  --《天官书》
+    --《天官书》
 
 We appear and we disappear, and we're important to some, but we're just passing through.
-  -- _Before Midnight_
+    -- _Before Midnight_
 
 Memory is a wonderful thing if you don't have to deal with the past.
 回忆本事非常美好的，只要你能让过去的都过去。
-  -- _Before Sunset_
+    -- _Before Sunset_
 
 世界上任何书籍都不能带给你好运，当时它们能让你悄悄成为你自己。
-  -- 赫尔曼·黑塞
+    -- 赫尔曼·黑塞
 
 音乐家演奏乐器，而我演奏乐队。
 The musicians play their instruments. I play the orchestra.
-  -- Steve Jobs
+    -- Steve Jobs
 
 成功地鼓舞人心的讲话都包含以下三个要素：指明方向、表达同理心，以及传达使命感。
 Most successful pep talks include three key elements: direction giving, expressions of empathy, and meaning making.
 在成为一位真正领导者的路上，会有一个关键时刻，那就是当你认识到，你存在的意义，并不是你比别人做得更多，而是和别人共同做的更多的时刻。
-  -- The Talent Curse _Harvard Business Review_
+    -- The Talent Curse _Harvard Business Review_
 
 __游戏与电影、小说的核心区别__  
 小说和电影是讲述故事的工具，而游戏是创作故事的空间。
@@ -174,7 +177,7 @@ We are often not aware of the true significance of an event until that event bec
 
 诗人对宇宙人生,须入乎其内,又须出乎其外,入乎其内,故能写之.出乎其外,故能观之,入乎其内,故有生气.出乎其外,故有高致
     -- 王国维《人间词话》
-    
+
 最是人间留不住，朱颜辞镜花辞树。
     -- 王国维
 
